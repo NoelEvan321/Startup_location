@@ -1,0 +1,756 @@
+,City,Arcade,Venue_ID,Venue_Name,Venue_Address
+0,"Atlanta, GA",2 Water Street - Arcade,4dd18693ae60fb3f53acb7a7,NYC HHC Office,33 Whitehall St
+1,"Atlanta, GA",2 Water Street - Arcade,59b1aae02e26805019543ab8,Continental Stock Transfer & Trust,1 State St
+2,"Atlanta, GA",2 Water Street - Arcade,5c50c0c13731ee002c8cbb6e,Pool @ Whitehall Nyhrc,No Address
+3,"Atlanta, GA",2 Water Street - Arcade,4acd4277f964a52099cb20e3,New York Health & Racquet Club,39 Whitehall St
+4,"Atlanta, GA",2 Water Street - Arcade,610422c76e509940e45d9cc8,El Omal,Water St
+5,"Atlanta, GA",2 Water Street - Arcade,4be2c7d1f07b0f47aa27f643,The Juice Truck,Whitehall St
+6,"Atlanta, GA",2 Water Street - Arcade,4b81712ff964a52041a630e3,2 Water Street,2 Water St
+7,"Atlanta, GA",2 Water Street - Arcade,5dc95e1e61f86c000845f774,Citibike Station,Water - Whitehall Plaza
+8,"Atlanta, GA",2 Water Street - Arcade,523706fa11d25eb29ab14c95,Sterling Infosystems,1 State St
+9,"Atlanta, GA",2 Water Street - Arcade,4ae707bef964a52007a821e3,SourceMedia,1 State St
+10,"Atlanta, GA",2 Water Street - Arcade,4cd1cafcfd42199cd1a2c56e,Davis Brody Bond,1 New York Plz
+11,"Atlanta, GA",2 Water Street - Arcade,4b3a50c6f964a520796425e3,One New York Plaza,1 New York Plz
+12,"Atlanta, GA",2 Water Street - Arcade,4b466b09f964a520452026e3,MTA Subway - South Ferry (1),South Ferry
+13,"Atlanta, GA",2 Water Street - Arcade,4c114a38d917c9280379b562,1 State Street,1 State St
+14,"Atlanta, GA",2 Water Street - Arcade,4eb941579a52ad1e408b608c,South Street,No Address
+15,"Atlanta, GA",2 Water Street - Arcade,4b435e5ef964a52009df25e3,MTA Subway - Whitehall St (R/W),Whitehall St
+16,"Atlanta, GA",2 Water Street - Arcade,4da2fe95c6e96ea8a3a9df5d,Urban Farm at Battery Park,Battery Park
+17,"Atlanta, GA",2 Water Street - Arcade,42daf100f964a52035261fe3,Battery Park,Battery Pl
+18,"Atlanta, GA",5th ave. arcade inc.,4b364e18f964a520893225e3,Boom Fitness,4 Park Ave
+19,"Atlanta, GA",5th ave. arcade inc.,4c53005e048b1b8d54fb5331,Vizeum,No Address
+20,"Atlanta, GA",5th ave. arcade inc.,4f9ab1dbd4f2465542bc6750,Wolfgang's Steakhouse,4 Park Ave
+21,"Atlanta, GA",5th ave. arcade inc.,4b3a5926f964a520426525e3,HSBC,33rd & Park
+22,"Atlanta, GA",5th ave. arcade inc.,4dad48138154b108febb45b5,P/Kaufmann Contract,2 Park Ave
+23,"Atlanta, GA",5th ave. arcade inc.,5f52311ab511c83bbf749c2e,Juice Generation,2 Park Ave
+24,"Atlanta, GA",5th ave. arcade inc.,4fb9ef70e4b0eabae5d27526,4 Park Ave,4 Park Ave
+25,"Atlanta, GA",5th ave. arcade inc.,4b46b4c0f964a520252726e3,MTA Subway - 33rd St (6),Park Ave
+26,"Atlanta, GA",5th ave. arcade inc.,5a2819ae47f8765dae81eab2,Blank Financial,3 Park Ave
+27,"Atlanta, GA",5th ave. arcade inc.,5cc9b86f6f0aa2002cb2f867,NYU Health Child Care Center,No Address
+28,"Atlanta, GA",5th ave. arcade inc.,5130b3ffe4b0dbd9e4d05b17,M427 - Manhattan Academy for Arts and Language,111
+29,"Atlanta, GA",5th ave. arcade inc.,56c4cb1dcd10b4ad3366dfb1,Houghton Mifflin Harcourt,3 Park Ave
+30,"Atlanta, GA",5th ave. arcade inc.,5592ddcc498e99fe3c48032e,Pressed Juicery,1 Park Ave
+31,"Atlanta, GA",5th ave. arcade inc.,503e550d8acab7fe481aa58a,Dramatics NYC 34th St,127 E 34th St
+32,"Atlanta, GA",5th ave. arcade inc.,42911d00f964a520f5231fe3,New York Penn Station,1 Penn Plz
+33,"Atlanta, GA",Arcade,4c4308eeda3dc9280f4bcbb9,Global Broiling,New York CIty
+34,"Atlanta, GA",Arcade,4ba6da6ff964a520947339e3,41 West 96 Street,No Address
+35,"Atlanta, GA",Arcade,5183d4b6498e416da53e3b68,"Dr. Robert A. Adair, M.D",41 W 96th St
+36,"Atlanta, GA",Arcade,4dceff12d4c065592f8deee1,Columbus Sq Dog Run,No Address
+37,"Atlanta, GA",Arcade,4c72d4207121a1cd919363d1,Columbus Natural Foods,725 Columbus Ave
+38,"Atlanta, GA",Arcade,5037e21fe4b0b68ee3d6546f,Birch Coffee,750 Columbus Ave
+39,"Atlanta, GA",Arcade,4bb54c8df562ef3b1ed42e97,Rite Aid,741 Columbus Ave
+40,"Atlanta, GA",Arcade,4aeb357af964a520a8bf21e3,Columbus Wines & Spirits,730 Columbus Ave
+41,"Atlanta, GA",Arcade,4c7a3368794e224bc1ee6728,Icon Parking,50 W 97th St
+42,"Atlanta, GA",Arcade,4f258800e4b01b0c60953818,MTA Bus - W 96 St & Columbus Av (M96/M106),W 96th St
+43,"Atlanta, GA",Arcade,60b17ab6a743f827943cc3c9,WestMont,730 Columbus Ave
+44,"Atlanta, GA",Arcade,4db2330d8154df05e598cc2d,Central Park Gardens,No Address
+45,"Atlanta, GA",Arcade,4bb2900eeb3e95216039ca0a,Dunkin',730 Columbus Ave
+46,"Atlanta, GA",Arcade,5177d30c498e9b657328e30f,Coffee Cart - 97th & Columbus,W 97th Street
+47,"Atlanta, GA",Arcade,4bea0dbea9900f4738291640,110 West 96th Street,No Address
+48,"Atlanta, GA",Arcade,4a95cf86f964a520c92420e3,Whole Foods Market,808 Columbus Ave
+49,"Atlanta, GA",Arcade,4b0eed54f964a520e55c23e3,MTA Subway - 96th St (B/C),96th St
+50,"Atlanta, GA",Arcade,4b0ae639f964a520b02923e3,T.J. Maxx,808 Columbus Ave
+51,"Atlanta, GA",Arcade,5fb00d384f777309c11f08ed,Krispy Kreme,2563 Broadway
+52,"Atlanta, GA",Arcade Bookbinding Corp.,4fcbd424e4b00a0e854b8e52,The Masters Barber Shop,851 Wyckoff Ave
+53,"Atlanta, GA",Arcade Bookbinding Corp.,4cde17d541ed224b3dfcd63c,Mr. Lee's,No Address
+54,"Atlanta, GA",Arcade Bookbinding Corp.,4cacd6e0d971b1f7000334e1,Troy's Barbershop,No Address
+55,"Atlanta, GA",Arcade Bookbinding Corp.,60316cc11131484f076f89ce,Mateo Express Shipping,858 Wyckoff Ave
+56,"Atlanta, GA",Arcade Bookbinding Corp.,4ce1b008df986ea8c9d9ed16,Survivor Deli,816 Wyckoff Avenue
+57,"Atlanta, GA",Arcade Bookbinding Corp.,607f310530d4f65bd3aea6cf,Stolen Magnolia,818 Wyckoff Ave
+58,"Atlanta, GA",Arcade Bookbinding Corp.,4c87cc7c33453704cbde1572,Azteca Taqueria & Bakery,850 Wyckoff Avenue
+59,"Atlanta, GA",Arcade Bookbinding Corp.,5d2e0d02bc080d002320c25f,Nick’s #3 Barber Shop,851 Wycoff Ave.
+60,"Atlanta, GA",Arcade Bookbinding Corp.,5b1aaf1ff96b2c002c2ca02e,Capybara,853 Wyckoff Ave
+61,"Atlanta, GA",Arcade Bookbinding Corp.,4c87cbf653a6a0939b2d3fba,Hall of Fame Barbershop,884 Wyckoff Ave
+62,"Atlanta, GA",Arcade Bookbinding Corp.,5abfcc2da35dce29f414d388,Brooklyn Barista,880 Wyckoff Ave
+63,"Atlanta, GA",Arcade Bookbinding Corp.,5de9b841752a9900084f8660,Citi Bike Station,Hancock St & Wyckoff Ave
+64,"Atlanta, GA",Arcade Bookbinding Corp.,4b823133f964a520d1cc30e3,Food Bazaar Supermarket,454 Wyckoff Ave.
+65,"Atlanta, GA",Arcade Bookbinding Corp.,568fcc19498ea8182cc3f313,Ridgewood Yoga Studio,915 Wyckoff Ave
+66,"Atlanta, GA",Arcade Bookbinding Corp.,51a936c6498e6d7f17e0252d,Lorimoto Gallery,Hancock St
+67,"Atlanta, GA",Arcade Bookbinding Corp.,509b0789e4b059228ce95cc4,Joel's Bakery,16-15 Palmetto St
+68,"Atlanta, GA",Arcade Bookbinding Corp.,5f8a873ab294602b1ff0d807,Taqueria El Patron Mexican Grill,16-12 Madison St
+69,"Atlanta, GA",Arcade Bookbinding Corp.,604572ae4d99715e32de57e1,Nha Minh,9-15 Wyckoff Ave
+70,"Atlanta, GA",Arcade Bookbinding Corp.,57c25ecd498e5d14afff51fe,Green Basket,Cornelia St & Wyckoff Ave
+71,"Atlanta, GA",Arcade Bookbinding Corp.,5df975f9d50cc70008ceaba6,TV Eye,16-47 Weirfield St
+72,"Atlanta, GA",Arcade Classics,5457f666498eeacb3138dfc8,Trustpilot,245 5th Ave
+73,"Atlanta, GA",Arcade Classics,4ddecc7ad4c01aeee905c13b,Cafe 28,245 5th Ave
+74,"Atlanta, GA",Arcade Classics,4b61f2d0f964a520ed2c2ae3,245 Fifth Avenue,245 5th Ave
+75,"Atlanta, GA",Arcade Classics,4c66a41dc2ead13ad02eb480,Whitey's Hardware & Paint,485 3rd Ave
+76,"Atlanta, GA",Arcade Classics,4bcf51d7b221c9b623ced1d0,Aerobeep,244 5th Ave
+77,"Atlanta, GA",Arcade Classics,544015fe498e285ae03bdfe9,Anderson Literary Management LLC,244 5th Ave Fl 11
+78,"Atlanta, GA",Arcade Classics,5be784e3d1a402002c6fd7e8,Smoke Gift & Convenience 2,No Address
+79,"Atlanta, GA",Arcade Classics,4f3bc7fae4b063775873a5df,244 Fifth Avenue,No Address
+80,"Atlanta, GA",Arcade Classics,55246290498e6aa7dff3ae0c,John Doe,253 5th Ave
+81,"Atlanta, GA",Arcade Classics,5e4c76cb2688de0008a916ee,Lina NoMad,245 5th Ave
+82,"Atlanta, GA",Arcade Classics,55aa7432498eed291c03cd7a,David's Barber Shop,1 E 28th St
+83,"Atlanta, GA",Arcade Classics,5362c896498e60d09a59710e,Roman K Salon,"253 5th Ave, 5th Floor"
+84,"Atlanta, GA",Arcade Classics,56a24cc2498ee1a54c30932e,Enigma HQ,245 5th Ave
+85,"Atlanta, GA",Arcade Classics,5b4defe4da2e0000399f41cb,Prove (formerly Payfone),245 5th Ave
+86,"Atlanta, GA",Arcade Classics,5e7bb364495a3b00087e0e72,"Rahul Patel, DPM",245 5th Ave Ste 307
+87,"Atlanta, GA",Arcade Classics,4b607087f964a520f8e529e3,The UPS Store,2 E 28th St
+88,"Atlanta, GA",Arcade Classics,5f43bcb51944c20b444dc14e,255 5Th Avenue,255 5th Ave
+89,"Atlanta, GA",Arcade Classics,45ab7c7af964a52044411fe3,Museum of Sex,233 5th Ave
+90,"Atlanta, GA",Arcade Classics,50a94ef2e4b0f0766099e1e8,Chinese Kung-Fu Wu-Su Association,28 W 27th St Fl 8
+91,"Atlanta, GA",Arcade Classics,40b68100f964a5207d001fe3,Madison Square Park,Madison Ave
+92,"Atlanta, GA",Arcade Community,4d49ea7bf53c8cfa55681d47,Jin Hong Diamond  Nails,No Address
+93,"Atlanta, GA",Arcade Community,4df537cf6284fefe8fc87439,Fulton Super Deli,Fulton Avenue
+94,"Atlanta, GA",Arcade Community,4e0df55f45ddc2c6d172a6c4,Emely's Beauty Salon,96 Rockaway Ave
+95,"Atlanta, GA",Arcade Community,562b8f8f498e522c2738b01d,brooklyn landmark elementary school,251 Macdougal St
+96,"Atlanta, GA",Arcade Community,51702e65e4b0ea41cfabe62a,P.S./I.S. 73,251 Macdougal St
+97,"Atlanta, GA",Arcade Community,611c57ccb0dcfd3277165bd2,Hardee,126 Hull St
+98,"Atlanta, GA",Arcade Community,4f4464ed19836ed00193d4a6,Good Taste Chinese Restaurant,126 Hull St
+99,"Atlanta, GA",Arcade Community,53405b0a498e331b6309802e,J's Jerk Hut,117 Rockaway Ave
+100,"Atlanta, GA",Arcade Community,5f160d8cf60203328d8c1686,Love Nelly,53 Rockaway Ave
+101,"Atlanta, GA",Arcade Community,5f808d89a8f19063a8e0437c,Beets Cafe,142 Rockaway Avenue
+102,"Atlanta, GA",Arcade Community,4c52fef62543a5937cad3f86,Phoenix Community Garden,2-36 Somers St
+103,"Atlanta, GA",Arcade Community,58bad25c4bc2f1632aace318,Daily Press Coffee,38 Somers St
+104,"Atlanta, GA",Arcade Community,50507b82e4b0473d5f43dbc8,Shirley Chisholm Day Care,33 Somersault Street
+105,"Atlanta, GA",Arcade Community,5f2b4345952995556e819871,All Night Skate,54 Rockaway Ave
+106,"Atlanta, GA",Arcade Community,4bdcdf892a3a0f4709cdb4b6,MTA Subway - Rockaway Ave (C),Rockaway Ave
+107,"Atlanta, GA",Arcade Community,4e47fb5a62e148603b86e417,B60 (Fulton & Rockaway Ave),No Address
+108,"Atlanta, GA",Arcade Community,4b80928bf964a520dc7d30e3,Royal Chicken Biscuits,1799 Broadway
+109,"Atlanta, GA",Arcade Community,4ed414a399114b488c5084ff,Urban strategies,294 Sumpter St
+110,"Atlanta, GA",Arcade Community,5baae62489b06a0039250273,Pita Point,508 Marion Street
+111,"Atlanta, GA",Arcade Community,4e9c46d330f87c966cfa3fec,B60 Bus,No Address
+112,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4f22f6b2e4b0b2f98de71ff5,Sony Plaza Illy Cafe,No Address
+113,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4cc864a77be6548110b52d23,Illy caffe North America,Madison Ave
+114,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4fa1adb7e4b0115a82cd47d4,Pacers Toastmasters Club,The Sony Center
+115,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4f0a04e4e4b0596c904d6732,MoloLamken,540 Madison Ave
+116,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4f60e179e4b04905886d6969,Sony Public Plaza,550 Madison Ave
+117,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),502e8003e4b04d70bdea7a76,Sony Club,550 Madison Ave Fl 35
+118,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),512c0a44e4b0a8adf180433b,Pizza Da Solo,550 Madison Ave
+119,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4d672853a800721ecda60cb8,The Innovation Station,550 Madison Ave Fl 30
+120,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4d5006dddcce224bf1ccd31b,Columbia/Epic Label Group,550 Madison Ave
+121,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4c98dd75671db60c6107bdf6,Sony/ATV Music Publishing,550 Madison Ave
+122,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),571bec75cd104795c027b270,MTA BxM7 34th  Street & Madison  Ave,No Address
+123,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4b22729bf964a520e64624e3,Epic Records,550 Madison Ave
+124,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4bcba10d3740b7134bf26265,540 Madison Avenue,540 Madison Ave
+125,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4b1c222df964a520ce0224e3,Sony Fitness Center,550 Madison Ave
+126,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4d042c5b28926ea811226ac2,King Cole Bar,2 E 55th St
+127,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),58af37e8076be15eeb312567,Vivienne Westwood,14 E 55th St
+128,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),4a637181f964a52008c51fe3,The St. Regis New York,2 E 55th St
+129,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),58fbdcad12138468bd514a50,Anton Kern Gallery,16 W 55th St
+130,"Atlanta, GA",Arcade Creative Group (A Sony Music Company),5d669c759c03190008143b31,Red Peony,24 W 56th St
+131,"Atlanta, GA",Arcade Edit NY,4dcbe17881dcc1e341fd4394,220 Fifth Avenue,220 5th Ave
+132,"Atlanta, GA",Arcade Edit NY,4ce00fc7db1254814f723ace,La Perla Sample Sale,No Address
+133,"Atlanta, GA",Arcade Edit NY,4cf514b9d29b2d43ab37f4bb,Vanguard Management Group,220 5th Ave Ph West
+134,"Atlanta, GA",Arcade Edit NY,4a7087f7f964a520b3d71fe3,GlobalWorks,220 5th Ave
+135,"Atlanta, GA",Arcade Edit NY,5cbb5ddbf1fdaf002c187d2d,Imd Beauty Spa,224 5th Ave
+136,"Atlanta, GA",Arcade Edit NY,5e5fd5d8d0725c0008d19640,The Gilded Lady,No Address
+137,"Atlanta, GA",Arcade Edit NY,4d6675816d86224be1049381,The Sandbox @ GlobalWorks,220 5th Ave
+138,"Atlanta, GA",Arcade Edit NY,55365d3f498e7a3f69209272,Mexicue Kitchen & Bar,225 5th Ave
+139,"Atlanta, GA",Arcade Edit NY,4f493041e4b00005b93df2c8,7-Eleven,224 5th Ave
+140,"Atlanta, GA",Arcade Edit NY,4f19bc59e4b0b7e256b8a1fd,Dominoes At GW,220 5th Ave
+141,"Atlanta, GA",Arcade Edit NY,556602bd498e46aa126dfd5f,Infinity Float,No Address
+142,"Atlanta, GA",Arcade Edit NY,4c60188412e5c92807691e4c,World Policy Institute,220 5th Ave
+143,"Atlanta, GA",Arcade Edit NY,585acab5375c4a72eff621ab,Riskified NY,220 5th Ave
+144,"Atlanta, GA",Arcade Edit NY,517eb002e4b04f1b77fbccbd,1-800-FLOWERS.COM,220 5th Ave
+145,"Atlanta, GA",Arcade Edit NY,4f562eb1e4b0d45ec112f64f,Wirtz International nv,220 5th Ave
+146,"Atlanta, GA",Arcade Edit NY,4bd36f2fcaff952180eed4f0,225 Fifth Ave,225 5th Ave
+147,"Atlanta, GA",Arcade Edit NY,4d93b001578ba0939c0a9357,Avenues: The World School - World Headquarters,11 E 26th St
+148,"Atlanta, GA",Arcade Edit NY,40b68100f964a5207d001fe3,Madison Square Park,Madison Ave
+149,"Atlanta, GA",Arcade Edit NY,586423d9ac13690a1b02ef9f,REVIV,1140 Broadway
+150,"Atlanta, GA",Arcade Lounge,4b9e7673f964a52007e636e3,Achievement First Bushwick,125 Covert St
+151,"Atlanta, GA",Arcade Lounge,6007025fc0448a561157937c,Sam’s Detox Deli & Grill,1144 Halsey St
+152,"Atlanta, GA",Arcade Lounge,4da905ab4df01c19b167ecaa,Batcave,1 Wayne Manor
+153,"Atlanta, GA",Arcade Lounge,5db5567323aa41000867a445,Citibike Station,No Address
+154,"Atlanta, GA",Arcade Lounge,4f46924ce4b01fefa1149f46,Tiger playground,No Address
+155,"Atlanta, GA",Arcade Lounge,5f88e2cbfcd49f1f079aa434,Laundry Bee,No Address
+156,"Atlanta, GA",Arcade Lounge,4e3f52f762e19d610987f3f5,Emilios Laundromat,100 Covert St
+157,"Atlanta, GA",Arcade Lounge,536549ea498ea0b7ddef3905,Cowboy Hotel,No Address
+158,"Atlanta, GA",Arcade Lounge,578edbe5498ed7aa1996951a,Boardwalk Wine & Spirits,1195 Halsey St
+159,"Atlanta, GA",Arcade Lounge,4fdb8a9f7e27bf02d3864966,FDNY Squad 252,617 Central Ave
+160,"Atlanta, GA",Arcade Lounge,5e4caf1f668011000748c6bf,Money Cat Vietnamese Kitchen,554 Wilson Ave
+161,"Atlanta, GA",Arcade Lounge,4e742388d1643f93b156383f,The Lovejoy Center,70 Weirfield St
+162,"Atlanta, GA",Arcade Lounge,4c78634b97028cfa74cad7fe,Jimmy's Pizzeria,561 Wilson Ave
+163,"Atlanta, GA",Arcade Lounge,4eaabd629adfbd5e5d37741b,Nat's Hardware,576 Wilson Ave
+164,"Atlanta, GA",Arcade Lounge,5b390d6fe1791000399a3d76,Lil Baby's Bushwick,504 Wilson Ave
+165,"Atlanta, GA",Arcade Lounge,52c2f43111d2a28c68697a39,Hair & Nail Salon,557 Wilson Ave
+166,"Atlanta, GA",Arcade Lounge,600a0a89dcdde1171192f578,Crust Pizzeria,No Address
+167,"Atlanta, GA",Arcade Lounge,4e360f4862e17d29083b0fae,1134 Jefferson Ave,1134 Jefferson Ave
+168,"Atlanta, GA",Arcade Lounge,5ff0cd324d83836bb4cac746,General Irving,1210 Halsey Street
+169,"Atlanta, GA",Arcade Lounge,56d8a2e3cd10fd56c52675b6,Zun Laundromat,1285 Bushwick Ave
+170,"Atlanta, GA",Arcade Pizza,4f32b52a19836c91c7f1ddd9,St Nicholas Fish Market Co,1609 Saint Nicholas Ave
+171,"Atlanta, GA",Arcade Pizza,4dea8dd3ae60e989235c5f44,Calle 191 Pescaderia,1609 Saint Nicholas Ave
+172,"Atlanta, GA",Arcade Pizza,4cd9fed5071ba093c21bb605,MTA - 192nd And St Nicholas Av (M101) (M3),192nd And St Nicholas Av
+173,"Atlanta, GA",Arcade Pizza,4e2b428c14955dbf7ad8f006,Deli Grocery & Convenience Store - 191 Subway,St. Nicholas Ave
+174,"Atlanta, GA",Arcade Pizza,5990842bda70802cfa0c448c,Up Heights,1604 St Nicholas Avenue
+175,"Atlanta, GA",Arcade Pizza,563be883cd103c7d6583a913,Subway Games,1610 Saint Nicholas Ave
+176,"Atlanta, GA",Arcade Pizza,4dbb05706a23e294ba0a269e,El Mundo Laundromat,1612 Saint Nicholas Ave
+177,"Atlanta, GA",Arcade Pizza,4d8ca549ca75b60cc859d6a8,Food Corp Deli Grocery,1613 Saint Nicholas Ave
+178,"Atlanta, GA",Arcade Pizza,5add1292cf72a0223ac538ee,Dominican Valle,No Address
+179,"Atlanta, GA",Arcade Pizza,4cdde8d6c4f6a35ddc89c66c,Supernanny,No Address
+180,"Atlanta, GA",Arcade Pizza,5da72567dfe544000842f992,Miss Rizos Salon,1604 Saint Nicholas Ave
+181,"Atlanta, GA",Arcade Pizza,4fa6ae9fe4b0419376d7e898,Kukara Macara,1601 Saint Nicholas Ave
+182,"Atlanta, GA",Arcade Pizza,4c828ea4dc018cfaf57cd06c,Fine Fare,191st Street
+183,"Atlanta, GA",Arcade Pizza,4ebc6ff8f5b9e505b79e454c,Corner Of 190 & St Nicholas,No Address
+184,"Atlanta, GA",Arcade Pizza,4c6e729c4d24b60c1c9bd8d8,Dunkin',1599 Saint Nicholas Ave
+185,"Atlanta, GA",Arcade Pizza,4c83cbdc74d7b60c07c78cd8,Jay's Wines & Liquor,1621 Saint Nicholas Ave
+186,"Atlanta, GA",Arcade Pizza,4f11e320e4b0865b08176d55,Rosa Beauty Supply,1603 Saint Nicholas Ave
+187,"Atlanta, GA",Arcade Pizza,4af22c7cf964a52058e621e3,El Nuevo Caridad,1618 Saint Nicholas Ave
+188,"Atlanta, GA",Arcade Pizza,4b0cb04df964a520054123e3,MTA Subway - 191st St (1),Broadway
+189,"Atlanta, GA",Arcade Restaurant,5f2b4345952995556e819871,All Night Skate,54 Rockaway Ave
+190,"Atlanta, GA",Arcade Restaurant,4e0cc617a809a0a62eb3eef2,Arthur's Place,47 Rockaway Ave
+191,"Atlanta, GA",Arcade Restaurant,5f160d8cf60203328d8c1686,Love Nelly,53 Rockaway Ave
+192,"Atlanta, GA",Arcade Restaurant,51a9f459498eeebb9b0673d8,Regal Laundry,55 Rockaway Ave
+193,"Atlanta, GA",Arcade Restaurant,5017e784e4b0687bcdd2b106,Frank's Barber Shop,38 Rockaway Ave
+194,"Atlanta, GA",Arcade Restaurant,562b8f8f498e522c2738b01d,brooklyn landmark elementary school,251 Macdougal St
+195,"Atlanta, GA",Arcade Restaurant,4f86030fe4b04a6ada86479f,FDNY Engine 233/Ladder 176,25 Rockaway Ave
+196,"Atlanta, GA",Arcade Restaurant,51702e65e4b0ea41cfabe62a,P.S./I.S. 73,251 Macdougal St
+197,"Atlanta, GA",Arcade Restaurant,4e0df55f45ddc2c6d172a6c4,Emely's Beauty Salon,96 Rockaway Ave
+198,"Atlanta, GA",Arcade Restaurant,4ee949a261aff2afcd6a6287,Marion Park,No Address
+199,"Atlanta, GA",Arcade Restaurant,4ed414a399114b488c5084ff,Urban strategies,294 Sumpter St
+200,"Atlanta, GA",Arcade Restaurant,4f32545019836c91c7cd08de,Jason Liquor Store,18 Rockaway Ave
+201,"Atlanta, GA",Arcade Restaurant,4dbb4e1a0cb691071c87429a,Mount  Zion Holiness Church,1792 Broadway
+202,"Atlanta, GA",Arcade Restaurant,4e7251c17d8b53db1c2d60ce,PS73,No Address
+203,"Atlanta, GA",Arcade Restaurant,611d58eebb53437e73400635,PMR of NY- Bushwick,1765 Broadway
+204,"Atlanta, GA",Arcade Restaurant,4bbe4ee09474c9b69d6ad9b6,MTA Subway - Chauncey St (J/Z),Chauncey St.
+205,"Atlanta, GA",Arcade Restaurant,5c60a5a3250cab002c76e256,Urban Natural Valley Market,1725 Broadway
+206,"Atlanta, GA",Arcade Restaurant,5baae62489b06a0039250273,Pita Point,508 Marion Street
+207,"Atlanta, GA",Arcade Restaurant,611c57ccb0dcfd3277165bd2,Hardee,126 Hull St
+208,"Atlanta, GA",Arcade Restaurant,4c4b517a959220a1a94f650f,Fish N Chicks LLC,57 Somers St
+209,"Atlanta, GA",Arcade Roofing & Home Improvement,4f0f4815e4b040d483a80d02,Pandoras Box,Nowhere
+210,"Atlanta, GA",Arcade Roofing & Home Improvement,4cd19ea76200b1f733efda28,Dr. Harrison's Office,21st Ave
+211,"Atlanta, GA",Arcade Roofing & Home Improvement,5113cdaee4b036fd3cfcbfb4,"Bay Ridge, Bklyn",No Address
+212,"Atlanta, GA",Arcade Roofing & Home Improvement,55eb86ed498ed2c16d4b6a7c,Double Fire Gourmet Inc.,2122 86th St
+213,"Atlanta, GA",Arcade Roofing & Home Improvement,60021a5021b54e5cbb136c32,OC Dessert,2120 86th St
+214,"Atlanta, GA",Arcade Roofing & Home Improvement,4d991e93af3d236a43f24cc7,Happy Seafood Restaurant,2146 86th St
+215,"Atlanta, GA",Arcade Roofing & Home Improvement,5f55b71a23de1e42573a4663,Tiger Sugar,2132 86th St
+216,"Atlanta, GA",Arcade Roofing & Home Improvement,4b102c53f964a520926a23e3,Burger King,2164 86th St
+217,"Atlanta, GA",Arcade Roofing & Home Improvement,60b111ec091ee303c750fb1c,Bank Of America,No Address
+218,"Atlanta, GA",Arcade Roofing & Home Improvement,4fb81f5ae4b0c241c411cc83,Kung Fu Tea,2174 86th St
+219,"Atlanta, GA",Arcade Roofing & Home Improvement,60df6c2984d4c328f420d009,Chipotle Mexican Grill,2076 86th St
+220,"Atlanta, GA",Arcade Roofing & Home Improvement,58682ca9da54ae618fc707d7,Vivi Bubble Tea,2169 86th St
+221,"Atlanta, GA",Arcade Roofing & Home Improvement,4c091c77a1b32d7fa50c97f0,La Bella Pizza Express,2178 86th St
+222,"Atlanta, GA",Arcade Roofing & Home Improvement,4e35630ffa7656ba316ff038,MTA - B6/B82/X28/X38 Bus (Cropsey Ave & Bay Parkway),No Address
+223,"Atlanta, GA",Arcade Roofing & Home Improvement,5fde52622cddeb37060a2470,Superior Wonton Noodles,2145 86th St
+224,"Atlanta, GA",Arcade Roofing & Home Improvement,603e6fe2bf05d857920d6da2,Teso Life,2158 86th Street
+225,"Atlanta, GA",Arcade Roofing & Home Improvement,4bdc528dfed22d7fcea057c9,MTA Subway - Bay Parkway (D),86th St
+226,"Atlanta, GA",Arcade Roofing & Home Improvement,593deb59f79faa76f4f8eed7,86th Grocery & Snacks,86th Street
+227,"Atlanta, GA",Arcade Roofing & Home Improvement,4bc865df6501c9b6d3fe3f29,MTA Bus - Bay Parkway & 86th Street (B6/B6LTD/B82/B82LTD),Bay Pkwy
+228,"Atlanta, GA",Arcade Roofing & Home Improvement,4ba8f79df964a520bdfe39e3,Dunkin',1980 86th St
+229,"Atlanta, GA",At the arcade,4f3291c319836c91c7e49d19,Mitchell Fish and Chips,617 Vanderbilt Ave
+230,"Atlanta, GA",At the arcade,4dc16497d16455f8322791bb,Ample Hills Creamery,623 Vanderbilt Ave
+231,"Atlanta, GA",At the arcade,4b17c40df964a520f5c723e3,Peñas Food Market,598 Vanderbilt
+232,"Atlanta, GA",At the arcade,4a55d316f964a52048b41fe3,Zaytoon's,594 Vanderbilt Ave
+233,"Atlanta, GA",At the arcade,4aeb7bd4f964a5208cc221e3,Mitchell's Soul Food,617 Vanderbilt Ave
+234,"Atlanta, GA",At the arcade,4c1e56ee8b3aa59300e89b5f,Luria Academy,238 Saint Marks Ave
+235,"Atlanta, GA",At the arcade,513b7692e4b0c2f5a98d6287,Dreamland Antiques Emporium,619 Vanderbilt Ave
+236,"Atlanta, GA",At the arcade,5010a3d4e4b06fc7cd892200,Seeds Brooklyn,No Address
+237,"Atlanta, GA",At the arcade,4e1c5b5dd4c0761fec5545ec,Vanderbilt Avenue,No Address
+238,"Atlanta, GA",At the arcade,5e2ddec9a5c3fb0008a952a3,Specific Gravity,No Address
+239,"Atlanta, GA",At the arcade,548eeada498e4c3cf0acd057,Little Cupcake Bakeshop,598 Vanderbilt Ave
+240,"Atlanta, GA",At the arcade,4a52aacbf964a520dfb11fe3,Unnameable Books,600 Vanderbilt Ave
+241,"Atlanta, GA",At the arcade,5368119d498ebf0228cebc09,R&D Foods,602 Vanderbilt Ave
+242,"Atlanta, GA",At the arcade,4b537d76f964a520959f27e3,Complete Music Studios,227 Saint Marks Ave
+243,"Atlanta, GA",At the arcade,516b12a1e4b0209bc0866513,Brotherhood Baptist Church,625 Vanderbilt Ave
+244,"Atlanta, GA",At the arcade,5a6cc216f5e9d763b7a37c8f,Gran Caffe De Martini,609 Vanderbilt Ave
+245,"Atlanta, GA",At the arcade,4c6844342f6c0f47c9201b7e,1 of a find vintage,633 Vanderbilt Ave
+246,"Atlanta, GA",At the arcade,4db462a2fa8c350240e3f2a2,Olde Brooklyn Bagel Shoppe,645 Vanderbilt Ave
+247,"Atlanta, GA",At the arcade,5f419ca9aee48d48c77c16be,Vanderbilt Ave Open Street,No Address
+248,"Atlanta, GA",Brooklyn Games & Arcade,528cb9d5498ebd379cab90cd,6122 4 Avenue Food Corp.,6122 4th Ave
+249,"Atlanta, GA",Brooklyn Games & Arcade,4f444992e4b0b7292e5e8082,Fountain of Salvation,No Address
+250,"Atlanta, GA",Brooklyn Games & Arcade,4d752ebd1a8aa35d87fb19a7,Pacific Laundromat,6114 4th Ave
+251,"Atlanta, GA",Brooklyn Games & Arcade,4f32b71c19836c91c7f2990d,Fourth Avenue Pizzeria,6112 4th Ave
+252,"Atlanta, GA",Brooklyn Games & Arcade,4c54a81572cf0f4789b8e4d4,Second Cycle Laundromat,6111 4th Ave
+253,"Atlanta, GA",Brooklyn Games & Arcade,4cf012455de16ea82a1dc496,La Esperanza Restaurant,6112 4th Ave
+254,"Atlanta, GA",Brooklyn Games & Arcade,4c06d1c68a81c9b664512690,Rite Aid,6201-23 4th Ave
+255,"Atlanta, GA",Brooklyn Games & Arcade,4ed2a1d86da162f1c12b0ece,4th Ave Sunset Park,No Address
+256,"Atlanta, GA",Brooklyn Games & Arcade,4dd2bf7fd16465f3f959b34c,Los Primos Tire Shop,6302 4th Ave
+257,"Atlanta, GA",Brooklyn Games & Arcade,508b2a28e4b06f6d18b119d5,425 62nd st,No Address
+258,"Atlanta, GA",Brooklyn Games & Arcade,4fdfa73be4b0866bd7a3c733,MTA Bus - B9 - 60th St & 4th Ave,60th St & 4th Ave
+259,"Atlanta, GA",Brooklyn Games & Arcade,4c6c51cce13db60cb7bbd5b1,Koong Wing,6011 4th Ave
+260,"Atlanta, GA",Brooklyn Games & Arcade,4d5e82a8e4fe5481a2aa689e,NYU Lutheran Family Health Centers Park Ridge,6317 4th Ave
+261,"Atlanta, GA",Brooklyn Games & Arcade,4d78f726b706224b261b318d,Brooklyn First Church of the Brethren,No Address
+262,"Atlanta, GA",Brooklyn Games & Arcade,4e47cad1e4cd9d94fb33c13e,Cross Roads Christian Church,No Address
+263,"Atlanta, GA",Brooklyn Games & Arcade,4ffc90351648c9b3aab51b18,Sunset Park Greenmarket,4th Ave.
+264,"Atlanta, GA",Brooklyn Games & Arcade,4cbb7aa6adcd54819b3329a2,Full Doe Bakery,5905 4th Ave
+265,"Atlanta, GA",Brooklyn Games & Arcade,4be636392457a5930aabac15,Brooklyn Crossroad Supper Club,3rd ave
+266,"Atlanta, GA",Brooklyn Games & Arcade,58bb7b96af7d17615ee213ed,Grumpy Cat Bar,No Address
+267,"Atlanta, GA",Central Park - The Arcade,4be709372468c9281aff0143,Bethesda Terrace,Terrace Dr
+268,"Atlanta, GA",Central Park - The Arcade,4ea819528231a8f6a1b8623a,Terrace Bridge,No Address
+269,"Atlanta, GA",Central Park - The Arcade,4e989303775b6787c26110ee,Central Park Navy Terrace,Olmstead and Vaux Way
+270,"Atlanta, GA",Central Park - The Arcade,5cdcadcf64c8e1002c24b231,Bethesda restrooms,No Address
+271,"Atlanta, GA",Central Park - The Arcade,504194dce4b0c996b2bbfde2,Olmstead & Vaux Way,No Address
+272,"Atlanta, GA",Central Park - The Arcade,4a6b8bf4f964a52018cf1fe3,Bethesda Fountain,Terrace Dr
+273,"Atlanta, GA",Central Park - The Arcade,4eaea5ea722eefae84f266b9,Angel of the Waters,Terrace Dr
+274,"Atlanta, GA",Central Park - The Arcade,4cd3e67d4944721e7af5eea6,Central Park - 72nd St Transverse,72nd Street Transverse Rd
+275,"Atlanta, GA",Central Park - The Arcade,4f70c8fee4b05bffbc09284d,Central Park - Amphitheater,Central Park
+276,"Atlanta, GA",Central Park - The Arcade,4bbb71d8f1c5ef3bf9fac814,Naumburg Bandshell,Central Park
+277,"Atlanta, GA",Central Park - The Arcade,4c856f57d34ca143e5914780,Central Park - African Drum Circle,72nd St Transverse
+278,"Atlanta, GA",Central Park - The Arcade,4e838c3ae5e877f1e16ed150,Central Park SummerStage,Central Park
+279,"Atlanta, GA",Central Park - The Arcade,4ba4f635f964a5201bc938e3,Cherry Hill,72nd St Tranverse
+280,"Atlanta, GA",Central Park - The Arcade,49ebbf61f964a52020671fe3,Central Park Mall,Central Park
+281,"Atlanta, GA",Central Park - The Arcade,4e7dc20fb634af8b52f0ab3f,Trefoil Arch,Central Park
+282,"Atlanta, GA",Central Park - The Arcade,4b50deaaf964a520293627e3,Bow Bridge,Central Park
+283,"Atlanta, GA",Central Park - The Arcade,5183fef2498e3dc5d43834c2,Central Park - Fairy Tail Pond,No Address
+284,"Atlanta, GA",Central Park - The Arcade,4d5e8cae618aa090f365ebe1,Central Park - Dog Run Area,Central Park
+285,"Atlanta, GA",Central Park - The Arcade,412d2800f964a520df0c1fe3,Central Park,59th St to 110th St
+286,"Atlanta, GA",Chinatown Fair Video Arcade,5f3089ef7150dc431d2d1bd1,Pinklady Cheese Tart,11 Mott St
+287,"Atlanta, GA",Chinatown Fair Video Arcade,4fe9f760e4b0d7ec229bf235,Family Dentistry-Frances M. Chiu D.M.D. & Derek Lau D.M.D.,10 Mott St
+288,"Atlanta, GA",Chinatown Fair Video Arcade,57b867aa498e82c71ab8e2be,Mott Street Pharmacy,11 Mott Street
+289,"Atlanta, GA",Chinatown Fair Video Arcade,5675c52c498e2f30a978b6fb,T-Swirl Crepe,2 Mott St
+290,"Atlanta, GA",Chinatown Fair Video Arcade,4cf3ead6c9af6dcbf9f1a87f,2 Mott St,2 Mott St
+291,"Atlanta, GA",Chinatown Fair Video Arcade,55b52904498edca26ecc7a7f,Wok Wok Southeast Asian Kitchen,11 Mott St
+292,"Atlanta, GA",Chinatown Fair Video Arcade,5127e1fde4b038697d75f751,Dr David Cheng,7-8 Chatham Square
+293,"Atlanta, GA",Chinatown Fair Video Arcade,49d3deadf964a5201d5c1fe3,Noodle Village 粥麵軒,13 Mott St
+294,"Atlanta, GA",Chinatown Fair Video Arcade,459b830af964a5208b401fe3,Buddha Bodai 佛菩提素菜,5 Mott St
+295,"Atlanta, GA",Chinatown Fair Video Arcade,49f20602f964a520d4691fe3,Ajisen Ramen,14 Mott St
+296,"Atlanta, GA",Chinatown Fair Video Arcade,4f174f75e4b0aa5608115f3e,Stephen Sheung ESQ,2 Mott St
+297,"Atlanta, GA",Chinatown Fair Video Arcade,4ceabcd5678aa0935315f5ea,Iki Iki Gift Shop,2 Mott St
+298,"Atlanta, GA",Chinatown Fair Video Arcade,4f3aa73ee4b026b7f7754002,Lotus Tours Ltd.,2 Mott St Rm 400
+299,"Atlanta, GA",Chinatown Fair Video Arcade,4f4ffbede4b0693114399dbf,Kawaii Oof,11 Mott St
+300,"Atlanta, GA",Chinatown Fair Video Arcade,594b1249d3cce80b02bb3f7c,Pure Harmony Spa,5 Mott St
+301,"Atlanta, GA",Chinatown Fair Video Arcade,4a00def5f964a520b9701fe3,Hop Lee Restaurant,16 Mott St
+302,"Atlanta, GA",Chinatown Fair Video Arcade,4cf98d35d8468cfa63b4e76b,Wawa Chinatown,No Address
+303,"Atlanta, GA",Chinatown Fair Video Arcade,52181b2cbce664b5814d2264,Crystal Palace Beauty,2 Mott St Rm 803
+304,"Atlanta, GA",Chinatown Fair Video Arcade,5365aa83498ef37a452665f0,Ali Baba Organic Marketplace,1 Mott St
+305,"Atlanta, GA",Daniel Arcade,509e894be4b0d1661c0eb977,99c Discounts,Avenue J
+306,"Atlanta, GA",Daniel Arcade,50d77adde4b0252169beb7b9,Taco Bell,No Address
+307,"Atlanta, GA",Daniel Arcade,515f187be4b005f77821bd37,Ds Wings Joint,No Address
+308,"Atlanta, GA",Daniel Arcade,50bf4138e4b0097253b7f2dc,Bridal Shop,Ave J & CIA
+309,"Atlanta, GA",Daniel Arcade,515f11aee4b0b78266bce343,Gs Baseball,No Address
+310,"Atlanta, GA",Daniel Arcade,5072f71fe4b0e78a1b94704f,Building CI & J,No Address
+311,"Atlanta, GA",Daniel Arcade,51254fc8e4b04b9969d996da,Mikki's Video,No Address
+312,"Atlanta, GA",Daniel Arcade,508650bae4b0065a780d82ab,Gary's Movie Night,No Address
+313,"Atlanta, GA",Daniel Arcade,50e73c0ce4b0124eb34b38be,Brooklyn Golf Course,No Address
+314,"Atlanta, GA",Daniel Arcade,4ede37ce7ee5f354d51eacb6,The Buzz,No Address
+315,"Atlanta, GA",Daniel Arcade,5092e982e4b0b6c71639d2d5,Act 7,No Address
+316,"Atlanta, GA",Daniel Arcade,53767cbd498ed7782d363d88,The Finest Touch Barber Shop,1352 Coney Island Ave
+317,"Atlanta, GA",Daniel Arcade,506ff9fce4b0997e4b9a0f37,GFI Management,1014 Avenue J
+318,"Atlanta, GA",Daniel Arcade,51810f3a498ebf69d1264545,Newsstand And Grocery Store,1344A Coney Island Ave
+319,"Atlanta, GA",Daniel Arcade,4d927716fa1ef04d180c58c7,MTA Bus - Av J & Coney Island Av (B6/B11/B68),Ave J
+320,"Atlanta, GA",Daniel Arcade,509e99a3e4b03075374d94c7,AT&T Store,1369 Coney Island Ave
+321,"Atlanta, GA",Daniel Arcade,609c2318dabb5c25ab70984e,Shwarama Tanami,1360 Coney Island Ave
+322,"Atlanta, GA",Daniel Arcade,4d52c77fbfc260fca5c0ce26,"Eichers Judaica Store - Tzitzis, Kippot and More",1401 Coney Island Ave
+323,"Atlanta, GA",Daniel Arcade,4e1377526284edb6bae9a1b5,Santander Bank,Ave J
+324,"Atlanta, GA",Daniel Arcade,4d7fb76bdd4a6ea800ff7f25,Talmud Torah,1305 Coney Island Ave
+325,"Atlanta, GA",Deno's Arcade,4f931d5ae4b01143d1ebb0c3,Photobooth Under The Wonder Wheel,No Address
+326,"Atlanta, GA",Deno's Arcade,4e135d1b7d8b4d5613ebe467,Zoltar Machine,No Address
+327,"Atlanta, GA",Deno's Arcade,4c43c87bdcd61b8d4b8a7a56,Spook-a-Rama,No Address
+328,"Atlanta, GA",Deno's Arcade,60d618e1e4aae55ef49c72f5,Dizzy Dragons,No Address
+329,"Atlanta, GA",Deno's Arcade,4a7b02b9f964a520cbe91fe3,Deno's Wonder Wheel,1025 Boardwalk W
+330,"Atlanta, GA",Deno's Arcade,60d617933cfdcd6b21c3763f,Train Ride,No Address
+331,"Atlanta, GA",Deno's Arcade,4db70c07a86e8d2707b820dd,Tilt-a-whirl,No Address
+332,"Atlanta, GA",Deno's Arcade,598cac87b37e2b1805619979,Sea Serpent,No Address
+333,"Atlanta, GA",Deno's Arcade,4d5be1301da1cbff2c3b1a05,Circus Coaster,1000 Surf Ave
+334,"Atlanta, GA",Deno's Arcade,51feb7c5498e3df58fa1d80a,Deno's Wonder Wheel Amusement Park,1025 Boardwalk W
+335,"Atlanta, GA",Deno's Arcade,60d6340f4f2de719ee091992,Beach Buggy,No Address
+336,"Atlanta, GA",Deno's Arcade,4d5bead41da1cbff71831a05,Tea Party,1000 Surf Ave
+337,"Atlanta, GA",Deno's Arcade,4bd842d2f645c9b63a77a7e0,Luna Park,1000 Surf Ave
+338,"Atlanta, GA",Deno's Arcade,612bbe92844b27193bb9ca0c,Windstarz,No Address
+339,"Atlanta, GA",Deno's Arcade,5b833155b040560039f41a08,Coney Clipper,No Address
+340,"Atlanta, GA",Deno's Arcade,60eb15a21485515334be15c5,Phoenix Roller Coaster,West 12th Street
+341,"Atlanta, GA",Deno's Arcade,49e4a769f964a52015631fe3,Coney Island Beach & Boardwalk,Riegelmann Boardwalk
+342,"Atlanta, GA",Deno's Arcade,4d5be96e1da1cbff58791a05,Big Top Express,1000 Surf Ave
+343,"Atlanta, GA",Deno's Arcade,4d5be67c1da1cbff0d641a05,Speed Boat,1000 Surf Ave
+344,"Atlanta, GA",EOS Arcade,5483af35498e56d019ca641c,66 Rockwell Place - Lounge,No Address
+345,"Atlanta, GA",EOS Arcade,5ba98173610f0400394d871b,Eos Library,No Address
+346,"Atlanta, GA",EOS Arcade,554cc454498ea046095da80f,EOS Coffee Kiosk,"66 Rockwell Place, Brooklyn NY 11217"
+347,"Atlanta, GA",EOS Arcade,5b2268bacad1b6002cf58763,66 Rockwell Management Office,"66 Rockwell Place, 4th Fl"
+348,"Atlanta, GA",EOS Arcade,4fb6aef8e4b012942f409b46,Runa World HQ,33 Flatbush Ave Fl 5
+349,"Atlanta, GA",EOS Arcade,54078028498eef2f703e98c6,66 Rockwell Place - Laundry Room,No Address
+350,"Atlanta, GA",EOS Arcade,5259728011d2fce165ba0cf7,UrbanGlass,647 Fulton St
+351,"Atlanta, GA",EOS Arcade,5dbdc982662e710008bbf872,Las Santas,572 Fulton St
+352,"Atlanta, GA",EOS Arcade,5bc9bd0ceaf49a002c7dd940,Eos Fit,66 Rockwell Pl
+353,"Atlanta, GA",EOS Arcade,54948967498e3df9a8667772,66 Rockwell Place - Sky Lounge,No Address
+354,"Atlanta, GA",EOS Arcade,4c03f26a310fc9b63d92c661,Dollar Deal,635 Fulton St
+355,"Atlanta, GA",EOS Arcade,57f90cfa498e4e964edad98f,EOS Terrace,No Address
+356,"Atlanta, GA",EOS Arcade,5352e67c498e8b59f66c744e,66 Rockwell Place,66 Rockwell Pl
+357,"Atlanta, GA",EOS Arcade,5b89aecc8c812a002ca7f2af,Coffee Project New York,78 Rockwell Pl
+358,"Atlanta, GA",EOS Arcade,4d6d428ecb0eb1f720dfa9a0,10 MetroTech Center,10 Metrotech Ctr
+359,"Atlanta, GA",EOS Arcade,4c2258d699282d7f0cfb66b0,SCO Family Of Services,570 Fulton St
+360,"Atlanta, GA",EOS Arcade,4c5a0fd067ac0f47a9ef054c,GenspaceNYC,33 Flatbush Ave
+361,"Atlanta, GA",EOS Arcade,5da3206c1be55d00075d618f,Forte Gym,230 Ashland Place
+362,"Atlanta, GA",EOS Arcade,4ad8fa6ef964a520ac1621e3,MTA Subway - Nevins St (2/3/4/5),Nevins St
+363,"Atlanta, GA",Educole bowling and arcade,4da31c5d7aee54815ce9e2fe,66 Bus,No Address
+364,"Atlanta, GA",Educole bowling and arcade,50ba3d35e4b0a653aec8e699,Corner Luncheonette,247 Jewett Ave
+365,"Atlanta, GA",Educole bowling and arcade,4e95f37d82310e913f6c0bd7,Dance Theatre Of Staten Island,No Address
+366,"Atlanta, GA",Educole bowling and arcade,4c40dc24ce54e21ec7320a1a,Little Shop Studios,864 Post Ave
+367,"Atlanta, GA",Educole bowling and arcade,4ba351c0f964a520013538e3,Stephanie's Deli,234 Jewett Ave
+368,"Atlanta, GA",Educole bowling and arcade,4c3f3da415e8ef3b8e63300e,Michelangelo's Pizza,860 Post Ave
+369,"Atlanta, GA",Educole bowling and arcade,4c2625b45c5ca593ce8c45fe,Fresh Haircutters,858 Post Ave
+370,"Atlanta, GA",Educole bowling and arcade,4bd31661b221c9b6c0cbd8d0,Fresh Barbershop,No Address
+371,"Atlanta, GA",Educole bowling and arcade,4d2d4175679e6dcb8bc1ad95,Educole karaoke bar,914 Post Ave
+372,"Atlanta, GA",Educole bowling and arcade,4d2df0d494013704423be1da,Educoles pizza,913 Post Ave
+373,"Atlanta, GA",Educole bowling and arcade,4ca5d8a4a643b713bacde6a6,Shaolin Kung Fu Temple,925 Post Ave
+374,"Atlanta, GA",Educole bowling and arcade,4c4e42e89efabe9acc3ccd69,Happy Paws Boutique,945 Post Ave
+375,"Atlanta, GA",Educole bowling and arcade,4bd7747688559521759e87a7,Tanning Loft,Victory Blvd.
+376,"Atlanta, GA",Educole bowling and arcade,4cd161257561236a8d5731f3,Post laundromat,970 Post Ave
+377,"Atlanta, GA",Educole bowling and arcade,4dd409556365c27b0dbf48af,MTA Bus - Castleton Depot,1390 Castleton Ave
+378,"Atlanta, GA",Educole bowling and arcade,4dfbee58e4cdbe059c376e4d,Sunshiine Lane,15 Albion Pl
+379,"Atlanta, GA",Educole bowling and arcade,4d1fdddf5c4ca1cdb4a49c3d,MTA Bus - Castleton Av & Jewett Av (S46/S53/S66/S96/SIM3/3c/35),Castleton Ave
+380,"Atlanta, GA",Educole bowling and arcade,4cab63e9a6e08cfad351a594,Joe Mozz,1021 Post Ave
+381,"Atlanta, GA",Educole bowling and arcade,5331dfb611d2b412e21d2863,Mobil,387 Port Richmond Ave
+382,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4dc591dbb0fb5556ccf46e99,MFN Bucket,No Address
+383,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4f849f65e4b081aacf19d551,Popeyes Louisiana Kitchen,1220 Surf Ave
+384,"Atlanta, GA",Eldorado Bumper Cars & Arcade,53a0d3f9498ec06f0765de0d,Lunatics Ice Cream,1224 Surf Ave
+385,"Atlanta, GA",Eldorado Bumper Cars & Arcade,52c4469d498efde7ddeaea78,Scan-A-Rama,1208 Surf Ave
+386,"Atlanta, GA",Eldorado Bumper Cars & Arcade,595bed4fdb2aeb0886de5d43,F-Society (Mr. Robot),1221 Bowery
+387,"Atlanta, GA",Eldorado Bumper Cars & Arcade,5747aad3498e14be5f331b68,Freak Bar,1208 Surf Ave
+388,"Atlanta, GA",Eldorado Bumper Cars & Arcade,536e575c498ed4eaf75fc6c6,Coney Island USA - Museum & Freak Show,1208 Surf Ave
+389,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4fb9662ae4b0c06753bb1893,Coney Island Bar & Grill,1205 Surf Ave
+390,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4fdfa727e4b0866bd7a3bfe3,Lola Star's Subway Gift Shop,No Address
+391,"Atlanta, GA",Eldorado Bumper Cars & Arcade,5377f9af498e4726651b12e9,Margarita Island,1105 Bowery Street
+392,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4b93f492f964a520ac5c34e3,Coney Island Beach Shop,3018 Stillwell Avenue Coney Island
+393,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4f58913ee4b0b8ced77b6a4a,NYPD Td34 Gym,1243 Surf Ave
+394,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4dea88f0b0fb8293f7d7bef1,Skeeball,No Address
+395,"Atlanta, GA",Eldorado Bumper Cars & Arcade,607b3a818c20a4708925d94c,Bumper Cars,No Address
+396,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4a7b02b9f964a520cbe91fe3,Deno's Wonder Wheel,1025 Boardwalk W
+397,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4bd842d2f645c9b63a77a7e0,Luna Park,1000 Surf Ave
+398,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4a20bdddf964a520be7c1fe3,The Cyclone,834 Surf Ave
+399,"Atlanta, GA",Eldorado Bumper Cars & Arcade,59073a39b546187ea5cb9bde,Surf City Pizzeria,837 Surf Ave
+400,"Atlanta, GA",Eldorado Bumper Cars & Arcade,4d5bea841da1cbff3a811a05,Mermaid Parade Ride,1000 Surf Ave
+401,"Atlanta, GA",Flynn's Arcade,4e5311d76284ca6a2f6d0e21,Big Six Towers #5,46-10 61st St
+402,"Atlanta, GA",Flynn's Arcade,4e298f9d62e17c3301a94906,St. Adalbert's Catholic Church,52-29 83rd St
+403,"Atlanta, GA",Flynn's Arcade,50bb7657e4b071d531276e07,Saint Adalbert School,52-17 83rd St
+404,"Atlanta, GA",Flynn's Arcade,4f4a84a9e4b011fb77adcd92,St. Adelbert's,No Address
+405,"Atlanta, GA",Flynn's Arcade,4e1bb2041fc714dc5c310335,Li Li,83-06 Grand Ave
+406,"Atlanta, GA",Flynn's Arcade,531b4f7f498e00e81050bfb4,Mariella's Salon,84-26 Grand Ave
+407,"Atlanta, GA",Flynn's Arcade,4c2e1ab4987f20a126884aaa,"MTA Q58, Q59 Grand Ave & 84th St",No Address
+408,"Atlanta, GA",Flynn's Arcade,4ea0945df790ffa116e7fdc9,VXL Medical Care,83-01 Grand Ave
+409,"Atlanta, GA",Flynn's Arcade,4bc63132db8fa593ebeb9b37,The Hilltap Tavern,83-03 Grand Ave
+410,"Atlanta, GA",Flynn's Arcade,6084ae7dd4111d6f6ec5585f,Kuya's Lechon,84-60 Grand Ave
+411,"Atlanta, GA",Flynn's Arcade,4f0b27e5e4b06fab1bd36b8f,Grand Slope Park,Haspel St
+412,"Atlanta, GA",Flynn's Arcade,4d5ee3b7338bb60cfb0e15bd,A.N.R. Hardware,No Address
+413,"Atlanta, GA",Flynn's Arcade,4c49a1f5a3ace21ef269dd3b,Que Sabor,84-60 Grand Ave
+414,"Atlanta, GA",Flynn's Arcade,4bc0e63cabf49521a01ec093,Community Beverage,8004 Grand Ave
+415,"Atlanta, GA",Flynn's Arcade,4e4c484fb0fb57f6f21c87bb,Ace Wine And Spirits,No Address
+416,"Atlanta, GA",Flynn's Arcade,4dbe07b5a86e0e98a20950ff,Grand Ave Supermarket,8515 Grand Ave
+417,"Atlanta, GA",Flynn's Arcade,4e03c3697d8b00eb78bf4ae1,Melody Beauty Salon,8522
+418,"Atlanta, GA",Flynn's Arcade,4e2b6eead22d3f83c88fb0f2,Footbridge over LIRR,55th Avenue
+419,"Atlanta, GA",Flynn's Arcade,4c3b58314565e21ee391566a,99 Cent Store,69-17 Grand Ave
+420,"Atlanta, GA",Frames Bowling Lounge,5e0e1bdc6f11b900082504c7,Gate 421,No Address
+421,"Atlanta, GA",Frames Bowling Lounge,515ebd74e4b0a9e5c3875492,"C&J Bus To Portsmouth, NH",No Address
+422,"Atlanta, GA",Frames Bowling Lounge,4b9a738ff964a52079b635e3,Pine Hill Bus,No Address
+423,"Atlanta, GA",Frames Bowling Lounge,4c60a550b6f3be9aa8f15f73,Book Corner,Port Authority Bus Terminal
+424,"Atlanta, GA",Frames Bowling Lounge,4c6b07cee503c928512a47b3,Library Walk,41st streer
+425,"Atlanta, GA",Frames Bowling Lounge,4dcaee2c1838cc2cc641456f,Pedro Tatas . Jose's Cousin,No Address
+426,"Atlanta, GA",Frames Bowling Lounge,4c7d8de6d598a093a54dc362,Gate 232,South Terminal
+427,"Atlanta, GA",Frames Bowling Lounge,4e6fd25ed164f60bba71d535,Gate 224,South Terminal
+428,"Atlanta, GA",Frames Bowling Lounge,4d41a4bbde17a093901d036c,Gate 223,Port Authority Bus Terminal
+429,"Atlanta, GA",Frames Bowling Lounge,4bd26cbe046076b09e1a7471,Gate 167,Port Authority Bus Terminal
+430,"Atlanta, GA",Frames Bowling Lounge,59b2a2f735811b271f1aa589,Craven,346 W 40th St
+431,"Atlanta, GA",Frames Bowling Lounge,4aa06479f964a520753f20e3,2 Bros. Pizza,542 9th Ave
+432,"Atlanta, GA",Frames Bowling Lounge,58a09cb6b7920746eb8539b1,DoubleTree by Hilton,350 W 40th St
+433,"Atlanta, GA",Frames Bowling Lounge,59cfbc54c365882163746baa,Double Tree Gym,No Address
+434,"Atlanta, GA",Frames Bowling Lounge,4c8146b4d4e2370453405c88,Gate 234,South Terminal
+435,"Atlanta, GA",Frames Bowling Lounge,4d532b366bc337045a0affd2,Gate 2,South Terminal
+436,"Atlanta, GA",Frames Bowling Lounge,4e53e4d718a8c0ad8f74bdfc,NYC Baby,No Address
+437,"Atlanta, GA",Frames Bowling Lounge,4840fe6bf964a52030501fe3,Port Authority Bus Terminal,625 8th Ave
+438,"Atlanta, GA",Frames Bowling Lounge,49b7ed6df964a52030531fe3,Times Square,Broadway & 7th Ave
+439,"Atlanta, GA",Games & Arcades,4bd19820caff9521c9e1d0f0,Silver Spoon Restaurant,207-12
+440,"Atlanta, GA",Games & Arcades,4cd2d8e02436b60c412f87ca,Hollis Quality Cleaners,No Address
+441,"Atlanta, GA",Games & Arcades,4d4ef6a64a38b60c7055ef66,Beauty Nails,20716 Hollis Ave
+442,"Atlanta, GA",Games & Arcades,4b8d7c8df964a520a7fe32e3,compare foods,20616 Hollis Ave
+443,"Atlanta, GA",Games & Arcades,4e10f6411f6e671dd9e3e451,CompareFoods,206-16 Hollis Ave
+444,"Atlanta, GA",Games & Arcades,4c3ce21fb36ac928cab70486,Hop's Kitchen,109-69 Francis Lewis Blvd
+445,"Atlanta, GA",Games & Arcades,533d7724498e5ad90c719e56,grace nail and spa,No Address
+446,"Atlanta, GA",Games & Arcades,4cda2239d4ecb1f7801d7248,Hollis Deli,Francis Lewis & Hollis
+447,"Atlanta, GA",Games & Arcades,50294b54f470f7543bccad19,BP,20533 HOLLIS AVE
+448,"Atlanta, GA",Games & Arcades,4ba81b8cf964a52025cd39e3,Walgreens,10962 Francis Lewis Blvd
+449,"Atlanta, GA",Games & Arcades,4bd8fb2ae914a593166255fa,Dunkin',10962 Francis Lewis Blvd
+450,"Atlanta, GA",Games & Arcades,4c3cd6357d002d7f13fdae18,Domino's Pizza,10962 Francis Lewis Blvd
+451,"Atlanta, GA",Games & Arcades,4cf15afc1d18a1430fc852ec,Kennedy fried chicken,20529 Hollis Ave
+452,"Atlanta, GA",Games & Arcades,4be221d7f07b0f478fdff443,J & L St. Albans Pizzeria,205-27 Hollis Ave
+453,"Atlanta, GA",Games & Arcades,4eb601da9a52ad1e3f380b45,Hollis Ave,20602 Hollis Ave
+454,"Atlanta, GA",Games & Arcades,4e0b253a22713e13018f273f,MTA Q2 (Hollis Avenue),Hollis Avenue
+455,"Atlanta, GA",Games & Arcades,4e80805029c2611406c53bd4,IS192,109-89 204th St
+456,"Atlanta, GA",Games & Arcades,5290f4f311d2721accb192f4,Pathways College Preparatory School,109-89 204th St
+457,"Atlanta, GA",Games & Arcades,4d327fe098336dcb469e24f0,Club Hunter,No Address
+458,"Atlanta, GA",Games & Arcades,4f3dc8abe4b0f010501272a2,Secrets Bar & Lounge,24511 Francis Lewis Blvd
+459,"Atlanta, GA",Graha Arcade,4fad4a66e4b06e5ab7da5808,CityMD W Flatiron,37 West 23rd Street
+460,"Atlanta, GA",Graha Arcade,4c77b1ec93faa0934782f1fb,Touro College -  Main Campus,27 W 23rd St
+461,"Atlanta, GA",Graha Arcade,4cd422c54f6d6a3161b60a11,Touro College Library Midtown,43 W 23rd St
+462,"Atlanta, GA",Graha Arcade,5ce2bc2e2632ec002ca68048,Vettery,27 W 23rd St
+463,"Atlanta, GA",Graha Arcade,4dc2fbbb1f6ef43b89d8115d,Lifespire Man. South,27 W 23rd St
+464,"Atlanta, GA",Graha Arcade,4be05ced4c189c74bb6956f2,Touro College,43 W 23rd St
+465,"Atlanta, GA",Graha Arcade,4bf8c87f5efe2d7f99666b34,Karems Halal Food Cart,60-98 W 23rd St
+466,"Atlanta, GA",Graha Arcade,59542863f62e09162c5cac34,Datorama,43 W 23rd St
+467,"Atlanta, GA",Graha Arcade,55a577d4498e6ad9e4eeb03a,Rise New York,43 W 23rd St Fl 2
+468,"Atlanta, GA",Graha Arcade,4be0af874c189c74ba7556f2,Betterment,27 W 23rd St
+469,"Atlanta, GA",Graha Arcade,52a1fa08498ede15b1530912,Deep Indian Kitchen,25 W 23rd St
+470,"Atlanta, GA",Graha Arcade,4d498bd44509721e768925b0,Dr. Donna Esposito,49 W 23rd St
+471,"Atlanta, GA",Graha Arcade,4a21834ff964a520077d1fe3,The Home Depot,40 W 23rd St
+472,"Atlanta, GA",Graha Arcade,50524dabe4b057d58969e2bc,Dr. Sambataro,49 W 23rd St
+473,"Atlanta, GA",Graha Arcade,4d80f5b5577eb1f70746b2d3,Revolucion NY,22 W 23rd St
+474,"Atlanta, GA",Graha Arcade,4b2d69bef964a52024d624e3,DataVision,50 W 23rd St
+475,"Atlanta, GA",Graha Arcade,4b6de0d2f964a52013982ce3,Jennifer Leather,26 W 23rd St
+476,"Atlanta, GA",Graha Arcade,4a0a30a7f964a5208d741fe3,Duggal Visual Solutions,43 W 24th St Fl 2
+477,"Atlanta, GA",Graha Arcade,4b11c14ff964a520ef8323e3,MTA Subway - 23rd St (F/M),23rd St
+478,"Atlanta, GA",Graha Arcade,4be07eea2aed2d7f0090c86f,Girl Scouts Council of Greater NY Offices,40 Wall St
+479,"Atlanta, GA",Greeley Arcade Building,4cffb3071ebe6dcbdef28291,Florentine Films,No Address
+480,"Atlanta, GA",Greeley Arcade Building,59efa19925ecca240d6f2861,Nordstrom Rack,865 Avenue of the Americas
+481,"Atlanta, GA",Greeley Arcade Building,4d73afb58e12b1f7a2954c05,Dark PR,875 Avenue of the Americas
+482,"Atlanta, GA",Greeley Arcade Building,527a6fa811d2d40347eef6c9,Mara Hoffman Showroom,866 Avenue of the Americas
+483,"Atlanta, GA",Greeley Arcade Building,4d71813c5838a0930cabfcda,Green Screen Dream,851 Avenue of the Americas
+484,"Atlanta, GA",Greeley Arcade Building,4ff2459fe4b0a148f89af102,Gregorys Coffee,874 Avenue of the Americas
+485,"Atlanta, GA",Greeley Arcade Building,4d42c4b185c1721e8d1fe292,Satellite Academy High School,120 W 30th St
+486,"Atlanta, GA",Greeley Arcade Building,4beb33be415e20a1940ce6bb,Novelty Candy Store,856 Avenue of the Americas
+487,"Atlanta, GA",Greeley Arcade Building,5cf5a3ca8f90d9002363ddce,Upfit Training Academy,No Address
+488,"Atlanta, GA",Greeley Arcade Building,4ac7b7e4f964a52053b920e3,Hampton Inn by Hilton,116 W 31st St
+489,"Atlanta, GA",Greeley Arcade Building,4e86efa98b81f9942843345b,Beatrice Apartments,105 W 29th St
+490,"Atlanta, GA",Greeley Arcade Building,5a09b45b6dcf043c23d5ad4e,King’s Street Coffee,121 W 30th St
+491,"Atlanta, GA",Greeley Arcade Building,5e23224e57798100081d4603,New Hair,119 W 30th St
+492,"Atlanta, GA",Greeley Arcade Building,59ac2ec6fdb9a734dd847025,Paper Coffee,44 W 29th
+493,"Atlanta, GA",Greeley Arcade Building,4a3966c7f964a520689f1fe3,Jack's.,110 W 32nd St
+494,"Atlanta, GA",Greeley Arcade Building,4b4d2088f964a520ebcb26e3,DLG Galery,143 W 29th St
+495,"Atlanta, GA",Greeley Arcade Building,4a63d085f964a520dac51fe3,33rd St PATH Station,33rd St.
+496,"Atlanta, GA",Greeley Arcade Building,40b68100f964a5207d001fe3,Madison Square Park,Madison Ave
+497,"Atlanta, GA",Greeley Arcade Building,5c8d460cefa82a002c60770c,15 Hudson Yards,15 Hudson Yards
+498,"Atlanta, GA",Harlem Arcade,5115cb6ee4b0e3bff67c7aba,Mt. Corel,No Address
+499,"Atlanta, GA",Harlem Arcade,5115ba7ce4b07949b7298c12,Junon,No Address
+500,"Atlanta, GA",Harlem Arcade,5115d118e4b0f0411a6a112f,North Corel,No Address
+501,"Atlanta, GA",Harlem Arcade,51172a0be4b0ec510c31d4ed,Bone Village,No Address
+502,"Atlanta, GA",Harlem Arcade,5115c73ce4b0c7859556cbbf,Costa Del Sol,No Address
+503,"Atlanta, GA",Harlem Arcade,5115b85de4b0805e0de88bec,Condor Canyon,No Address
+504,"Atlanta, GA",Harlem Arcade,51173fd0e4b08e476fe23de0,Great glacier,No Address
+505,"Atlanta, GA",Harlem Arcade,5115b403e4b03e9918a7118b,Chocobo Farm,No Address
+506,"Atlanta, GA",Harlem Arcade,4d8cc9281716a143d02a08f7,A-plus Prosses serving,131w 137th street d1
+507,"Atlanta, GA",Harlem Arcade,4bedea15946c0f47a22aa363,Kandy Blaz,No Address
+508,"Atlanta, GA",Harlem Arcade,4b376908f964a520ef4025e3,Abyssinian Baptist Church,132 Odell Clark Pl
+509,"Atlanta, GA",Harlem Arcade,4d8a67f099c2a1cdf80d90d7,Odell Clark Place II,108 Odell Clark Pl
+510,"Atlanta, GA",Harlem Arcade,55c558a5498ebb448ec94b55,Harlem Knight Bar,2361 Adam Clayton Powell Jr Blvd
+511,"Atlanta, GA",Harlem Arcade,59027ed4780eee19af6e945e,PJ Nails & Spa,541 Malcolm X Blvd
+512,"Atlanta, GA",Harlem Arcade,55bfb087498eeabf50d4692e,Harlem Nights,2361 Adam Clayton Powell Jr Blvd
+513,"Atlanta, GA",Harlem Arcade,60bce848164ed272f96193b9,Ink Harlem,2363 Adam Clayton Powell Jr Blvd
+514,"Atlanta, GA",Harlem Arcade,613d045790eb43793cfc9f69,Sexy Taco,2340 Adam Clayton Powell Jr Blvd
+515,"Atlanta, GA",Harlem Arcade,507f4964e4b02081a110f623,Bestway Deli,No Address
+516,"Atlanta, GA",Harlem Arcade,604bd36881be423763bc0bd3,Mad Juicy,100 W 139th St
+517,"Atlanta, GA",I Fix Machine Arcade,5c4bf2492db4a9002c6a342c,"The L Hotel, Ascend Hotel Collection",135 32nd Street
+518,"Atlanta, GA",I Fix Machine Arcade,60884ea24b76ff0e7cd9f652,Briq,132 32nd Street
+519,"Atlanta, GA",I Fix Machine Arcade,5d718671565c3a0008c00360,NYC Yoga Project,112 32nd St
+520,"Atlanta, GA",I Fix Machine Arcade,4c1624d9a1010f4739fd4e18,"Hagan, coury & Associates",No Address
+521,"Atlanta, GA",I Fix Machine Arcade,549afde1498eafa4221cb7ee,On the Rocks,894 4th Ave
+522,"Atlanta, GA",I Fix Machine Arcade,59c6de3248b04e4a8ff6c980,Beer House,No Address
+523,"Atlanta, GA",I Fix Machine Arcade,5973d79aa92d9809bbae650c,Next Level,No Address
+524,"Atlanta, GA",I Fix Machine Arcade,4e59f5bf18a8c204751347bc,Zone C Brooklyn Baby!,No Address
+525,"Atlanta, GA",I Fix Machine Arcade,4d432ba785c1721e3572e692,Getty Gas Station,No Address
+526,"Atlanta, GA",I Fix Machine Arcade,4d52d8b89d493704c734dd39,Big John's Coffee Shop & Grill,865 4th Ave
+527,"Atlanta, GA",I Fix Machine Arcade,4b721b55f964a5200e6f2de3,On the Run,875 4th Ave
+528,"Atlanta, GA",I Fix Machine Arcade,5b93f8f7bcbf7a002c9e3933,Mama Lupitas,904 4th Ave
+529,"Atlanta, GA",I Fix Machine Arcade,5c8db13c336273003942b92d,Minnie’s Bar,885 4th Ave
+530,"Atlanta, GA",I Fix Machine Arcade,607b654e8c20a47089954ec0,Gravesend Pizza,181 34th St
+531,"Atlanta, GA",I Fix Machine Arcade,4b760232f964a52037362ee3,la parada,855 4th Ave
+532,"Atlanta, GA",I Fix Machine Arcade,5729b53d498e2cb0d59fad82,34 New York Finest Deli,920 4th Avenue
+533,"Atlanta, GA",I Fix Machine Arcade,4b951e6bf964a520fd8f34e3,Sunset Park High School,153 35th St
+534,"Atlanta, GA",I Fix Machine Arcade,53192dd6498e6f151e87e3ed,Micro Center,850 3rd Ave
+535,"Atlanta, GA",I Fix Machine Arcade,4f8b172ce4b05ae88a60b0d3,Grand Kitchen & Stone Supply Inc.,"920 3rd Ave, Brooklyn, NY 11232"
+536,"Atlanta, GA",I Fix Machine Arcade,4e6934d2b993038735685814,Industry City,220 36th St #2A
+537,"Atlanta, GA",Kaufman Arcade,4b72faf5f964a520a8932de3,Green Tea Nail and Spa,141 W 35th St
+538,"Atlanta, GA",Kaufman Arcade,60f72b538e91d07cdf170e5b,Blue 35 Tailors & Cleaners,141 W 35th St
+539,"Atlanta, GA",Kaufman Arcade,51d312cf498e01bc8210a958,Hardware Project,No Address
+540,"Atlanta, GA",Kaufman Arcade,4d9dc57348b6224bf1cf2b9f,Alternatives Unlimited - SES NYC,147 W 35th St
+541,"Atlanta, GA",Kaufman Arcade,4d99cc8d2bd6f04d082a8650,SES Tutoring NYC,147 W 35th St
+542,"Atlanta, GA",Kaufman Arcade,4c88dedbda5da1cd8c6237e9,Fancy 35 Cleaners,141 W 35th St
+543,"Atlanta, GA",Kaufman Arcade,4d9b4ae4674ca1433e9acf43,Premiere Vision,147 W 35th St
+544,"Atlanta, GA",Kaufman Arcade,5b4284f39411f2002c16555d,Yoga & Fitness Herald Square,139 West 35th St
+545,"Atlanta, GA",Kaufman Arcade,5dae14c54db7920007d946dd,Zaro's Bakery,151 W 34th St
+546,"Atlanta, GA",Kaufman Arcade,570bdac9498efb0ebb5e011a,pizza bar NYC,151 W 34th St
+547,"Atlanta, GA",Kaufman Arcade,5a0b2f7a51950e1a4374b56f,Manhattan Apothecary,147 W 35th St
+548,"Atlanta, GA",Kaufman Arcade,523223712fc68447aab9984a,Robbie & Co. Men's Shop,147 W 35th St
+549,"Atlanta, GA",Kaufman Arcade,50fee88fe4b052c5b1e8e5d6,147 W 35 St,No Address
+550,"Atlanta, GA",Kaufman Arcade,56efe70e498e8a77e130b14f,Dunkin',155 W 35th St
+551,"Atlanta, GA",Kaufman Arcade,55aab4ae498e68da467c191d,Best Stitch Tailoring,147 W 35th St
+552,"Atlanta, GA",Kaufman Arcade,546252ea498ecce55ba25164,Just Salad,151 W 34th St Fl 4
+553,"Atlanta, GA",Kaufman Arcade,4bbb7a939858d13aa06533a2,Goldberg Technology,147 W 35th St
+554,"Atlanta, GA",Kaufman Arcade,41102700f964a520d60b1fe3,Macy's,151 W 34th St
+555,"Atlanta, GA",Kaufman Arcade,5d8dc3b92b655f0008086029,Lovesac at Macy's Herald Square,151 W 34th St Fl 9
+556,"Atlanta, GA",Kaufman Arcade,595d2cb3a6031c40dfce312b,BCBGeneration at Macy's,151 W 34th St
+557,"Atlanta, GA",Luna Arcade,4c6344d3fa7bc928c2521027,Brooklyn Flyer,"1000 Surf Ave, Coney Island"
+558,"Atlanta, GA",Luna Arcade,4c2a954b2219c928755ca348,The Tickler,"1000 Surf Avenue, Coney Island"
+559,"Atlanta, GA",Luna Arcade,4c59abc704f9be9a3ee3ef60,Wild River,1000 Surf Ave
+560,"Atlanta, GA",Luna Arcade,612bcb88cc4e80273465eb8d,Atlantic Aviator,No Address
+561,"Atlanta, GA",Luna Arcade,607b3a818c20a4708925d94c,Bumper Cars,No Address
+562,"Atlanta, GA",Luna Arcade,4c59aaed5c57c9b6865b1b4a,Electro Spin,"1000 Surf Ave, Coney Island"
+563,"Atlanta, GA",Luna Arcade,4c59ab7ed3aee21e9dcb6855,Thunder Bolt,1000 Surf Ave
+564,"Atlanta, GA",Luna Arcade,5b8c4856419a9e002cca353d,Sea Side Swing,No Address
+565,"Atlanta, GA",Luna Arcade,4bd842d2f645c9b63a77a7e0,Luna Park,1000 Surf Ave
+566,"Atlanta, GA",Luna Arcade,556fcfa2498ef374535991cb,Luna 360,No Address
+567,"Atlanta, GA",Luna Arcade,4c43c87bdcd61b8d4b8a7a56,Spook-a-Rama,No Address
+568,"Atlanta, GA",Luna Arcade,4a7b02b9f964a520cbe91fe3,Deno's Wonder Wheel,1025 Boardwalk W
+569,"Atlanta, GA",Luna Arcade,5b833155b040560039f41a08,Coney Clipper,No Address
+570,"Atlanta, GA",Luna Arcade,51feb7c5498e3df58fa1d80a,Deno's Wonder Wheel Amusement Park,1025 Boardwalk W
+571,"Atlanta, GA",Luna Arcade,4d5bea841da1cbff3a811a05,Mermaid Parade Ride,1000 Surf Ave
+572,"Atlanta, GA",Luna Arcade,4e31c5cf1520b5aee2203558,Coneys Cones,1409 Mermaid Ave
+573,"Atlanta, GA",Luna Arcade,4c44c0e9dd1f2d7f4b4c80f9,Gyro Corner,No Address
+574,"Atlanta, GA",Luna Arcade,4bafaa5df964a52066153ce3,Nathan's Famous,1310 Surf Ave
+575,"Atlanta, GA",Luna Arcade,4a4a9cbcf964a520ffab1fe3,Golden Taste,42 Bowery
+576,"Atlanta, GA",Mermaid Parade Ride,4ba51013f964a520b4d738e3,Paul's Daughter,Boardwalk
+577,"Atlanta, GA",Mermaid Parade Ride,4d5be8fd1da1cbff53761a05,Beach Shack,1000 Surf Ave
+578,"Atlanta, GA",Mermaid Parade Ride,612bbe92844b27193bb9ca0c,Windstarz,No Address
+579,"Atlanta, GA",Mermaid Parade Ride,4e35b3611838f85189a9ae15,Coney Island Blue Fairy,No Address
+580,"Atlanta, GA",Mermaid Parade Ride,4d5be9dc1da1cbff5b7c1a05,Happy Swing,1000 Surf Ave
+581,"Atlanta, GA",Mermaid Parade Ride,5b833155b040560039f41a08,Coney Clipper,No Address
+582,"Atlanta, GA",Mermaid Parade Ride,4d5bead41da1cbff71831a05,Tea Party,1000 Surf Ave
+583,"Atlanta, GA",Mermaid Parade Ride,4e407d7afa7697d3df7d7408,Flix On The Beach,Coney Island Beach
+584,"Atlanta, GA",Mermaid Parade Ride,4c2ceafd8ef52d7f31ae33ba,Water Mania,1000 Surf Ave
+585,"Atlanta, GA",Mermaid Parade Ride,4db70c07a86e8d2707b820dd,Tilt-a-whirl,No Address
+586,"Atlanta, GA",Mermaid Parade Ride,4bd842d2f645c9b63a77a7e0,Luna Park,1000 Surf Ave
+587,"Atlanta, GA",Mermaid Parade Ride,4a7b02b9f964a520cbe91fe3,Deno's Wonder Wheel,1025 Boardwalk W
+588,"Atlanta, GA",Mermaid Parade Ride,5d61b060dacf3800086da08f,Half Moon Funnel Cakes,Coney Island
+589,"Atlanta, GA",Mermaid Parade Ride,607b3a818c20a4708925d94c,Bumper Cars,No Address
+590,"Atlanta, GA",Mermaid Parade Ride,49e4a769f964a52015631fe3,Coney Island Beach & Boardwalk,Riegelmann Boardwalk
+591,"Atlanta, GA",Mermaid Parade Ride,4c44c0e9dd1f2d7f4b4c80f9,Gyro Corner,No Address
+592,"Atlanta, GA",Mermaid Parade Ride,4bef0ae6c80dc928596927e3,Shoot The Freak,No Address
+593,"Atlanta, GA",Mermaid Parade Ride,4a20bdddf964a520be7c1fe3,The Cyclone,834 Surf Ave
+594,"Atlanta, GA",Mermaid Parade Ride,51d7757d498eee1e6b1bfa40,Coney Island Fireworks,West 17- Stillwell Avenue
+595,"Atlanta, GA",Moto Arcade,4eb833b14fc6167a83b5593d,CNET Gotham,201 Mulberry St
+596,"Atlanta, GA",Moto Arcade,5f3ebb7f354c107b17b70da9,O.N.S Clothing,201 Mulberry St
+597,"Atlanta, GA",Moto Arcade,5e64067e3703e0000830e2a1,Veja,205 Mulberry St
+598,"Atlanta, GA",Moto Arcade,4bf0703517880f4748522937,205 Mulberry St,205 Mulberry St
+599,"Atlanta, GA",Moto Arcade,4caf71af5430b71355603616,Insound Design Store,201 Mulberry St
+600,"Atlanta, GA",Moto Arcade,57f0263bcd10af69ef87e61c,giphy loop dreams,201 Mulberry St
+601,"Atlanta, GA",Moto Arcade,4d46e0d114aa8cfabfb9813d,Digital Clarity NYC HQ,275 Mott St Apt 2F
+602,"Atlanta, GA",Moto Arcade,4db303bd0437fa536a09b62c,Dig Daniel Arsham Snarkitechture,Kenmare
+603,"Atlanta, GA",Moto Arcade,4e08ab327d8b2a018061c43c,Rocawear Style Suite #ThatsRocawear,201 Mulberry St
+604,"Atlanta, GA",Moto Arcade,3fd66200f964a5203fe61ee3,Malia Mills,199 Mulberry St
+605,"Atlanta, GA",Moto Arcade,50ca76dee4b06fef13b5a5c2,R29 Tinseltown Bazaar,No Address
+606,"Atlanta, GA",Moto Arcade,4e1c771652b1c2b69f352f82,The Spot by Heineken,201 Mulberry St
+607,"Atlanta, GA",Moto Arcade,526d5e6c11d2e12573ca318e,Motorola,201 Mulberry St
+608,"Atlanta, GA",Moto Arcade,4bfda1fbb68d0f47b013e957,Open House Studios,No Address
+609,"Atlanta, GA",Moto Arcade,4f35b2efe4b0fc67a759cfc8,LuLus Style Studio,No Address
+610,"Atlanta, GA",Moto Arcade,4ab7a81ef964a520557a20e3,Vive La Crêpe,51 Spring St
+611,"Atlanta, GA",Moto Arcade,56bbc58e498eed7b2c402556,Pasquale Jones,187 Mulberry St
+612,"Atlanta, GA",Moto Arcade,5adf87fc9e3b65333d724b66,Van Leeuwen Ice Cream,45 Spring St
+613,"Atlanta, GA",Moto Arcade,54144ba5498e6b1091d9eb05,PaintBox NoLita,22 Spring
+614,"Atlanta, GA",Moto Arcade,4be078b398f2a5935a5dc25a,Holland Tunnel,Interstate 78
+615,"Atlanta, GA",MotoArcade!,5f3ebb7f354c107b17b70da9,O.N.S Clothing,201 Mulberry St
+616,"Atlanta, GA",MotoArcade!,4ee29b54e4b04d212f81b1c0,Lizzmonade,"201 Mulberry St, New York, NY 10012"
+617,"Atlanta, GA",MotoArcade!,50ca76dee4b06fef13b5a5c2,R29 Tinseltown Bazaar,No Address
+618,"Atlanta, GA",MotoArcade!,4caf71af5430b71355603616,Insound Design Store,201 Mulberry St
+619,"Atlanta, GA",MotoArcade!,4bffac70ca1920a13a13ed81,Play Beautiful,201 Mulberry St
+620,"Atlanta, GA",MotoArcade!,57f0263bcd10af69ef87e61c,giphy loop dreams,201 Mulberry St
+621,"Atlanta, GA",MotoArcade!,4eb833b14fc6167a83b5593d,CNET Gotham,201 Mulberry St
+622,"Atlanta, GA",MotoArcade!,5e64067e3703e0000830e2a1,Veja,205 Mulberry St
+623,"Atlanta, GA",MotoArcade!,526d5e6c11d2e12573ca318e,Motorola,201 Mulberry St
+624,"Atlanta, GA",MotoArcade!,4bf0703517880f4748522937,205 Mulberry St,205 Mulberry St
+625,"Atlanta, GA",MotoArcade!,3fd66200f964a5203fe61ee3,Malia Mills,199 Mulberry St
+626,"Atlanta, GA",MotoArcade!,57f05d8e498e8431c79bfe52,201 Mulberry Street,201 Mulberry St
+627,"Atlanta, GA",MotoArcade!,4e1c771652b1c2b69f352f82,The Spot by Heineken,201 Mulberry St
+628,"Atlanta, GA",MotoArcade!,4e08ab327d8b2a018061c43c,Rocawear Style Suite #ThatsRocawear,201 Mulberry St
+629,"Atlanta, GA",MotoArcade!,4fecd6ece4b018f9cfc4927b,For Humankind,201 Mulberry St
+630,"Atlanta, GA",MotoArcade!,4bfda1fbb68d0f47b013e957,Open House Studios,No Address
+631,"Atlanta, GA",MotoArcade!,56bbc58e498eed7b2c402556,Pasquale Jones,187 Mulberry St
+632,"Atlanta, GA",MotoArcade!,4ab7a81ef964a520557a20e3,Vive La Crêpe,51 Spring St
+633,"Atlanta, GA",MotoArcade!,49ee25b6f964a5202b681fe3,Eileen's Special Cheesecake,17 Cleveland Pl
+634,"Atlanta, GA",MotoArcade!,6036bbabf90ecb573631ff04,5ive Spice,227 Mulberry St
+635,"Atlanta, GA",New York Arcade Rentals,4babf3aef964a5208ad83ae3,Hope For New York,1359 Broadway
+636,"Atlanta, GA",New York Arcade Rentals,555382b5498ea01f89c08fe0,Nyserda,1359 Broadway
+637,"Atlanta, GA",New York Arcade Rentals,50dc839be4b0e04beb53dc56,Meu Mar Cafe,No Address
+638,"Atlanta, GA",New York Arcade Rentals,50e60133e4b026ac77cd5817,Mithaas,No Address
+639,"Atlanta, GA",New York Arcade Rentals,5a7c59a8d807ee6bad5fab2c,Sisense,1359 Broadway
+640,"Atlanta, GA",New York Arcade Rentals,50de0f33e4b0073e9fd0e02d,Metropolitan National Bank,No Address
+641,"Atlanta, GA",New York Arcade Rentals,4be882394485d13a3d0f94ee,The UPS Store,121 W 36th St
+642,"Atlanta, GA",New York Arcade Rentals,57dddade498eaf06318e5a86,Lan Sheng Szechuan Restaurant 草堂小餐,128 W 36th St
+643,"Atlanta, GA",New York Arcade Rentals,5de9b7488a06ab0008578d52,Wolfgang’s Steakhouse,1359 Broadway
+644,"Atlanta, GA",New York Arcade Rentals,4b1ecf0df964a520d11f24e3,Redeemer Presbyterian Offices,1359 Broadway
+645,"Atlanta, GA",New York Arcade Rentals,51d192f2e4b0e66b7c30573f,"SLCE Architects, LLP",1359 Broadway
+646,"Atlanta, GA",New York Arcade Rentals,4c56bba812f0d13afb6b05ad,1359 Broadway,1359 Broadway
+647,"Atlanta, GA",New York Arcade Rentals,523b2f7311d23d66548a6723,Fresh & Co,1359 Broadway
+648,"Atlanta, GA",New York Arcade Rentals,4b97e422f964a520171d35e3,NY Real Estate Institute,139 W 35th St.
+649,"Atlanta, GA",New York Arcade Rentals,5ce483eafb8e59002c1409d3,Secret Eyelash,1369 Broadway
+650,"Atlanta, GA",New York Arcade Rentals,4b4facbff964a5204b1027e3,Chopstick House,130 W 36th St
+651,"Atlanta, GA",New York Arcade Rentals,5723922f498efa17d6ffb135,Shake Shack,1333 Broadway
+652,"Atlanta, GA",New York Arcade Rentals,4c75a1d0c219224bfd20a328,Capitol Bait & Tackle,132 W 36th St
+653,"Atlanta, GA",New York Arcade Rentals,51a9070f698f1d8a4bcfc8aa,Citi Bike Station,Broadway
+654,"Atlanta, GA",New York Arcade Rentals,41102700f964a520d60b1fe3,Macy's,151 W 34th St
+655,"Atlanta, GA",Sahil's Arcade Of Good Times,51dacc1c498e145832582033,St. John's Garden,210 W 31st St
+656,"Atlanta, GA",Sahil's Arcade Of Good Times,51fd143e498e8751ffd865ad,Vanderbilt Statue,No Address
+657,"Atlanta, GA",Sahil's Arcade Of Good Times,4f747879e4b0b3e2370f78c1,Samuel Rea Statue,No Address
+658,"Atlanta, GA",Sahil's Arcade Of Good Times,4f6b8f1fe4b0ef1d48d9f356,Fundspire,"29, Newark, NJ 07103"
+659,"Atlanta, GA",Sahil's Arcade Of Good Times,52de9b97498e62eda5ffe81c,North Chelsea Park,No Address
+660,"Atlanta, GA",Sahil's Arcade Of Good Times,507ff4cde4b0889aa65e8ddb,comScore,7 Penn Plz
+661,"Atlanta, GA",Sahil's Arcade Of Good Times,4e528a3d62e1f6d84aa99d95,"Sonnenschein, Sherman & Deutsch, LLP",7 Penn Plaza
+662,"Atlanta, GA",Sahil's Arcade Of Good Times,4da73cb3f7b15dc952f603dc,Century Management,7 Penn Plz
+663,"Atlanta, GA",Sahil's Arcade Of Good Times,4bffd57792a6c928a42443e2,Track 01,Penn Station
+664,"Atlanta, GA",Sahil's Arcade Of Good Times,4a85b1b3f964a520eefe1fe3,Starbucks,370 7th Ave
+665,"Atlanta, GA",Sahil's Arcade Of Good Times,4b0ada59f964a520e62823e3,Capital One Bank,370 7th Ave
+666,"Atlanta, GA",Sahil's Arcade Of Good Times,527ace28498ecdcebc44d896,Internap,370 7th Ave Fl 17
+667,"Atlanta, GA",Sahil's Arcade Of Good Times,4bd5d354637ba5935f18f770,Seven Penn Plaza,7 Penn Plz
+668,"Atlanta, GA",Sahil's Arcade Of Good Times,5dcc85223f657e000848a2cc,Tracks Raw Bar & Grill,220 W 31st St
+669,"Atlanta, GA",Sahil's Arcade Of Good Times,4e90d9d96da174e28e72affc,New York Rangers Locker Room,4 Penn Plz
+670,"Atlanta, GA",Sahil's Arcade Of Good Times,42911d00f964a520f5231fe3,New York Penn Station,1 Penn Plz
+671,"Atlanta, GA",Sahil's Arcade Of Good Times,4ae6363ef964a520aba521e3,Madison Square Garden,4 Penn Plz
+672,"Atlanta, GA",Sahil's Arcade Of Good Times,578e6500cd10fae9c60a2a8a,Moynihan Train Hall,340 W 33rd St
+673,"Atlanta, GA",Sahil's Arcade Of Good Times,4c0fa2d698102d7fe482e506,Passport Magazine,247 W 35th St Fl 12
+674,"Atlanta, GA",Sahil's Arcade Of Good Times,60bc32b1cc9b0b61eba15130,Plan B,34 W 32nd St Fl 2
+675,"Atlanta, GA",Showplace Arcade,4dff4d2fe4cdf7246078091e,Pratt Industries,4435 Victory Blvd
+676,"Atlanta, GA",Showplace Arcade,4bd8d7692e6f0f47c2e10808,Visy Paper,4435 Victory Blvd
+677,"Atlanta, GA",Showplace Arcade,4f2ada60e4b09f4f37cb797a,family tile,No Address
+678,"Atlanta, GA",Showplace Arcade,4c3330c5452620a1cb24230f,Arthur Kill Generating Station,4401 Victory Blvd
+679,"Atlanta, GA",Showplace Arcade,4c49fd4cbad7a593fc77c3a9,CITGO,172 W Service Rd
+680,"Atlanta, GA",Showplace Arcade,4c5efb6b9b28d13a73bf5d70,Dunkin',"180 West Service Rd, Citgo Gas Station"
+681,"Atlanta, GA",Showplace Arcade,5f3d520b2d715a0bdba65de0,Crunch Fitness - Staten Island,300 West Service Road
+682,"Atlanta, GA",Showplace Arcade,4b47047cf964a520942a26e3,New York Sports Club,300 W Service Rd
+683,"Atlanta, GA",Showplace Arcade,4f848c6a7b0c58977ce216b8,Staten Island Department of Sanitation Facility,Exit 7 Service Road off of West Shore Expressway
+684,"Atlanta, GA",Showplace Arcade,4e61b9c8b0fb188e8d65d2e3,KMI Carteret Dock 1B,No Address
+685,"Atlanta, GA",Showplace Arcade,4c86d2a2110176b09e3db340,LA Fitness,145 E Service Rd
+686,"Atlanta, GA",Showplace Arcade,4ccaea0ac4d06dcb45266603,Jimmy Hoffa Final Resting Place,West Shore Exwy w Srv Road
+687,"Atlanta, GA",Showplace Arcade,58cec21a6c682b714f1e8f6e,Hook & Rail Meats,4174 Victory Blvd
+688,"Atlanta, GA",Showplace Arcade,4d2a093e467d6ea84fb8d495,Nrgize,145 E Service Rd
+689,"Atlanta, GA",Showplace Arcade,5cd28f037dc9e1002c64e0f9,Fairfield Inn & Suites by Marriott New York Staten Island,290 Wild Avenue
+690,"Atlanta, GA",Showplace Arcade,59fe09012079557b03858a2d,Staten Island New York Hotel,290 Wild Ave
+691,"Atlanta, GA",Showplace Arcade,4cafdb3175ebb60c8b00c0ad,The Cellar,No Address
+692,"Atlanta, GA",Showplace Arcade,4f43b29be4b0ee9b22920dcc,DSNY Transfer Station,Fresh Kills
+693,"Atlanta, GA",Showplace Arcade,4c3c58bc7d00d13a1cb93850,Kinder Morgan Bulk Storage Terminal,Peter J Sica Industrial Hwy
+694,"Atlanta, GA",Showplace Arcade,4c4440dc74ffc928bb3c75cc,Kinder Morgan,78 Lafayette St
+695,"Atlanta, GA",Washington Heights Arcade and Bingo,4e62a39cd4c06542ab0c849b,J & J New York,585 W 181st St
+696,"Atlanta, GA",Washington Heights Arcade and Bingo,4b4255c0f964a520d1d125e3,Washington Heights Family Health Center,575 W 181st St
+697,"Atlanta, GA",Washington Heights Arcade and Bingo,4e27086a483b329ccb40b65d,Delta Computer,No Address
+698,"Atlanta, GA",Washington Heights Arcade and Bingo,4e9db7a8b6348df6f73e051c,Doctor's Office,No Address
+699,"Atlanta, GA",Washington Heights Arcade and Bingo,4d1ea6310901721e024e84a5,MTA Bus - BX3 - Broadway,Broadway
+700,"Atlanta, GA",Washington Heights Arcade and Bingo,4e2705f0b61ce3fb0554516c,181 St. NYPH Clinic,No Address
+701,"Atlanta, GA",Washington Heights Arcade and Bingo,4fb6848be4b07a70ece42bd5,Papi's Pizzeria,1422 Saint Nicholas Ave
+702,"Atlanta, GA",Washington Heights Arcade and Bingo,4e5313a918a8c0ad8f6b0285,MABSTOA BX13,181 Street & St. Nicholas Ave
+703,"Atlanta, GA",Washington Heights Arcade and Bingo,4b3d0918f964a5207b8c25e3,MTA Subway - 181st St (1),W 181st St.
+704,"Atlanta, GA",Washington Heights Arcade and Bingo,4e9204d99adf18f8825bba7e,Zodiac,No Address
+705,"Atlanta, GA",Washington Heights Arcade and Bingo,4bcdf9b0fb84c9b63cf4223e,Washington Heights Corner Project,566 W 181st St
+706,"Atlanta, GA",Washington Heights Arcade and Bingo,50622a2fe4b0a433c33f183f,181st Street & St. Nicholas Avenue,181st Street
+707,"Atlanta, GA",Washington Heights Arcade and Bingo,4ee2c41177c8e89316832d54,181 Street Shopping Center,No Address
+708,"Atlanta, GA",Washington Heights Arcade and Bingo,4c08e1907e3fc928a3f1f082,Dunkin',1416 Saint Nicholas Ave
+709,"Atlanta, GA",Washington Heights Arcade and Bingo,567ef37d498eb25ea637c311,Taco GoGo,564 W 181st St
+710,"Atlanta, GA",Washington Heights Arcade and Bingo,4f32ed5be4b04cda14e48b08,NYC Business Solutions,560 W 181st St
+711,"Atlanta, GA",Washington Heights Arcade and Bingo,4bd33cb241b9ef3b63a2ffe5,The Children's Place,600 W 181st St
+712,"Atlanta, GA",Washington Heights Arcade and Bingo,60d0b3042678d47abf9da7a0,Target,602 W. 181st St
+713,"Atlanta, GA",Washington Heights Arcade and Bingo,4c51db817f6e20a1eb8ecbea,That's Amore Pizza,1415 St Nicholas ave
+714,"Atlanta, GA",Washington Heights Arcade and Bingo,4afcba6af964a5206d2522e3,La Casa del Mofongo,1447 Saint Nicholas Ave
+715,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4e53d7946365676e99de22ec,Jimmy Jazz,46 Belmont Ave
+716,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4c7c060ca8683704ab1f184d,China Pavillion,70 Belmomy ave
+717,"Atlanta, GA",Young's Video Arcade Games and Internet Service,5ee000964e0cfe1cad546687,Collective Fare,69 Belmont Ave
+718,"Atlanta, GA",Young's Video Arcade Games and Internet Service,591f560d5d891b595c6f7b19,Brownsville Community Culinary Center by Melting Pot Foundation,69 Belmont Ave
+719,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4e7de7928231e88c0cc2c6f9,Nails Spa,No Address
+720,"Atlanta, GA",Young's Video Arcade Games and Internet Service,551f0ef9498e51f9cac6b5e3,Dollar Tree,39  Belmont Ave
+721,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4e7614a4c65bb91db4a40674,People's Choice Meat Warehouse,134 Osborn St
+722,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4c50b8375ee81b8d87ec07ff,NYCHA - Langston Hughes Apartments,301 Sutter Ave
+723,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4c0140e59a950f4772cc08c6,M. Slavin & Sons,31 Belmont Ave
+724,"Atlanta, GA",Young's Video Arcade Games and Internet Service,528bafe611d2cef4e5aa0ac7,CTown Supermarkets,29 Belmont Ave
+725,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4f3260c919836c91c7d1e640,Belmont Coffee Shop,101 Belmont Ave
+726,"Atlanta, GA",Young's Video Arcade Games and Internet Service,6092aa665db92416d269830a,B14 Pitkin Ave & Osborn St,Pitkin Ave
+727,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4e698e83b0fb8b8a83d21a2f,Ps 284,No Address
+728,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4e98b45d2c5bf1484659a444,Cherry Valley Market,381 Mother Gaston Blvd
+729,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4fdb8a9d7e27bf02d38648f4,FDNY Engine 231/Ladder 120,107 Watkins St
+730,"Atlanta, GA",Young's Video Arcade Games and Internet Service,54076ef3498ee6cd30789864,Planet Fitness,441 Rockaway Ave
+731,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4dc815697d8b14fb46690e0c,Hair Town Beauty Supply,470 Rockaway Ave
+732,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4cec643f82125481584b59a1,Hair And Nail Spa,1699 Pitkin Ave
+733,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4b6382bdf964a520997f2ae3,NYCHA - Brownsville Houses,284 Sutter Ave
+734,"Atlanta, GA",Young's Video Arcade Games and Internet Service,4de3c920ae60e7f3ac0ef275,Bargain Hunter,1530 Pitkin Ave
+735,"Atlanta, GA",arcade edit,4f0da371e4b03684a48bcc5c,Universum New York,129 W 29th St
+736,"Atlanta, GA",arcade edit,4dac4a2d43a1128197226b24,"Rocket Fuel, Inc.",129 W 29th St Fl 8
+737,"Atlanta, GA",arcade edit,50aba1ace4b082c93a8482af,Pioneers Bar,138 W 29th St
+738,"Atlanta, GA",arcade edit,5caf7e3d31ac6c002c4a3f41,Steak N’ Lobster,129 W 29th St
+739,"Atlanta, GA",arcade edit,4ba62bfff964a520d63839e3,Digital Arts,130 W 29th St Fl 8
+740,"Atlanta, GA",arcade edit,4be7384e2468c9280b410243,Chelton's Bar & Grille at Doubletree Hotel,128 W 29th St
+741,"Atlanta, GA",arcade edit,4d079d2f30a58cfad696b1e7,Modus Agency,129 W 29th St
+742,"Atlanta, GA",arcade edit,5d0e967953331f00233323d2,Escape Virtuality,130 W 29th St
+743,"Atlanta, GA",arcade edit,58b987cf13af1c0df9c3ff00,Pulse Recording Studio,No Address
+744,"Atlanta, GA",arcade edit,542eec02498ef7f7cf360c2e,One Medical Treehouse,129 W 29th St
+745,"Atlanta, GA",arcade edit,4ad46f88f964a520dde720e3,DoubleTree by Hilton,128 W 29th St
+746,"Atlanta, GA",arcade edit,5df8fc6978d20d0007d88eea,xtraCHEF,135 W 29th St Rm 1205
+747,"Atlanta, GA",arcade edit,4c157fd7a1010f4719344e18,bass hit studios,130 W 29th St
+748,"Atlanta, GA",arcade edit,4e30a3ce14954cb0e5f25904,Yoga Collective,135 W 29th St Rm 603
+749,"Atlanta, GA",arcade edit,5d78260fe4af590008aee6bb,Mensch Studio,135 W 29th St
+750,"Atlanta, GA",arcade edit,559e9e3c498e714621684285,Red Seat Ventures,129 W 29th St
+751,"Atlanta, GA",arcade edit,53dd7dcf498e62f1e9a63c8e,Haymarket,Broadway
+752,"Atlanta, GA",arcade edit,4c8a4e79cb08ef3b4bf132c1,104 west 29th,104 W 29th St
+753,"Atlanta, GA",arcade edit,42911d00f964a520f5231fe3,New York Penn Station,1 Penn Plz
+754,"Atlanta, GA",arcade edit,4dff759645dd3320c88318f3,Daniel Scuderi Antiques Inc,47-15 Barnett Ave.

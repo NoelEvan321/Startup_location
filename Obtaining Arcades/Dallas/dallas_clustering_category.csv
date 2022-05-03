@@ -1,0 +1,155 @@
+,Venue_Distance,Category_ID,Category_Name,Venue_Rating
+0,6,4bf58dd8d48988d1f2931735,Performing Arts Venue,8.2
+1,10,4bf58dd8d48988d1e7931735,Jazz Club,8.2
+2,23,4bf58dd8d48988d1c1941735,Mexican Restaurant,8.0
+3,46,4bf58dd8d48988d1e4931735,Bowling Alley,Not Rated
+4,60,4bf58dd8d48988d1e4931735,Bowling Alley,Not Rated
+5,78,4bf58dd8d48988d1e4931735,Bowling Alley,Not Rated
+6,78,4bf58dd8d48988d1e0931735,Coffee Shop,7.9
+7,92,4bf58dd8d48988d16e941735,Fast Food Restaurant,5.8
+8,100,4bf58dd8d48988d111941735,Japanese Restaurant,Not Rated
+9,114,4bf58dd8d48988d10c951735,Cosmetics Shop,8.1
+10,118,4bf58dd8d48988d1c4941735,Restaurant,8.2
+11,118,4bf58dd8d48988d112941735,Juice Bar,Not Rated
+12,125,4bf58dd8d48988d128951735,Gift Shop,Not Rated
+13,132,4bf58dd8d48988d163941735,Park,Not Rated
+14,146,4bf58dd8d48988d124941735,Office,Not Rated
+15,159,4bf58dd8d48988d175941735,Gym / Fitness Center,7.4
+16,176,4bf58dd8d48988d10a951735,Bank,6.4
+17,188,5370f356bcbc57f1066c94c2,Beer Store,8.2
+18,2073,52f2ab2ebcbc57f1066b8b1f,Shipping Store,6.7
+19,8,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+20,10,4bf58dd8d48988d11b951735,Flower Shop,Not Rated
+21,14,4d4b7104d754a06370d81259,Arts & Entertainment,Not Rated
+22,14,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+23,15,4bf58dd8d48988d115951735,Bike Shop,Not Rated
+24,21,4bf58dd8d48988d1f8941735,Furniture / Home Store,Not Rated
+25,22,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+26,26,4bf58dd8d48988d104951735,Boutique,Not Rated
+27,27,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+28,28,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+29,29,4bf58dd8d48988d1d3941735,Vegetarian / Vegan Restaurant,Not Rated
+30,29,4bf58dd8d48988d1f4941735,Design Studio,Not Rated
+31,32,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+32,34,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+33,38,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+34,43,4bf58dd8d48988d104951735,Boutique,Not Rated
+35,45,4bf58dd8d48988d1e0931735,Coffee Shop,Not Rated
+36,238,4bf58dd8d48988d16e941735,Fast Food Restaurant,5.3
+37,461,4bf58dd8d48988d177941735,Doctor's Office,Not Rated
+38,33,4bf58dd8d48988d14f941735,Southern / Soul Food Restaurant,Not Rated
+39,34,4bf58dd8d48988d101941735,Martial Arts School,Not Rated
+40,35,4bf58dd8d48988d116941735,Bar,6.2
+41,44,52dea92d3cf9994f4e043dbb,Discount Store,6.6
+42,45,52dea92d3cf9994f4e043dbb,Discount Store,Not Rated
+43,62,4bf58dd8d48988d1c9941735,Ice Cream Shop,7.2
+44,67,4bf58dd8d48988d112951735,Hardware Store,6.4
+45,79,4bf58dd8d48988d112951735,Hardware Store,7.2
+46,107,4bf58dd8d48988d11d941735,Sports Bar,Not Rated
+47,118,52dea92d3cf9994f4e043dbb,Discount Store,7.1
+48,139,4bf58dd8d48988d104951735,Boutique,7.2
+49,142,4bf58dd8d48988d16e941735,Fast Food Restaurant,5.2
+50,151,4bf58dd8d48988d11b941735,Pub,5.8
+51,176,4bf58dd8d48988d101951735,Thrift / Vintage Store,Not Rated
+52,182,4d4ae6fc7a7b7dea34424761,Fried Chicken Joint,5.7
+53,184,4bf58dd8d48988d1ca941735,Pizza Place,7.2
+54,206,4bf58dd8d48988d14a941735,Vietnamese Restaurant,Not Rated
+55,538,52f2ab2ebcbc57f1066b8b42,Big Box Store,7.1
+56,707,4bf58dd8d48988d14e941735,American Restaurant,5.4
+57,464,4bf58dd8d48988d116941735,Bar,Not Rated
+58,769,4f4533804b9074f6e4fb0105,Elementary School,Not Rated
+59,965,4bf58dd8d48988d12b951735,Bus Line,Not Rated
+60,1230,4bf58dd8d48988d128951735,Gift Shop,Not Rated
+61,1251,5032891291d4c4b30a586d68,Assisted Living,Not Rated
+62,1254,4bf58dd8d48988d113941735,Korean Restaurant,Not Rated
+63,1255,4bf58dd8d48988d186941735,Liquor Store,Not Rated
+64,1261,4bf58dd8d48988d128951735,Gift Shop,Not Rated
+65,1268,4f04aa0c2fb6e1c99f3db0b8,Nail Salon,Not Rated
+66,1270,52f2ab2ebcbc57f1066b8b1d,Dry Cleaner,Not Rated
+67,1276,4bf58dd8d48988d148941735,Donut Shop,Not Rated
+68,1282,4bf58dd8d48988d1e0931735,Coffee Shop,7.1
+69,1286,4f04aa0c2fb6e1c99f3db0b8,Nail Salon,Not Rated
+70,1297,4bf58dd8d48988d177941735,Doctor's Office,Not Rated
+71,1332,4f04b1572fb6e1c99f3db0bf,Storage Facility,Not Rated
+72,1361,4bf58dd8d48988d143941735,Breakfast Spot,6.5
+73,1368,4f04b1572fb6e1c99f3db0bf,Storage Facility,Not Rated
+74,1404,4bf58dd8d48988d104941735,Medical Center,Not Rated
+75,1451,52e81612bcbc57f1066b7a34,Community Center,Not Rated
+76,1493,4bf58dd8d48988d113951735,Gas Station,6.1
+77,50,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+78,56,4bf58dd8d48988d159941735,Trail,Not Rated
+79,63,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+80,135,4bf58dd8d48988d122951735,Electronics Store,Not Rated
+81,138,4bf58dd8d48988d130941735,Building,Not Rated
+82,246,4bf58dd8d48988d124941735,Office,Not Rated
+83,285,4bf58dd8d48988d121951735,Paper / Office Supplies Store,Not Rated
+84,507,4bf58dd8d48988d130941735,Building,Not Rated
+85,562,56aa371be4b08b9a8d573517,Business Center,Not Rated
+86,568,4bf58dd8d48988d1fa931735,Hotel,Not Rated
+87,716,4d4b7105d754a06377d81259,Outdoors & Recreation,Not Rated
+88,745,4bf58dd8d48988d15f941735,Field,Not Rated
+89,842,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+90,853,4bf58dd8d48988d103951735,Clothing Store,Not Rated
+91,856,4d954b06a243a5684965b473,Residential Building (Apartment / Condo),Not Rated
+92,860,56aa371be4b08b9a8d5734c5,Wedding Hall,8.3
+93,863,4bf58dd8d48988d163941735,Park,Not Rated
+94,1399,52e81612bcbc57f1066b7a26,Recreation Center,Not Rated
+95,2349,52f2ab2ebcbc57f1066b8b36,IT Services,Not Rated
+96,247,4bf58dd8d48988d14e941735,American Restaurant,Not Rated
+97,453,4f2a23984b9023bd5841ed2c,Moving Target,Not Rated
+98,470,54541b70498ea6ccd0204bff,Transportation Service,Not Rated
+99,659,56aa371be4b08b9a8d57352f,Airport Service,Not Rated
+100,704,4bf58dd8d48988d162941735,Other Great Outdoors,Not Rated
+101,814,4bf58dd8d48988d124941735,Office,Not Rated
+102,914,4c38df4de52ce0d596b336e1,Parking,Not Rated
+103,968,52e81612bcbc57f1066b7a11,Gun Range,Not Rated
+104,1018,52e81612bcbc57f1066b7a36,Warehouse,Not Rated
+105,1068,4bf58dd8d48988d1f1931735,General Entertainment,Not Rated
+106,1076,52f2ab2ebcbc57f1066b8b4e,Toll Plaza,Not Rated
+107,1195,4bf58dd8d48988d1f0931735,Airport Gate,Not Rated
+108,1231,52e81612bcbc57f1066b7a36,Warehouse,Not Rated
+109,1244,4bf58dd8d48988d130941735,Building,Not Rated
+110,1413,4bf58dd8d48988d130941735,Building,Not Rated
+111,1477,4bf58dd8d48988d11d941735,Sports Bar,Not Rated
+112,1508,5454144b498ec1f095bff2f2,Construction & Landscaping,Not Rated
+113,3141,56aa371be4b08b9a8d57352f,Airport Service,Not Rated
+114,13358,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+115,140,50327c8591d4c4b30a586d5d,Brewery,8.6
+116,181,4bf58dd8d48988d172941735,Post Office,6.6
+117,214,4bf58dd8d48988d116951735,Antique Shop,Not Rated
+118,274,4bf58dd8d48988d1cb941735,Food Truck,Not Rated
+119,286,4eb1c1623b7b52c0e1adc2ec,Auto Dealership,Not Rated
+120,309,4bf58dd8d48988d1a8941735,General College & University,Not Rated
+121,378,4bf58dd8d48988d1ff941735,Miscellaneous Shop,Not Rated
+122,424,4bf58dd8d48988d124941735,Office,Not Rated
+123,453,4bf58dd8d48988d1c1941735,Mexican Restaurant,Not Rated
+124,482,4bf58dd8d48988d1d6941735,Strip Club,Not Rated
+125,531,56aa371be4b08b9a8d57355e,Bike Trail,Not Rated
+126,535,4bf58dd8d48988d124941735,Office,Not Rated
+127,535,4d954b0ea243a5684a65b473,Convenience Store,Not Rated
+128,552,4bf58dd8d48988d162941735,Other Great Outdoors,Not Rated
+129,607,4bf58dd8d48988d113951735,Gas Station,5.9
+130,686,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+131,732,4f4533804b9074f6e4fb0105,Elementary School,Not Rated
+132,734,4bf58dd8d48988d124941735,Office,Not Rated
+133,759,4bf58dd8d48988d1f2941735,Sporting Goods Shop,Not Rated
+134,766,4f4528bc4b90abdf24c9de85,Athletics & Sports,Not Rated
+135,18,4bf58dd8d48988d1f3941735,Toy / Game Store,Not Rated
+136,469,4bf58dd8d48988d124941735,Office,Not Rated
+137,570,4bf58dd8d48988d1e0931735,Coffee Shop,8.0
+138,651,4bf58dd8d48988d164941735,Plaza,Not Rated
+139,673,4bf58dd8d48988d113951735,Gas Station,5.6
+140,774,4eb1c0253b7b52c0e1adc2e9,Garden Center,Not Rated
+141,885,4bf58dd8d48988d161941735,Lake,Not Rated
+142,996,4bf58dd8d48988d130941735,Building,Not Rated
+143,1008,52e81612bcbc57f1066b7a26,Recreation Center,Not Rated
+144,1068,4bf58dd8d48988d132941735,Church,Not Rated
+145,1112,4cce455aebf7b749d5e191f5,Soccer Field,Not Rated
+146,1126,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+147,1133,4e52d2d203646f7c19daa8ae,Animal Shelter,Not Rated
+148,1143,4bf58dd8d48988d1fc931735,Light Rail Station,Not Rated
+149,1157,4bf58dd8d48988d124941735,Office,Not Rated
+150,1194,4bf58dd8d48988d11b951735,Flower Shop,Not Rated
+151,1238,4bf58dd8d48988d1f8941735,Furniture / Home Store,Not Rated
+152,1239,4bf58dd8d48988d1f8941735,Furniture / Home Store,Not Rated
+153,1414,4cce455aebf7b749d5e191f5,Soccer Field,Not Rated

@@ -1,0 +1,74 @@
+Hood,Venue_ID,Venue_Name,Venue_Distance,Venue_Address,Venue_Latitude,Venue_Longitude,Category_ID,Category_Name
+CBD-Downtown,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,1130,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+CBD-Downtown,54076348498ed3ee81d32983,Scarritt Arcade,1361,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+CBD-Downtown,5ad817f3c666667613ddcb70,Broadway Arcade,1449,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+CBD-Downtown,4e68c94aae60186280a26fe8,Arcade Shoe Repair,1120,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Columbus Park,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,1437,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Columbus Park,54076348498ed3ee81d32983,Scarritt Arcade,1213,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Columbus Park,5ad817f3c666667613ddcb70,Broadway Arcade,1820,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+Columbus Park,4e68c94aae60186280a26fe8,Arcade Shoe Repair,1394,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Crossroads,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,1274,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Crossroads,54076348498ed3ee81d32983,Scarritt Arcade,1535,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Crossroads,5ad817f3c666667613ddcb70,Broadway Arcade,1420,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+Crossroads,4e68c94aae60186280a26fe8,Arcade Shoe Repair,1284,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Hospital Hill,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,2000,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Hospital Hill,54076348498ed3ee81d32983,Scarritt Arcade,2224,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Hospital Hill,5ad817f3c666667613ddcb70,Broadway Arcade,2299,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+Hospital Hill,4e68c94aae60186280a26fe8,Arcade Shoe Repair,1987,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Library District,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,204,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Library District,54076348498ed3ee81d32983,Scarritt Arcade,136,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Library District,5ad817f3c666667613ddcb70,Broadway Arcade,503,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+Library District,4e68c94aae60186280a26fe8,Arcade Shoe Repair,221,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Quality Hill,5ad817f3c666667613ddcb70,Broadway Arcade,152,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+Quality Hill,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,682,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Quality Hill,54076348498ed3ee81d32983,Scarritt Arcade,789,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Quality Hill,4e68c94aae60186280a26fe8,Arcade Shoe Repair,738,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+River Market,54076348498ed3ee81d32983,Scarritt Arcade,1051,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+River Market,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,1310,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+River Market,5ad817f3c666667613ddcb70,Broadway Arcade,1382,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+River Market,4e68c94aae60186280a26fe8,Arcade Shoe Repair,1302,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Union Hill,4da3ab570f578cfa81a8be18,The Arcade,1343,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+West Side,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,1741,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+West Side,5ad817f3c666667613ddcb70,Broadway Arcade,1517,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+West Side,54076348498ed3ee81d32983,Scarritt Arcade,1985,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+West Side,4e68c94aae60186280a26fe8,Arcade Shoe Repair,1782,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Ivanhoe,4da3ab570f578cfa81a8be18,The Arcade,2097,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Parkview,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,1567,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Parkview,54076348498ed3ee81d32983,Scarritt Arcade,1511,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Parkview,5ad817f3c666667613ddcb70,Broadway Arcade,2106,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+Parkview,4e68c94aae60186280a26fe8,Arcade Shoe Repair,1510,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Center City,4da3ab570f578cfa81a8be18,The Arcade,1661,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Coleman Highlands,4da3ab570f578cfa81a8be18,The Arcade,1174,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Hanover Place,4da3ab570f578cfa81a8be18,The Arcade,138,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Hyde Park,4da3ab570f578cfa81a8be18,The Arcade,981,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Manheim Park,4da3ab570f578cfa81a8be18,The Arcade,1841,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Mount Hope,4da3ab570f578cfa81a8be18,The Arcade,2361,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Old Westport,4da3ab570f578cfa81a8be18,The Arcade,839,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Plaza Westport,4da3ab570f578cfa81a8be18,The Arcade,1735,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Roanoke,4da3ab570f578cfa81a8be18,The Arcade,875,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Southmoreland,4da3ab570f578cfa81a8be18,The Arcade,1088,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Squier Park,4da3ab570f578cfa81a8be18,The Arcade,1563,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Valentine,4da3ab570f578cfa81a8be18,The Arcade,526,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Volker,4da3ab570f578cfa81a8be18,The Arcade,1448,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Westport,4da3ab570f578cfa81a8be18,The Arcade,839,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Paseo West,4da3ab570f578cfa81a8be18,The Arcade,2035,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Beacon Hill,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,2697,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Beacon Hill,54076348498ed3ee81d32983,Scarritt Arcade,2899,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Beacon Hill,4e68c94aae60186280a26fe8,Arcade Shoe Repair,2677,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Chaumiere,4fbefafae4b02c8542b9389a,Arcade Xbox,1305,No Address,39.162168678892954,-94.54651477680645,4bf58dd8d48988d1e1931735,Arcade
+Harlem,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,1852,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Harlem,54076348498ed3ee81d32983,Scarritt Arcade,1624,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Harlem,5ad817f3c666667613ddcb70,Broadway Arcade,1733,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+Harlem,4e68c94aae60186280a26fe8,Arcade Shoe Repair,1860,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+Winnetonka,51b790b2498e9e3b028cfaef,Joe Cool Arcade,1834,No Address,39.17357754567245,-94.4893090749118,4bf58dd8d48988d182941735,Theme Park
+Winnwood Gardens,4fbefafae4b02c8542b9389a,Arcade Xbox,1924,No Address,39.162168678892954,-94.54651477680645,4bf58dd8d48988d1e1931735,Arcade
+Country Club Plaza,4da3ab570f578cfa81a8be18,The Arcade,2133,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+West Plaza,4da3ab570f578cfa81a8be18,The Arcade,2244,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Westport,4da3ab570f578cfa81a8be18,The Arcade,839,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Rockhill,4da3ab570f578cfa81a8be18,The Arcade,2063,3632 Baltimore Ave,39.060734,-94.587339,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+Coachlight Square,4e513b38c65bb313ba9ebab0,Sean's Arcade And Mini Bar,933,No Address,39.0181981901088,-94.47883225310844,4bf58dd8d48988d171941735,Event Space
+Hidden Valley,51b790b2498e9e3b028cfaef,Joe Cool Arcade,2006,No Address,39.17357754567245,-94.4893090749118,4bf58dd8d48988d182941735,Theme Park
+Walnut Grove,54076348498ed3ee81d32983,Scarritt Arcade,128,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+Walnut Grove,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,375,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+Walnut Grove,5ad817f3c666667613ddcb70,Broadway Arcade,636,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+Walnut Grove,4e68c94aae60186280a26fe8,Arcade Shoe Repair,371,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop

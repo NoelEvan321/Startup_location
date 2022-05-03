@@ -1,0 +1,141 @@
+,Arcade,Venue_ID,Venue_Name,Venue_Distance,Venue_Address,Venue_Latitude,Venue_Longitude,Category_ID,Category_Name
+0,Duffer's,4c02e10d187ec92870e5b47b,Duffer's,0,5210 Pacific Ave,38.98097139734643,-74.82570004429925,52e81612bcbc57f1066b79eb,Mini Golf
+1,Duffer's,60ee10fd77663d332252d1b1,Tara’s,33,No Address,38.980954,-74.825312,4bf58dd8d48988d1c3941735,Moroccan Restaurant
+2,Duffer's,4bf9c2f45ec320a105d28ad3,Dominics Place,31,5209-5299 Pacific Ave,38.980841383333335,-74.82538,4bf58dd8d48988d1c3941735,Moroccan Restaurant
+3,Duffer's,4e73c0ea52b145ffbfb7a5ac,Eden roc,262,Bennett,38.97957086482685,-74.82325430919505,4bf58dd8d48988d1fb931735,Motel
+4,Duffer's,503abac4e4b0fad35e545b9b,"One Fish, Two Fish Restaurant",40,5209 Pacific Ave,38.980909999999994,-74.825234,4bf58dd8d48988d157941735,New American Restaurant
+5,Duffer's,4c660b8ef7a80f47324c9d7a,Green's Liquors,48,5301 Pacific Ave,38.98053648442993,-74.82576504463329,4bf58dd8d48988d186941735,Liquor Store
+6,Duffer's,51cf8c2a498e603aa0e99439,Duffers Mini Golf,28,No Address,38.981139495919976,-74.82545346582441,4bf58dd8d48988d1e6941735,Golf Course
+7,Duffer's,4fc0f30ce4b07e3cd94ac219,Clam Casino,136,No Address,38.980406,-74.824298,4bf58dd8d48988d17c941735,Casino
+8,Duffer's,4fd5bf40e4b0b56919bc3526,Forget-Me-Not Beach,123,No Address,38.98087672226234,-74.8271213781612,4bf58dd8d48988d1e3941735,Surf Spot
+9,Duffer's,50018596e4b0eed3b6f65639,The Beach at Hildreth,59,No Address,38.98064353499091,-74.82516215064753,4bf58dd8d48988d1e3941735,Surf Spot
+10,Duffer's,4e5d169418389da163ef7a78,5400 New Jersey Ave.,151,No Address,38.9823278685018,-74.82580190095217,4bf58dd8d48988d1ad941735,Trade School
+11,Duffer's,4c49dec3fbafc92852f281db,Safari Golf,345,5201 Boardwalk,38.97824191183256,-74.82380267305707,4bf58dd8d48988d1f1931735,General Entertainment
+12,Duffer's,4fa81b67e4b012feff4459d3,E Morning Glory Rd,219,No Address,38.98048896443938,-74.82815524690575,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+13,Duffer's,4c9298b1332c370443918964,Pink Champagne,314,4510 Atlantic ave,38.98125142,-74.82207883,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+14,Duffer's,4c94562558d4b60c63122829,Crystal Sands Motel,335,307 E Hand Ave,38.98094029,-74.82182496,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+15,Duffer's,4ffc5c89e4b070f1c959ae02,Bennet Ave,143,225 Bennett Ave,38.98058131259307,-74.82412255113955,4bf58dd8d48988d15e941735,Pool
+16,Duffer's,4df30de7b0fb807158c127ae,Buttons Bakery,258,130 E Buttercup Rd,38.97918139178588,-74.82760689743532,4bf58dd8d48988d16a941735,Bakery
+17,Duffer's,52096b3b11d2db2a3a75a1dd,Dolphin Motel,265,No Address,38.97951999164911,-74.82326573346066,4bf58dd8d48988d1fb931735,Motel
+18,Duffer's,4c4085c46c1a95211f4cb96a,Rohm Resort,171,105 E Bennett Ave,38.982471999999994,-74.826138,4bf58dd8d48988d12f951735,Resort
+19,Duffer's,4e726699b61c8e7ada3261f7,Ala Moana Motel,190,5300 Atlantic Ave,38.97948718167134,-74.82461379127949,4bf58dd8d48988d1fb931735,Motel
+20,Arcade 160 Studios,4c00162dc30a2d7f54fc111d,Southern Dairies,34,No Address,33.77038126654163,-84.36697983785133,4bf58dd8d48988d130941735,Building
+21,Arcade 160 Studios,4d38948f6eef5481d4ee4148,"McManamy, McLeod, Heller",32,621 North Ave NE,33.77022940791192,-84.36683440137578,4bf58dd8d48988d127941735,Conference Room
+22,Arcade 160 Studios,4a7cb042f964a52041ed1fe3,North Ave Post,23,621 North Ave,33.770274,-84.3672913312912,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+23,Arcade 160 Studios,60bfad5bef29715bc3146fb6,Sweetgreen,160,650 North Ave NE,33.771484,-84.366648,4bf58dd8d48988d1bd941735,Salad Place
+24,Arcade 160 Studios,4c40b53da5c5ef3b2710b06f,Cardlytics,36,621 North Ave,33.770394946883094,-84.36697420306936,4bf58dd8d48988d124941735,Office
+25,Arcade 160 Studios,5a0124f393bd634fafe63468,Deep End,61,621 North Ave NE Ste A100,33.77062221954636,-84.36694314286268,56aa371ae4b08b9a8d5734ba,Tex-Mex Restaurant
+26,Arcade 160 Studios,50afcfd0e4b0dc886f2a631d,clark mountain,2176,No Address,33.78425216674805,-84.38337707519531,4eb1d4d54b900d56c88a45fc,Mountain
+27,Arcade 160 Studios,4dc014671e72dd48b20019a6,MW Law Atlanta,6,621 North Ave,33.770113,-84.367077,4bf58dd8d48988d174941735,Coworking Space
+28,Arcade 160 Studios,57bde049498e3cc1f7d51ae2,North Creative,20,"621 North Ave NE, Suite C170",33.77027893066406,-84.36711883544922,4bf58dd8d48988d1f1931735,General Entertainment
+29,Arcade 160 Studios,4b548145f964a520bebd27e3,Keller Williams,23,621 North Ave NE Ste C50,33.77026152204817,-84.3669893442236,5032885091d4c4b30a586d66,Real Estate Office
+30,Arcade 160 Studios,4d6678a3153ba0930ff4e9f8,Arcade 160 Studios,0,621 North Ave NE Ste C,33.770101,-84.367149,4bf58dd8d48988d124941735,Office
+31,Arcade 160 Studios,52614d2e11d2226cbe1a8e3b,Levine City Real Estate,20,621 North Ave NE Ste C50,33.77027893066406,-84.36711883544922,5032885091d4c4b30a586d66,Real Estate Office
+32,Arcade 160 Studios,5d3f7c6a91896e0008d83e70,The Lola,39,621 North Ave NE Ste D100,33.769911,-84.367508,4bf58dd8d48988d174941735,Coworking Space
+33,Arcade 160 Studios,581a233996ac60560ea72693,smith dalia architects,70,No Address,33.770713,-84.367365,4bf58dd8d48988d124941735,Office
+34,Arcade 160 Studios,581f77788d169071e54b6990,Poseman Books,115,No Address,33.77096,-84.36784,4bf58dd8d48988d114951735,Bookstore
+35,Arcade 160 Studios,4fe220fae4b02702d7d533c0,Dancing Goats Coffee Bar,146,650 North Ave NE,33.77138519612945,-84.36750944597692,4bf58dd8d48988d1e0931735,Coffee Shop
+36,Arcade 160 Studios,4c9ac088a004a1cd7a5a4b6e,AMLI Old 4th Ward,126,525 Glen Iris Dr NE,33.76902938926557,-84.36759788646008,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+37,Arcade 160 Studios,58b9a59c6cda1c41bc39ca0c,Rudy's Barbershop,145,650 North Ave NE #202,33.77141159711469,-84.36717746186542,4bf58dd8d48988d110951735,Salon / Barbershop
+38,Arcade 160 Studios,5ceaedea06fb60002c22d8f9,The Tasting Room At City Winery,145,No Address,33.77139,-84.366893,4bf58dd8d48988d123941735,Wine Bar
+39,Arcade 160 Studios,5d9d1ce9b5059b000858143e,Novel O4W,249,525 North Avenue Northeast,33.770875,-84.369678,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+40,Foege's Arcade,52c1f804498eff7b86c2a4fe,Heritage Park,213,No Address,33.739707,-84.386221,4bf58dd8d48988d163941735,Park
+41,Foege's Arcade,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,0,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+42,Foege's Arcade,5d0d6de2b990ec002348181c,Halfway Crooks Beer,443,60 Georgia Ave SE,33.736942,-84.385956,50327c8591d4c4b30a586d5d,Brewery
+43,Foege's Arcade,58bc58e891936a61c9aebc32,fulton-glenwood park,231,No Address,33.742144,-84.382477,4bf58dd8d48988d163941735,Park
+44,Foege's Arcade,4b6cdadbf964a5205e592ce3,1996 Olympic Games Cauldron,375,435 Capitol Av SE,33.74162025811199,-84.38810554098399,4deefb944765f83613cdba6e,Historic Site
+45,Foege's Arcade,606c2412a49d620ef38065e3,Broadstone Summerhill,155,100 Fulton St SE,33.7420098,-84.38462779999999,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+46,Foege's Arcade,4f8af0eee4b029818b982c72,Turner Field Braves Museum,118,No Address,33.73960334715983,-84.3839687185641,4bf58dd8d48988d190941735,History Museum
+47,Foege's Arcade,5d4a03a2c202400007394bb7,Junior’s Pizza,459,77 Georgia Ave SE,33.736656594623724,-84.38545728002202,4bf58dd8d48988d1ca941735,Pizza Place
+48,Foege's Arcade,51b28c367dd2c716cc691126,Summerhill,264,No Address,33.7387898705659,-84.38598329096268,4f2a210c4b9023bd5841ed28,Housing Development
+49,Foege's Arcade,5d055bc59b0473002c8d605b,Big Softie,440,68 Georgia Ave SE,33.736899,-84.38573,4bf58dd8d48988d1c9941735,Ice Cream Shop
+50,Foege's Arcade,4c0fc2e17189c9288096dab6,Martin Luther King Jr. Middle School,415,595 Hill St,33.7386337096175,-84.3804395198822,4bf58dd8d48988d1a8941735,General College & University
+51,Foege's Arcade,51b65c6d498e4ebc3ebd9fb7,Fulton AtlAnta COmmunity Action Authority,610,No Address,33.745346000000005,-84.38081,4bf58dd8d48988d171941735,Event Space
+52,Foege's Arcade,4c2fcdf1213c2d7f338f315d,Hank Aaron 715 Home Run Marker,481,521 Capitol Ave SE,33.74010065631235,-84.38937664031982,4bf58dd8d48988d12d941735,Monument / Landmark
+53,Foege's Arcade,53640737498edfa7e2905d15,Turner Field Hyundai Lot,439,No Address,33.74342346191406,-84.38760375976562,4bf58dd8d48988d171941735,Event Space
+54,Foege's Arcade,504f7ec27043f547c9732532,Atlanta Olympic Cauldron Tower,373,445 Capitol Ave SW,33.741630942898766,-84.38807092189822,4bf58dd8d48988d12d941735,Monument / Landmark
+55,Foege's Arcade,6079f2c50868b55eec5b39b9,Maepole,421,72 Georgia Ave SE,33.73691,-84.384937,4c2cd86ed066bed06c3c5209,Gluten-free Restaurant
+56,Foege's Arcade,5edfb9d84e0cfe1cadc7f470,Hot Dog Pete’s,512,25 Georgia Ave SE,33.736692,-84.387049,4bf58dd8d48988d16f941735,Hot Dog Joint
+57,Foege's Arcade,4c57546130d82d7f78a4d962,Summerhill Neighborhood Meeting,595,250 Georgia Ave SE,33.737083435058594,-84.37942504882812,4bf58dd8d48988d12f941735,Library
+58,Foege's Arcade,612181628039c517ba278ca0,Press Shop,431,72 Georgia Ave SE,33.736877,-84.385285,52f2ab2ebcbc57f1066b8b28,Print Shop
+59,Foege's Arcade,4a70f48ff964a520ddd81fe3,Phoenix II Park,644,141 Martin St SE,33.73508755992699,-84.38228770557792,4bf58dd8d48988d163941735,Park
+60,Marlin Arcade,4ddc0d23ae60d6fc158428d5,Belleville Food Mart,704,No Address,38.501456,-90.00737896666666,4bf58dd8d48988d113951735,Gas Station
+61,Marlin Arcade,4de92836d22d09215a2f26e4,Woodridge,257,No Address,38.49503976976101,-90.00478826267917,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+62,Marlin Arcade,4f5c6a22e4b0a3bd23833b66,Marlin Arcade,0,No Address,38.49513709921038,-90.00773938818843,4bf58dd8d48988d11b941735,Pub
+63,Marlin Arcade,4df57044d1649c8a28e9d4a2,Dog Walk Circle,20,Lake forest,38.494951,-90.00777,4bf58dd8d48988d1e5941735,Dog Run
+64,Marlin Arcade,4ee46cfee5faffd731a6bf8d,Marlin's Movie Theater,26,No Address,38.49493096901696,-90.00789896979283,4bf58dd8d48988d11a941735,Other Nightlife
+65,Marlin Arcade,4c0ad30dbbc676b0ae934ad5,Dorchester pool,504,No Address,38.498322,-90.01186,4bf58dd8d48988d15e941735,Pool
+66,Marlin Arcade,4e11c805fa769d21e9efb65c,House Of Champs,30,No Address,38.494934,-90.007513,4bf58dd8d48988d15e941735,Pool
+67,Marlin Arcade,4e3ab2ef88772c3bf1251578,Huzzah Yalley Resort,32,Potidi 311 dr,38.494856,-90.007843,4bf58dd8d48988d159941735,Trail
+68,Marlin Arcade,5581ea1f498eab22ee066e11,Rocky Top,1424,1357 Rocky Creek Ct,38.50754165649414,-90.01176452636719,4bf58dd8d48988d11f941735,Nightclub
+69,Marlin Arcade,4e4eed4118a8af30fd7e3ad8,Bedrock Raceway,1185,No Address,38.484758185639116,-90.01080005534806,4bf58dd8d48988d1f4931735,Racetrack
+70,Marlin Arcade,54bc58da498e4279525957c0,Belleville Fish & Chicken,1619,925 S Belt W,38.50904484953142,-90.00226996697832,4edd64a0c7ddd24ca188df1a,Fish & Chips Shop
+71,Marlin Arcade,4e12391dfa769d21e9f430b2,Lake Forest,632,No Address,38.49669248860128,-90.0007536049723,4bf58dd8d48988d161941735,Lake
+72,Marlin Arcade,4dc6d5add22dafda2fc718ab,Foster's,792,Aaron Drive,38.50137,-90.012137,4bf58dd8d48988d161941735,Lake
+73,Marlin Arcade,4e4fc9a4b0fb088f3c2001f2,Soccer Fields,973,No Address,38.492220640182495,-90.018277,4cce455aebf7b749d5e191f5,Soccer Field
+74,Marlin Arcade,4e52edd422711d4da5b67580,Belle Claire Soccer Fields,980,No Address,38.49207184464004,-90.01828423638565,4cce455aebf7b749d5e191f5,Soccer Field
+75,Marlin Arcade,581e1248ded8f84666ca6596,Tupelo Dr.,398,Tupelo Dr.,38.496532,-90.00353,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+76,Marlin Arcade,522b854211d2b45ffe3d0004,200 Sunrise Drive,914,200 Sunrise Dr,38.50163473968852,-90.00132280287316,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+77,Marlin Arcade,4edd6e480e61d46adba867b9,Arapaho Village Trailer Park,639,No Address,38.50039783701423,-90.00479737074063,52f2ab2ebcbc57f1066b8b55,Trailer Park
+78,Marlin Arcade,4ea302c90aaf711180da800a,BFC,995,No Address,38.49214558333333,-90.0185047,4bf58dd8d48988d171941735,Event Space
+79,Marlin Arcade,4e4a717aa80997a2dbf1d8f7,The Backroom,1438,No Address,38.506017277138085,-89.99882746619664,4bf58dd8d48988d174941735,Coworking Space
+80,PAC-MAN PLAY™ Arcade at Underground Atlanta,4a0a6d23f964a520a1741fe3,Underground Atlanta,45,50 Upper Alabama St #007,33.75285401294249,-84.39032077789307,4bf58dd8d48988d1fd941735,Shopping Mall
+81,PAC-MAN PLAY™ Arcade at Underground Atlanta,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,0,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+82,PAC-MAN PLAY™ Arcade at Underground Atlanta,4f9c2b61e4b0b38d2f671fa2,Best Of Atlanta,17,No Address,33.75249786273951,-84.38989837109844,4bf58dd8d48988d128951735,Gift Shop
+83,PAC-MAN PLAY™ Arcade at Underground Atlanta,613bef71d479f129a914a76d,Banksy Pop-Up Exhibit,65,No Address,33.751929,-84.3899,4bf58dd8d48988d1e2931735,Art Gallery
+84,PAC-MAN PLAY™ Arcade at Underground Atlanta,4d38c9f9acf1b60c49708418,Southern Candy Company,20,112 Lower Alabama St.,33.75246930686515,-84.3898675814464,4bf58dd8d48988d1d0941735,Dessert Shop
+85,PAC-MAN PLAY™ Arcade at Underground Atlanta,4e5bbf817d8b966a15e6a586,Future,3,50 Upper Alabama St SW,33.7525270902194,-84.3901085486779,4bf58dd8d48988d1d0941735,Dessert Shop
+86,PAC-MAN PLAY™ Arcade at Underground Atlanta,4f8871cae4b01f95a200406e,Lids,27,No Address,33.75272159819758,-84.39019600357116,4bf58dd8d48988d102951735,Accessories Store
+87,PAC-MAN PLAY™ Arcade at Underground Atlanta,5a39297a4940bc7e5b7918ef,Post-Office Cowork,45,68 Pryor St SW,33.752404,-84.389602,4bf58dd8d48988d174941735,Coworking Space
+88,PAC-MAN PLAY™ Arcade at Underground Atlanta,4f32c7dce4b0871fe739d831,86 Pryor St,90,86 Pryor St SW,33.751687,-84.389969,4bf58dd8d48988d130941735,Building
+89,PAC-MAN PLAY™ Arcade at Underground Atlanta,51c98fa5498e55948fea2e57,"Atlanta BeltLine, Inc.",501,100 Peachtree St NW Ste 2300,33.75682067871094,-84.3885498046875,50328a8e91d4c4b30a586d6c,Non-Profit
+90,PAC-MAN PLAY™ Arcade at Underground Atlanta,4e0f525c62843e04afb44989,Skillz,17,No Address,33.7524528503418,-84.39026641845703,4bf58dd8d48988d103951735,Clothing Store
+91,PAC-MAN PLAY™ Arcade at Underground Atlanta,4a7e4622f964a520aaf11fe3,Frequency,36,50 Upper Alabama St,33.7522,-84.390262,4bf58dd8d48988d11f941735,Nightclub
+92,PAC-MAN PLAY™ Arcade at Underground Atlanta,501a87dde4b0ea253ed96faf,10AM Stand Up,91,No Address,33.75310470571202,-84.3907502117518,4bf58dd8d48988d171941735,Event Space
+93,PAC-MAN PLAY™ Arcade at Underground Atlanta,4c4f00b792b6a593bba2dc70,ACVB Visitors Center,37,65 Upper Alabama Street,33.752612471580505,-84.38970363333334,4bf58dd8d48988d1f6931735,General Travel
+94,PAC-MAN PLAY™ Arcade at Underground Atlanta,4e5d1f01a8092f6396804b52,Triple Play,3,50 Upper Alabama St SW,33.7525270902194,-84.3901085486779,4bf58dd8d48988d1f6931735,General Travel
+95,PAC-MAN PLAY™ Arcade at Underground Atlanta,4e5bc06d7d8b966a15e6b780,Cajun & Grill Of Underground,3,50 Upper Alabama St SW,33.7525270902194,-84.3901085486779,4bf58dd8d48988d1f6931735,General Travel
+96,PAC-MAN PLAY™ Arcade at Underground Atlanta,4c2630fd905a0f477ec56260,Legends Barber & Accessory Shop,35,76 Upper Alabama St,33.7526568114775,-84.39042116548488,4bf58dd8d48988d110951735,Salon / Barbershop
+97,PAC-MAN PLAY™ Arcade at Underground Atlanta,49f51b46f964a520926b1fe3,MARTA - Five Points Station,208,30 Alabama St SW,33.7539185303971,-84.39154971594932,4bf58dd8d48988d1fd931735,Metro Station
+98,PAC-MAN PLAY™ Arcade at Underground Atlanta,4c6ad5437c052d7f0b2328cf,Foot Locker,90,50 Upper Alabama St SW Ste 70,33.75169881281165,-84.38989698886877,4bf58dd8d48988d107951735,Shoe Store
+99,PAC-MAN PLAY™ Arcade at Underground Atlanta,4c7a8b8f3badb1f7bb675254,"Sports Avenue, Underground",107,Underground,33.75337767,-84.39055906,4bf58dd8d48988d1f2941735,Sporting Goods Shop
+100,Atlanta Arcade & Gaming Rentals,415b4c80f964a520441d1fe3,Piedmont Park,454,400 Park Dr NE,33.78418803916907,-84.37388044650842,4bf58dd8d48988d163941735,Park
+101,Atlanta Arcade & Gaming Rentals,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,0,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+102,Atlanta Arcade & Gaming Rentals,4bca2d353740b71336406065,Shake at the Lake,204,Piedmont Park,33.78394800517434,-84.3771295478071,4bf58dd8d48988d1f2931735,Performing Arts Venue
+103,Atlanta Arcade & Gaming Rentals,5259e00211d22b1cf2b975f3,1116 Piedmont Rd,28,1116 Piedmont Ave NE,33.785219,-84.378887,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+104,Atlanta Arcade & Gaming Rentals,4ff4801de4b02ca33b11cd96,Ansley Above the Park Poolside,36,No Address,33.78540788616078,-84.37898243058179,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+105,Atlanta Arcade & Gaming Rentals,55f51478498e9b20fa63ec44,Ansley Above the Park,46,1130 Piedmont Ave NE,33.785654,-84.378911,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+106,Atlanta Arcade & Gaming Rentals,5d55c42d4a16c2000832cce9,Yoo On The Park Gym,138,No Address,33.785244,-84.380103,4bf58dd8d48988d175941735,Gym / Fitness Center
+107,Atlanta Arcade & Gaming Rentals,5ab6647ff79faa7136006df4,Nectar,108,No Address,33.78436333276709,-84.37884898390797,4bf58dd8d48988d1cb941735,Food Truck
+108,Atlanta Arcade & Gaming Rentals,56d1f716498e3a0cba4b9756,Blue Donkey,127,Piedmont Park,33.78418017223891,-84.3787668627277,4bf58dd8d48988d1cb941735,Food Truck
+109,Atlanta Arcade & Gaming Rentals,4daa1bb88154abafc2a5b367,Piedmont Park Visitor Center,171,298 12th St NE,33.78407002287259,-84.37751450054691,4bf58dd8d48988d162941735,Other Great Outdoors
+110,Atlanta Arcade & Gaming Rentals,4cdaed585aeda1cd84efb911,"Piedmont Park ""Noguchi Playscapes"" Playground",95,Piedmont Park,33.784956072522895,-84.37766873003083,4bf58dd8d48988d1e7941735,Playground
+111,Atlanta Arcade & Gaming Rentals,5d7e8c49b4fc9c00080e8629,Music Midtown Vip Lounge,86,No Address,33.784912,-84.377812,56aa371be4b08b9a8d5734db,Amphitheater
+112,Atlanta Arcade & Gaming Rentals,4b5d1bf3f964a520045329e3,Parc Vue,79,275 13th St NE,33.784967,-84.379349,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+113,Atlanta Arcade & Gaming Rentals,4db88de81e7206c23d0ac8ac,The Nook on Piedmont Park,82,1144 Piedmont Ave NE,33.78603614546449,-84.37838308872107,4bf58dd8d48988d14e941735,American Restaurant
+114,Atlanta Arcade & Gaming Rentals,5be8ba243183940025f9b7fc,Original Eclectic Barbers,167,244 14th St NE,33.78676268095969,-84.37911987304688,4bf58dd8d48988d110951735,Salon / Barbershop
+115,Atlanta Arcade & Gaming Rentals,51fafe0d498edda1d4a48da7,12th Street Entrance,127,No Address,33.784210896879,-84.37827266665995,4bf58dd8d48988d163941735,Park
+116,Atlanta Arcade & Gaming Rentals,51dca4ba498ebcc6f68f1c81,The Last Meter - Olympic Runners Sculpture,112,No Address,33.7862258420662,-84.37807909334967,4bf58dd8d48988d12d941735,Monument / Landmark
+117,Atlanta Arcade & Gaming Rentals,4a3019def964a5201b991fe3,Skate Escape,108,1086 Piedmont Ave NE,33.78440273517319,-84.37900226911337,4bf58dd8d48988d1f1941735,Board Shop
+118,Atlanta Arcade & Gaming Rentals,6096961f10f0fb765005b9e9,Tic Tac Coffee,102,No Address,33.784497,-84.379105,4bf58dd8d48988d1e0931735,Coffee Shop
+119,Atlanta Arcade & Gaming Rentals,5727ed7d498ef4035f29d8a4,14th Street Gate Entrance,137,No Address,33.786488,-84.378114,4bf58dd8d48988d163941735,Park
+120,Atlanta Arcade Rentals,49e45600f964a520fd621fe3,Trader Joe's,41,931 Monroe Dr,33.77962484449945,-84.36798914378377,4bf58dd8d48988d118951735,Grocery Store
+121,Atlanta Arcade Rentals,49f39a6ef964a520be6a1fe3,Richards Variety Store,16,931 Monroe Dr NE,33.77982720234306,-84.3681082650119,4bf58dd8d48988d128951735,Gift Shop
+122,Atlanta Arcade Rentals,53e3d214498eab537ce955d9,Ah-Ma's Taiwanese Kitchen,19,931 Monroe Dr NE Ste A108,33.7801031184737,-84.36816504006043,52af3b813cf9994f4e043c04,Taiwanese Restaurant
+123,Atlanta Arcade Rentals,4a8f6104f964a5201a1520e3,Midtown Promenade,40,931 Monroe Dr NE,33.779700224901624,-84.36856269836426,4bf58dd8d48988d1fd941735,Shopping Mall
+124,Atlanta Arcade Rentals,49ef56a2f964a520a2681fe3,MetroFresh,35,931 Monroe Dr NE Ste A106,33.78017317885029,-84.36848613848208,4bf58dd8d48988d1dd931735,Soup Place
+125,Atlanta Arcade Rentals,4a04c705f964a5202d721fe3,Mellow Mushroom,48,931 Monroe Dr NE,33.780343502759045,-84.36844137307264,4bf58dd8d48988d1ca941735,Pizza Place
+126,Atlanta Arcade Rentals,49f36e35f964a5209a6a1fe3,Starbucks,73,931 Monroe Dr,33.78032743,-84.36887027,4bf58dd8d48988d1e0931735,Coffee Shop
+127,Atlanta Arcade Rentals,5131599de4b008f25f1901ae,Gatsby's,24,931 Monroe Dr NE Ste B111,33.78011270612004,-84.36806948915564,4bf58dd8d48988d121941735,Lounge
+128,Atlanta Arcade Rentals,4bec4094fd60a593a0ba3af1,Atlanta BeltLine Eastside Trail,156,1551 Piedmont Ave NE,33.78134670247777,-84.36812606938948,4bf58dd8d48988d159941735,Trail
+129,Atlanta Arcade Rentals,4f563d63e4b02285fe2586d8,Monroe shopping center,60,No Address,33.780135668744215,-84.36884475556265,4bf58dd8d48988d1f9941735,Food & Drink Shop
+130,Atlanta Arcade Rentals,595e68307269fe39b888f96f,King Of Kabob Food Truck,148,No Address,33.779114508403296,-84.36949156562956,4bf58dd8d48988d1cb941735,Food Truck
+131,Atlanta Arcade Rentals,50bfb8d7e4b0e4f9c01d8270,The Rainbow City,235,No Address,33.78187840291898,-84.36925542944329,4bf58dd8d48988d163941735,Park
+132,Atlanta Arcade Rentals,5ce3251e054e29002c49138a,Bruster's Real Ice Cream,41,931 Monroe Dr,33.779756,-84.367846,4bf58dd8d48988d1c9941735,Ice Cream Shop
+133,Atlanta Arcade Rentals,4bec424c75b2c9b64d3b438d,Atlanta BeltLine Corridor under Virginia Ave,136,BeltLine Corridor,33.781132229724356,-84.3678860139926,4bf58dd8d48988d159941735,Trail
+134,Atlanta Arcade Rentals,5995e88828374e303ba429d5,PokeCity Midtown,20,931 Monroe Dr NE Ste A101,33.780029,-84.36842,5bae9231bedf3950379f89d4,Poke Place
+135,Atlanta Arcade Rentals,552ae23a498e5f398a39a283,Bruster's/Nathan's,57,931 Monroe Dr NE,33.779432729935905,-84.368141454723,4bf58dd8d48988d16f941735,Hot Dog Joint
+136,Atlanta Arcade Rentals,5bc26c08a35dce002c4eb9fd,Virginia Hill Condominiums,77,587 Virginia Ave NE,33.780633,-84.3683,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+137,Atlanta Arcade Rentals,5995c7b9fc9e94040a60c4ed,Poké City,67,No Address,33.78026630989695,-84.36884908632676,5bae9231bedf3950379f89d4,Poke Place
+138,Atlanta Arcade Rentals,4a7d05a2f964a5205bee1fe3,Woody's Famous CheeseSteaks,123,981 Monroe Dr NE,33.78096788070956,-84.36874155555975,4bf58dd8d48988d1c5941735,Sandwich Place
+139,Atlanta Arcade Rentals,4b8d0becf964a520bde532e3,Radiant Smiles Dental,78,587 Virginia Ave NE Ste 5,33.780648,-84.368216,4bf58dd8d48988d178941735,Dentist's Office

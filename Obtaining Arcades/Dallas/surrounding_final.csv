@@ -1,0 +1,155 @@
+,Arcade,Venue_ID,Venue_Name,Venue_Distance,Venue_Address,Venue_Latitude,Venue_Longitude,Category_ID,Category_Name,Venue_Rating
+0,Arcade Bar,4234d400f964a52012201fe3,Lakewood Theater,6,1825 Abrams Rd,32.81216512514588,-96.7532583937494,4bf58dd8d48988d1f2931735,Performing Arts Venue,8.2
+1,Arcade Bar,40e0b100f964a520ea071fe3,Balcony Club,10,1825 Abrams Rd Ste B,32.81226487460038,-96.75337425441131,4bf58dd8d48988d1e7931735,Jazz Club,8.2
+2,Arcade Bar,4fbbb1ace4b0c28e72dad0e7,Mi Cocina,23,6332 La Vista Dr,32.81230524514522,-96.75350766776992,4bf58dd8d48988d1c1941735,Mexican Restaurant,8.0
+3,Arcade Bar,5d6c6950716af5000829b0dc,Bowkski’s,46,1825 Abrams Rd,32.811833,-96.753104,4bf58dd8d48988d1e4931735,Bowling Alley,Not Rated
+4,Arcade Bar,4dd6a1d3b0fb8af38071e075,Campagna & Assoc Realtors,60,726 Paulus Ave,32.811976165881745,-96.75385568943209,4bf58dd8d48988d1e4931735,Bowling Alley,Not Rated
+5,Arcade Bar,5d6efe9be1edd6000826d267,Bowlski’s,78,No Address,32.811523,-96.753198,4bf58dd8d48988d1e4931735,Bowling Alley,Not Rated
+6,Arcade Bar,4abfcfedf964a520649220e3,Starbucks,78,6312 La Vista,32.812518,-96.754035,4bf58dd8d48988d1e0931735,Coffee Shop,7.9
+7,Arcade Bar,4b987e24f964a520854435e3,Jack in the Box,92,6308 Gaston Ave,32.81233982208983,-96.75425961613657,4bf58dd8d48988d16e941735,Fast Food Restaurant,5.8
+8,Arcade Bar,5dd892fc1588c30008720e28,Waya Japanese Izakaya,100,6334 Gaston Ave,32.813103000000005,-96.753494,4bf58dd8d48988d111941735,Japanese Restaurant,Not Rated
+9,Arcade Bar,4bd623705631c9b6266ea530,City Nails,114,6406 Gaston Ave,32.813255,-96.75327,4bf58dd8d48988d10c951735,Cosmetics Shop,8.1
+10,Arcade Bar,589d1b9f18fd2b55c94e383e,Sasa Sushi,118,6340 Gaston Ave,32.813283859164926,-96.75333657419512,4bf58dd8d48988d1c4941735,Restaurant,8.2
+11,Arcade Bar,571a5833498e15fd22abca3c,Roots Juices,118,1906 Abrams Pkwy,32.813120037069545,-96.75259612055612,4bf58dd8d48988d112941735,Juice Bar,Not Rated
+12,Arcade Bar,4ee2893bb634bfdd0d57af07,The T Shop,125,1911 Abrams Pkwy Ste 102,32.81314849853516,-96.75251770019531,4bf58dd8d48988d128951735,Gift Shop,Not Rated
+13,Arcade Bar,4f92e9c9e4b00fe65eb772de,Harrell Park,132,No Address,32.81268848948369,-96.75197376003963,4bf58dd8d48988d163941735,Park,Not Rated
+14,Arcade Bar,5cf16932b9b37b002c03f54c,Allegiance Title,146,1834 Abrams Rd,32.813252,-96.752301,4bf58dd8d48988d124941735,Office,Not Rated
+15,Arcade Bar,5a50d6473c858d2b2faca2d2,Orangetheory Fitness,159,1911 Abrams Pkwy,32.81329970852609,-96.75214716930049,4bf58dd8d48988d175941735,Gym / Fitness Center,7.4
+16,Arcade Bar,4be58d83910020a18c16d314,Bank of America,176,6215 Gaston Ave,32.81215350161533,-96.75516520608437,4bf58dd8d48988d10a951735,Bank,6.4
+17,Arcade Bar,573f4656498eadf763b36918,Craft Beer Cellar Dallas,188,6324 Gaston Ave,32.81383378117173,-96.75265972135094,5370f356bcbc57f1066c94c2,Beer Store,8.2
+18,Arcade Bar,4bccc6e0511f9521d49eb3c7,The UPS Store,2073,"7324 Gaston Ave, Ste 124",32.8115812243426,-96.73112404416315,52f2ab2ebcbc57f1066b8b1f,Shipping Store,6.7
+19,BBs Arcade,4d334f9d2c76a14379e479c7,X Spot,8,415 Tyler St.,32.748746000000004,-96.837605,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+20,BBs Arcade,50f8331ae4b0626fb80c33e5,The Twisted Lily,10,No Address,32.74873728846595,-96.83764117522146,4bf58dd8d48988d11b951735,Flower Shop,Not Rated
+21,BBs Arcade,4e471f0c14959d51c16d7f0a,Tyler Davis Block Party,14,No Address,32.74856685436209,-96.8375207839707,4d4b7104d754a06370d81259,Arts & Entertainment,Not Rated
+22,BBs Arcade,505249e4e4b0c9dff11b278a,The Barbers Lab,14,412 N Tyler St,32.748741149902344,-96.83739471435548,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+23,BBs Arcade,4aff3105f964a520b43522e3,Oak Cliff Bicycle Company,15,410 N Tyler St,32.748721,-96.83738100000001,4bf58dd8d48988d115951735,Bike Shop,Not Rated
+24,BBs Arcade,5c5cdb88d9051600254d855f,Magic Hour,21,421 N Tyler St,32.74882,-96.837713,4bf58dd8d48988d1f8941735,Furniture / Home Store,Not Rated
+25,BBs Arcade,52254e7b11d2030cb587dd03,New Iberia Studio,22,421 N Tyler St,32.748734000000006,-96.837779,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+26,BBs Arcade,575b4c8c498e5ed056fec80c,GypsyHouse,26,421 N. Tyler St.,32.748546600341804,-96.83776092529295,4bf58dd8d48988d104951735,Boutique,Not Rated
+27,BBs Arcade,4b996acdf964a520017a35e3,Mighty Fine Arts,27,419 N Tyler St,32.74853134155273,-96.83776092529295,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+28,BBs Arcade,5071de42e4b025893cfbc885,Tyler Street Salon,28,419 N Tyler St,32.748441877071265,-96.83762330087096,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+29,BBs Arcade,5cd30728646e38002c709c6f,Vegan Food House,29,832 W 7th St,32.748778,-96.837244,4bf58dd8d48988d1d3941735,Vegetarian / Vegan Restaurant,Not Rated
+30,BBs Arcade,511e8b76e4b09c463b2b527c,Foundry Collective,29,419 N Tyler St,32.74881,-96.837819,4bf58dd8d48988d1f4941735,Design Studio,Not Rated
+31,BBs Arcade,4ba12ef3f964a520c79f37e3,The Cube Creative,32,409 N Tyler St,32.74845504760742,-96.83775329589844,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+32,BBs Arcade,4e470fe8183849317e800f31,Gallery Bomb,34,407 N Tyler St,32.74843978881836,-96.83775329589844,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+33,BBs Arcade,4e2b2a737d8b7deda6cdf02d,Incense & Peppermints,38,No Address,32.748973,-96.837789,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+34,BBs Arcade,5c5cd6311fa763002c9aefbc,Beatnik Fine Goods,43,No Address,32.749084,-96.837515,4bf58dd8d48988d104951735,Boutique,Not Rated
+35,BBs Arcade,5d192e2f627d6b0023d075fa,Hola Cafe,45,416 N Tyler St,32.748306,-96.837389,4bf58dd8d48988d1e0931735,Coffee Shop,Not Rated
+36,BBs Arcade,4b76bf7bf964a520615c2ee3,Jack in the Box,238,1020 W Davis St,32.74926687112329,-96.83999240398407,4bf58dd8d48988d16e941735,Fast Food Restaurant,5.3
+37,BBs Arcade,4d2f4df66b1c2d43432315da,growth life studio,461,115 S Tyler St,32.744556,-96.837815,4bf58dd8d48988d177941735,Doctor's Office,Not Rated
+38,Free Play Arcade,4f2d6222e4b0118a85b583ae,Jacque's Southern Cafe,33,1718 E Belt Line Rd,32.943893432617195,-96.69369506835938,4bf58dd8d48988d14f941735,Southern / Soul Food Restaurant,Not Rated
+39,Free Play Arcade,4bd76d4cf645c9b673f1a5e0,united states taekwondo academy,34,1710 E Belt Line Rd,32.94417190551758,-96.6934051513672,4bf58dd8d48988d101941735,Martial Arts School,Not Rated
+40,Free Play Arcade,4bfdecd68992a59330ebacb0,Chase Place,35,1724 E Belt Line Rd,32.94416514009405,-96.69346343150906,4bf58dd8d48988d116941735,Bar,6.2
+41,Free Play Arcade,4cd31b72558a3704fb34bfa6,Tuesday Morning,44,1750 E Belt Line Rd,32.943812,-96.692871,52dea92d3cf9994f4e043dbb,Discount Store,6.6
+42,Free Play Arcade,605e6a25298fbc26c9a065ee,Black Friday,45,No Address,32.943956,-96.692871,52dea92d3cf9994f4e043dbb,Discount Store,Not Rated
+43,Free Play Arcade,4bf9d58d4a67c928ed8e27cf,Baskin-Robbins,62,"1748 E. Belt Line Rd, Richardson East Center",32.943859134167965,-96.692671211401,4bf58dd8d48988d1c9941735,Ice Cream Shop,7.2
+44,Free Play Arcade,4e78e60ab61ce1c898c04e6a,Sherwin-Williams Paint Store,67,1732 E Belt Line Rd,32.9442138671875,-96.6927490234375,4bf58dd8d48988d112951735,Hardware Store,6.4
+45,Free Play Arcade,4b8ef663f964a520694133e3,Harbor Freight Tools,79,1704 E Belt Line Rd,32.94397290718617,-96.69417946789692,4bf58dd8d48988d112951735,Hardware Store,7.2
+46,Free Play Arcade,5647fe3c498e37c29a8b9d31,Melones Sport Bar,107,No Address,32.944814170710714,-96.69312840549313,4bf58dd8d48988d11d941735,Sports Bar,Not Rated
+47,Free Play Arcade,4c7aa5b3566db60c8fa1480e,Dollar Tree,118,1750 E Belt Line Rd,32.944471505507515,-96.69230123311443,52dea92d3cf9994f4e043dbb,Discount Store,7.1
+48,Free Play Arcade,4e444b65b61cac6fc753c1ea,Thrift City,139,No Address,32.944275666423216,-96.69192867846668,4bf58dd8d48988d104951735,Boutique,7.2
+49,Free Play Arcade,4b934017f964a520443d34e3,Taco Bell,142,1606 E Belt Line Rd,32.94497340081439,-96.6940970922858,4bf58dd8d48988d16e941735,Fast Food Restaurant,5.2
+50,Free Play Arcade,4b7602e2f964a5206c362ee3,Callisto,151,1680 E Belt Line Rd,32.94428084512144,-96.69488115548162,4bf58dd8d48988d11b941735,Pub,5.8
+51,Free Play Arcade,551eec05498e5f130f6b6c2b,Thrift City Richardson,176,No Address,32.944544156045225,-96.69162949618469,4bf58dd8d48988d101951735,Thrift / Vintage Store,Not Rated
+52,Free Play Arcade,4b70b49bf964a520b62a2de3,KFC,182,1776 E Belt Line Rd,32.94481446600303,-96.69174991853448,4d4ae6fc7a7b7dea34424761,Fried Chicken Joint,5.7
+53,Free Play Arcade,4c60033e3a3703bba91de406,Pizza Hut,184,1602 E Belt Line Rd,32.94490114558554,-96.69488221406937,4bf58dd8d48988d1ca941735,Pizza Place,7.2
+54,Free Play Arcade,5c4e1c29f129b50025c9a3b6,Danang Soup House,206,No Address,32.94486,-96.6952,4bf58dd8d48988d14a941735,Vietnamese Restaurant,Not Rated
+55,Free Play Arcade,4b0af9d8f964a520f72a23e3,SuperTarget,538,601 S Plano Rd,32.939936,-96.6967,52f2ab2ebcbc57f1066b8b42,Big Box Store,7.1
+56,Free Play Arcade,4b807ea9f964a520767730e3,Applebee's,707,1610 E Belt Line Rd,32.94624492874571,-96.70036230855075,4bf58dd8d48988d14e941735,American Restaurant,5.4
+57,Gonzo's Rolling Arcade,4c36b64718e72d7f4e6115f5,The Corner Bar,464,3311 Dogwood Ct,32.965076446533196,-96.59219360351562,4bf58dd8d48988d116941735,Bar,Not Rated
+58,Gonzo's Rolling Arcade,4d30b687a62d721e4afa9c7d,Armstrong Elmentary School,769,4750 Ben Davis Rd,32.96651077270508,-96.59968566894531,4f4533804b9074f6e4fb0105,Elementary School,Not Rated
+59,Gonzo's Rolling Arcade,4c48cefefbafc92845f011da,Phantom Regiment Staff Bus,965,On the Road 2010,32.962370399107186,-96.58402919769287,4bf58dd8d48988d12b951735,Bus Line,Not Rated
+60,Gonzo's Rolling Arcade,5bbfa7d50457b7002c55f772,Amy’s Hallmark,1230,5120 Highway 78,32.968746,-96.604007,4bf58dd8d48988d128951735,Gift Shop,Not Rated
+61,Gonzo's Rolling Arcade,5da8cc986f13620008e6aa29,Ariel Pointe of Sachse,1251,3400 Miles Rd,32.9557502,-96.5826234,5032891291d4c4b30a586d68,Assisted Living,Not Rated
+62,Gonzo's Rolling Arcade,59efaf4e09e28363b53ca344,Bop Joa,1254,5120 Highway 78 #350,32.96841939810477,-96.60469293594359,4bf58dd8d48988d113941735,Korean Restaurant,Not Rated
+63,Gonzo's Rolling Arcade,60a44194339c3105925b7b2e,Simply Liquor,1255,No Address,32.968548,-96.60458,4bf58dd8d48988d186941735,Liquor Store,Not Rated
+64,Gonzo's Rolling Arcade,4e9c76fff790b2a91a170b2e,Hallmark Gold Crown,1261,No Address,32.96871431236611,-96.60449021660179,4bf58dd8d48988d128951735,Gift Shop,Not Rated
+65,Gonzo's Rolling Arcade,5f7f829697a43a7035db2596,Sachse Nail Bar,1268,5120 TX-78 #300,32.9685,-96.6048,4f04aa0c2fb6e1c99f3db0b8,Nail Salon,Not Rated
+66,Gonzo's Rolling Arcade,550d6aef498e35229cc4ec2c,Mr Clean Cleaners,1270,No Address,32.97003425402194,-96.60303145713884,52f2ab2ebcbc57f1066b8b1d,Dry Cleaner,Not Rated
+67,Gonzo's Rolling Arcade,50d71e3fe4b073c629ef8577,Donut Place,1276,No Address,32.96845005132628,-96.60496118776408,4bf58dd8d48988d148941735,Donut Shop,Not Rated
+68,Gonzo's Rolling Arcade,52753ac311d20efbddbbbf96,Starbucks,1282,5190 Highway 78,32.96930484242806,-96.6041442124358,4bf58dd8d48988d1e0931735,Coffee Shop,7.1
+69,Gonzo's Rolling Arcade,4bc2429d461576b041277d32,Michael's Nails,1286,No Address,32.96862673880857,-96.60493557443114,4f04aa0c2fb6e1c99f3db0b8,Nail Salon,Not Rated
+70,Gonzo's Rolling Arcade,4bdf2b866198c9b6fe3016ff,Lake Pointe Medical Partners,1297,No Address,32.970363428876674,-96.60300016468996,4bf58dd8d48988d177941735,Doctor's Office,Not Rated
+71,Gonzo's Rolling Arcade,5e95f8f1281a3d0007e24b21,All Storage - Garland,1332,5760 Bunker Hill Road,32.96802639999999,-96.6060835,4f04b1572fb6e1c99f3db0bf,Storage Facility,Not Rated
+72,Gonzo's Rolling Arcade,5a944f7058aa7f5f77beeecb,Waffle House,1361,5020 State Hwy 78,32.968131,-96.60637,4bf58dd8d48988d143941735,Breakfast Spot,6.5
+73,Gonzo's Rolling Arcade,4df13fd4c65bf55ee52203db,Gamestop,1368,No Address,32.96872615814209,-96.6059535741806,4f04b1572fb6e1c99f3db0bf,Storage Facility,Not Rated
+74,Gonzo's Rolling Arcade,51911792498e91f3cb3aa58b,MinuteClinic,1404,5702 Lavon Dr,32.967987060546875,-96.6070327758789,4bf58dd8d48988d104941735,Medical Center,Not Rated
+75,Gonzo's Rolling Arcade,5738d7b2498ed0c6af6d4126,Sachse Old Parks and Rec,1451,No Address,32.973739,-96.598895,52e81612bcbc57f1066b7a34,Community Center,Not Rated
+76,Gonzo's Rolling Arcade,4cf0591e899c6ea8b021eac1,Exxon,1493,2900 Miles Road,32.9517,-96.5831,4bf58dd8d48988d113951735,Gas Station,6.1
+77,Noah's Arcade,4f551f80e4b03be365ef2768,Flynns,50,No Address,32.96400231239643,-97.02739599827595,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+78,Noah's Arcade,4ebad5bc0aafc46b9832e99a,Fellowship Church Jogging Trail,56,No Address,32.964244435125536,-97.02725951015978,4bf58dd8d48988d159941735,Trail,Not Rated
+79,Noah's Arcade,52163f95498e9fe8b1a73a99,NABCO,63,511 S Royal Ln,32.963703,-97.027569,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+80,Noah's Arcade,4cf506d588de3704fe32882b,Round2,135,445 S Royal Ln,32.965381622314446,-97.0282974243164,4bf58dd8d48988d122951735,Electronics Store,Not Rated
+81,Noah's Arcade,519d2151498e21448dfc2414,sunbelt,138,No Address,32.96501755310847,-97.02900237954871,4bf58dd8d48988d130941735,Building,Not Rated
+82,Noah's Arcade,4ceada30f86537042e42bfc4,Mannatech Inc.,246,445 S Royal Ln,32.965863305835015,-97.0296270938987,4bf58dd8d48988d124941735,Office,Not Rated
+83,Noah's Arcade,5286184f11d2f6b689e5cec8,Staples Dcs,285,444 S Royal Ln,32.96535110473633,-97.02513122558594,4bf58dd8d48988d121951735,Paper / Office Supplies Store,Not Rated
+84,Noah's Arcade,4c632c17fa7bc928e7fd0f27,Fresenius Medical Care/TruBlu Logistics,507,1110 Northpoint Dr,32.96856308227246,-97.02951028767076,4bf58dd8d48988d130941735,Building,Not Rated
+85,Noah's Arcade,6082d44e42b8850632bdc6f5,Premier Logitech,562,No Address,32.960266,-97.02412,56aa371be4b08b9a8d573517,Business Center,Not Rated
+86,Noah's Arcade,5e45d54c4f10a40008010de8,Fairfield Inn & Suites by Marriott Dallas DFW Airport North/Coppell Grapevine,568,1150 Northpoint Drive,32.9684972,-97.0311829,4bf58dd8d48988d1fa931735,Hotel,Not Rated
+87,Noah's Arcade,4dfe105f62e1a52ce9163040,Wagon Wheel Tennis Center,716,No Address,32.96177926682139,-97.02076359544935,4d4b7105d754a06377d81259,Outdoors & Recreation,Not Rated
+88,Noah's Arcade,4f3daf98e4b0869411401544,Wagon Wheel Water Tower Fields,745,No Address,32.964899268926864,-97.01993156130024,4bf58dd8d48988d15f941735,Field,Not Rated
+89,Noah's Arcade,4c7e73f73b22a1cd60d2619e,ThyssenKrupp Elevator,842,621 S Royal Ln,32.9567488683969,-97.02638096842571,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+90,Noah's Arcade,4f400ee1e4b02950289e0d8c,Guess,853,No Address,32.96888789966073,-97.03511328385795,4bf58dd8d48988d103951735,Clothing Store,Not Rated
+91,Noah's Arcade,5f6b62a86074954e688b9c78,Wallis and Baker Apartments and Brownstones,856,3155 Stars and Stripes Way,32.9701396,-97.0337135,4d954b06a243a5684965b473,Residential Building (Apartment / Condo),Not Rated
+92,Noah's Arcade,5712cb60cd10d64b1f16e532,The Laurel,860,2040 Enchanted Way,32.95862549747922,-97.03423126286584,56aa371be4b08b9a8d5734c5,Wedding Hall,8.3
+93,Noah's Arcade,4e41b0a0814da3635cd6d511,Coppell Nature Park,863,Freeport Parkway,32.96555022588577,-97.01876431703569,4bf58dd8d48988d163941735,Park,Not Rated
+94,Noah's Arcade,598410aef5e9d71716c5d703,The Escape Game Dallas,1399,3000 Grapevine Mills Parkway Suite 604,32.965484000000004,-97.042772,52e81612bcbc57f1066b7a26,Recreation Center,Not Rated
+95,Noah's Arcade,524ae90811d210a89758f472,Clear C2,2349,724 Canyon Dr,32.98234425,-97.01498609,52f2ab2ebcbc57f1066b8b36,IT Services,Not Rated
+96,Northern Lights Arcade at Great Wolf Lodge,501c5dd8e4b00a26d469da6a,T.G.I.Friday's Terminal B,247,No Address,32.93339870397104,-97.04186533337109,4bf58dd8d48988d14e941735,American Restaurant,Not Rated
+97,Northern Lights Arcade at Great Wolf Lodge,504e572de4b0fcb8a575f307,Taxi with a driver who can't drive,453,No Address,32.93082111866884,-97.04412842139564,4f2a23984b9023bd5841ed2c,Moving Target,Not Rated
+98,Northern Lights Arcade at Great Wolf Lodge,58419f83f63c54143e4c4579,on a Lyft ride,470,No Address,32.932069,-97.034552,54541b70498ea6ccd0204bff,Transportation Service,Not Rated
+99,Northern Lights Arcade at Great Wolf Lodge,5d97a7a373b07e0008bc1fb0,Area 51,659,No Address,32.93658,-97.03475,56aa371be4b08b9a8d57352f,Airport Service,Not Rated
+100,Northern Lights Arcade at Great Wolf Lodge,4ed56a1f6c2528aaaebb33da,Dfw Outlook,704,No Address,32.92601050136173,-97.04078894969776,4bf58dd8d48988d162941735,Other Great Outdoors,Not Rated
+101,Northern Lights Arcade at Great Wolf Lodge,5a257afe974617120f2b07b2,McKesson Specialty Health,814,845 Regent Blvd,32.939303,-97.037218,4bf58dd8d48988d124941735,Office,Not Rated
+102,Northern Lights Arcade at Great Wolf Lodge,5a09c2019e0d541db655b02b,North Cell Phone Lot,914,N Airfield Dr,32.92405045605012,-97.03998863697052,4c38df4de52ce0d596b336e1,Parking,Not Rated
+103,Northern Lights Arcade at Great Wolf Lodge,50de0d51e4b01580953e0a62,Bass Pro Shooting Range,968,No Address,32.940558174422186,-97.04268969756052,52e81612bcbc57f1066b7a11,Gun Range,Not Rated
+104,Northern Lights Arcade at Great Wolf Lodge,58b73477158b962d98b7504f,Maintenance Supply Headquarters,1018,2525 Esters Blvd. #300,32.936484,-97.029914,52e81612bcbc57f1066b7a36,Warehouse,Not Rated
+105,Northern Lights Arcade at Great Wolf Lodge,4cfc0222c51fa1cd1ac1e92b,Polar Express,1068,No Address,32.93966251876902,-97.04685893201281,4bf58dd8d48988d1f1931735,General Entertainment,Not Rated
+106,Northern Lights Arcade at Great Wolf Lodge,4bcef83b29d4b7135c4da9dc,DFW North Toll Plaza,1076,International Pkwy,32.92259152112805,-97.03959703445436,52f2ab2ebcbc57f1066b8b4e,Toll Plaza,Not Rated
+107,Northern Lights Arcade at Great Wolf Lodge,51a40113498e5fd306ee7691,Gate B36A,1195,No Address,32.92151597754639,-97.03969683192787,4bf58dd8d48988d1f0931735,Airport Gate,Not Rated
+108,Northern Lights Arcade at Great Wolf Lodge,5b3fbd436dcf04002c891b9e,Coca Cola,1231,2701 Esters Blvd,32.930871,-97.026513,52e81612bcbc57f1066b7a36,Warehouse,Not Rated
+109,Northern Lights Arcade at Great Wolf Lodge,56040274498efd374b898c9b,The Vine Family Chiropractic,1244,No Address,32.92383144833685,-97.03083979151468,4bf58dd8d48988d130941735,Building,Not Rated
+110,Northern Lights Arcade at Great Wolf Lodge,4e4afc3814958c3abfa273f9,acuity brands lightimg,1413,No Address,32.92925903772584,-97.02488151235998,4bf58dd8d48988d130941735,Building,Not Rated
+111,Northern Lights Arcade at Great Wolf Lodge,4bc531680a30d13a65ce599c,Pitcher's,1477,No Address,32.9189876649038,-97.03966532879757,4bf58dd8d48988d11d941735,Sports Bar,Not Rated
+112,Northern Lights Arcade at Great Wolf Lodge,5568b174498e0b3c1568e5c2,Graybar Electric Supply,1508,2700 Regent Blvd Ste 300,32.940952534347595,-97.02720522880554,5454144b498ec1f095bff2f2,Construction & Landscaping,Not Rated
+113,Northern Lights Arcade at Great Wolf Lodge,5ced6f96f2554e002c0a4ca2,Runway 13L/31R,3141,DFW Airport,32.910432794727555,-97.01827242504804,56aa371be4b08b9a8d57352f,Airport Service,Not Rated
+114,Northern Lights Arcade at Great Wolf Lodge,503e179de4b0ab5499d0fc73,Siplast,13358,1000 Rochelle Blvd,32.852203,-96.93312900000001,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+115,Spin and Win Arcade,556a4308498e1cf03139c0cb,Oak Highlands Brewery,140,10484 Brockwood Rd,32.890232654523274,-96.70455065445258,50327c8591d4c4b30a586d5d,Brewery,8.6
+116,Spin and Win Arcade,4c112b93f1b6a59322157d27,US Post Office,181,10502 Markison Rd,32.8908933,-96.7037104,4bf58dd8d48988d172941735,Post Office,6.6
+117,Spin and Win Arcade,60a80a648c55d01e311ee28d,Antique Restoration Masters,214,No Address,32.887999,-96.701847,4bf58dd8d48988d116951735,Antique Shop,Not Rated
+118,Spin and Win Arcade,5205349c11d2982fcc3cfe70,Eat Jo Dawgs Food Truck,274,No Address,32.888241091434935,-96.70090553695732,4bf58dd8d48988d1cb941735,Food Truck,Not Rated
+119,Spin and Win Arcade,5edfb071d8e22f1ae513a486,Royal Direct Auto,286,No Address,32.890639,-96.706174,4eb1c1623b7b52c0e1adc2ec,Auto Dealership,Not Rated
+120,Spin and Win Arcade,4c260bc9f1272d7f43c485c5,Texas Handgun Academy,309,No Address,32.88819680198609,-96.70051865247,4bf58dd8d48988d1a8941735,General College & University,Not Rated
+121,Spin and Win Arcade,4b7c4a2cf964a520058a2fe3,Interstate Batteries,378,10200 Plano Rd,32.88763783294361,-96.70001850268513,4bf58dd8d48988d1ff941735,Miscellaneous Shop,Not Rated
+122,Spin and Win Arcade,4fa828afe4b03b5b591a519e,Sharon Young Inc,424,No Address,32.89199200091948,-96.70675597930513,4bf58dd8d48988d124941735,Office,Not Rated
+123,Spin and Win Arcade,57950c90498e6d2953e300d8,Mariscos La Riviera Nayarit,453,No Address,32.885472,-96.70181,4bf58dd8d48988d1c1941735,Mexican Restaurant,Not Rated
+124,Spin and Win Arcade,4e113afeb61c637b97abff68,Pt's Mens Club,482,10601 Plano Rd,32.89302750107597,-96.70100920096036,4bf58dd8d48988d1d6941735,Strip Club,Not Rated
+125,Spin and Win Arcade,5aac3b066bd36b5ee42f02fc,Lake Highlands Trail,531,Ferndale Rd,32.888961,-96.709247,56aa371be4b08b9a8d57355e,Bike Trail,Not Rated
+126,Spin and Win Arcade,4e08b5a81838eb15af0953f3,AAA Sand & Stone,535,10550 Miller Rd,32.893792,-96.701656,4bf58dd8d48988d124941735,Office,Not Rated
+127,Spin and Win Arcade,50f5f843e4b0932e29fa27d5,7-11,535,No Address,32.885213815618506,-96.70667239781744,4d954b0ea243a5684a65b473,Convenience Store,Not Rated
+128,Spin and Win Arcade,4dc56b2eb0fb5556ccefaded,Miller's Grass,552,No Address,32.8849,-96.700772,4bf58dd8d48988d162941735,Other Great Outdoors,Not Rated
+129,Spin and Win Arcade,4e2ded94b0fbdc2b64f261df,Shell,607,10650 Church Rd,32.884328000000004,-96.700806,4bf58dd8d48988d113951735,Gas Station,5.9
+130,Spin and Win Arcade,5c43854866fc65002ca5816f,Str8 Choppin’ Barber Shop,686,10720 Miller Rd Ste 228,32.893932342529304,-96.6987762451172,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+131,Spin and Win Arcade,4e024296b61c90045007b0c2,Wallace elementary,732,9921 Kirkhaven Dr,32.883803637786414,-96.70795225122455,4f4533804b9074f6e4fb0105,Elementary School,Not Rated
+132,Spin and Win Arcade,4dd3f20652b1f6bad412790f,Royal Finish Inc,734,10703 Plano Rd,32.895594,-96.701349,4bf58dd8d48988d124941735,Office,Not Rated
+133,Spin and Win Arcade,57fe5a1d498e7ebff44245ce,Dallas Golf,759,10265 Miller Rd,32.8949726,-96.7080279,4bf58dd8d48988d1f2941735,Sporting Goods Shop,Not Rated
+134,Spin and Win Arcade,579e8946498eb936a0fc5a17,Blocksport Volleyball Club,766,No Address,32.89608,-96.70472,4f4528bc4b90abdf24c9de85,Athletics & Sports,Not Rated
+135,The Arcade,4e18b3a51f6eb955987d02c5,The Gift Shop,18,No Address,32.970735,-96.924993,4bf58dd8d48988d1f3941735,Toy / Game Store,Not Rated
+136,The Arcade,4cab9e4114c337046e17ec3b,Western Extrusions,469,1720 Booth Dr,32.967553,-96.921609,4bf58dd8d48988d124941735,Office,Not Rated
+137,The Arcade,4ada7a15f964a520e72221e3,Starbucks,570,1945 Sandy Lake Rd,32.96769930089528,-96.92005902528764,4bf58dd8d48988d1e0931735,Coffee Shop,8.0
+138,The Arcade,4faef1e4e4b03d522733918e,Carrollton Town Square Gazebo,651,No Address,32.96794976819414,-96.91886684304899,4bf58dd8d48988d164941735,Plaza,Not Rated
+139,The Arcade,4c7444c966be6dcb6243bd0f,Shell,673,1946 N Interstate 35E,32.96804348733451,-96.918549660387,4bf58dd8d48988d113951735,Gas Station,5.6
+140,The Arcade,4e0f7e50aeb7a5b33ef45489,Strong's Nursery,774,I-35,32.96734252746591,-96.91776626057084,4eb1c0253b7b52c0e1adc2e9,Garden Center,Not Rated
+141,The Arcade,4d58479c16146a3169235bc1,Ken Good Park,885,1200 W Jackson Rd,32.976444,-96.918667,4bf58dd8d48988d161941735,Lake,Not Rated
+142,The Arcade,507f1fade4b0d2368fdb2e1c,Addison Glass & Mirrors,996,No Address,32.968214,-96.914804,4bf58dd8d48988d130941735,Building,Not Rated
+143,The Arcade,612a7403c10c833d8f5a1da8,bvb training grounds,1008,No Address,32.966244,-96.934564,52e81612bcbc57f1066b7a26,Recreation Center,Not Rated
+144,The Arcade,4bdb0e3b3904a5936283489e,LDS Cannery,1068,No Address,32.975896,-96.915548,4bf58dd8d48988d132941735,Church,Not Rated
+145,The Arcade,5be38d323b83070039d645dc,Blue Sky Sports Center - Carrollton,1112,No Address,32.966614,-96.936013,4cce455aebf7b749d5e191f5,Soccer Field,Not Rated
+146,The Arcade,5244b7ca11d2a17182c578a6,Exacta Creative Design,1126,No Address,32.978240966796875,-96.91718292236328,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+147,The Arcade,4c2f9b8666e40f471a3cc28b,Animal Services And Adoption Center Of Carrollton,1133,No Address,32.96689209674627,-96.93640003775808,4e52d2d203646f7c19daa8ae,Animal Shelter,Not Rated
+148,The Arcade,4ec6f670775bf65c02d9a10f,"Trinity Mills Station (DART Rail, A-train)",1143,2525 Blanton Dr,32.98080885840814,-96.92640736861021,4bf58dd8d48988d1fc931735,Light Rail Station,Not Rated
+149,The Arcade,4c2114fc7e85c92803f3b921,Wine Maker's Toy Store,1157,No Address,32.980805911595866,-96.92746250303341,4bf58dd8d48988d124941735,Office,Not Rated
+150,The Arcade,4e89ea2961afd3867c3a85c9,Southwest Wholesale Nursery,1194,No Address,32.967605698150656,-96.93736987271132,4bf58dd8d48988d11b951735,Flower Shop,Not Rated
+151,The Arcade,4fbe5602e4b0ab5c872d8524,Office Furniture Connection,1238,No Address,32.964624,-96.913899,4bf58dd8d48988d1f8941735,Furniture / Home Store,Not Rated
+152,The Arcade,607b19dc581bc3028142326c,Used Office Furniture Connection,1239,No Address,32.964632,-96.913887,4bf58dd8d48988d1f8941735,Furniture / Home Store,Not Rated
+153,The Arcade,4dcec0138877851243ffcb66,McInnish Soccer Fields,1414,No Address,32.964766083976365,-96.93854942099657,4cce455aebf7b749d5e191f5,Soccer Field,Not Rated

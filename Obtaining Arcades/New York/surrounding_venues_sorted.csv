@@ -1,0 +1,756 @@
+,Arcade,Venue_ID,Venue_Name,Venue_Distance,Venue_Address,Venue_Latitude,Venue_Longitude,Category_ID,Category_Name
+718,2 Water Street - Arcade,4dd18693ae60fb3f53acb7a7,NYC HHC Office,3,33 Whitehall St,40.702799,-74.012789,4bf58dd8d48988d124941735,Office
+711,2 Water Street - Arcade,59b1aae02e26805019543ab8,Continental Stock Transfer & Trust,7,1 State St,40.702855,-74.012716,4bf58dd8d48988d124941735,Office
+710,2 Water Street - Arcade,5c50c0c13731ee002c8cbb6e,Pool @ Whitehall Nyhrc,11,No Address,40.702695,-74.012737,4bf58dd8d48988d105941735,Gym Pool
+705,2 Water Street - Arcade,4acd4277f964a52099cb20e3,New York Health & Racquet Club,15,39 Whitehall St,40.70293312976079,-74.0127486444688,4bf58dd8d48988d176941735,Gym
+713,2 Water Street - Arcade,610422c76e509940e45d9cc8,El Omal,24,Water St,40.702625,-74.012935,4bf58dd8d48988d151941735,Taco Place
+704,2 Water Street - Arcade,4be2c7d1f07b0f47aa27f643,The Juice Truck,26,Whitehall St,40.70258147447661,-74.01288720845312,4bf58dd8d48988d112941735,Juice Bar
+703,2 Water Street - Arcade,4b81712ff964a52041a630e3,2 Water Street,27,2 Water St,40.703008243545476,-74.01291014447119,4bf58dd8d48988d130941735,Building
+719,2 Water Street - Arcade,5dc95e1e61f86c000845f774,Citibike Station,27,Water - Whitehall Plaza,40.70255,-74.012726,4e4c9077bd41f78e849722f9,Bike Rental / Bike Share
+717,2 Water Street - Arcade,523706fa11d25eb29ab14c95,Sterling Infosystems,33,1 State St,40.7026283327721,-74.01308230888256,4bf58dd8d48988d124941735,Office
+708,2 Water Street - Arcade,4ae707bef964a52007a821e3,SourceMedia,67,1 State St,40.70309363097053,-74.01344904985591,4bf58dd8d48988d124941735,Office
+707,2 Water Street - Arcade,4cd1cafcfd42199cd1a2c56e,Davis Brody Bond,70,1 New York Plz,40.702316007103256,-74.01220254328003,4bf58dd8d48988d124941735,Office
+702,2 Water Street - Arcade,4b3a50c6f964a520796425e3,One New York Plaza,88,1 New York Plz,40.702232235736616,-74.01201725006105,4bf58dd8d48988d130941735,Building
+709,2 Water Street - Arcade,4b466b09f964a520452026e3,MTA Subway - South Ferry (1),98,South Ferry,40.701929190474,-74.01296123751251,4bf58dd8d48988d1fd931735,Metro Station
+706,2 Water Street - Arcade,4c114a38d917c9280379b562,1 State Street,111,1 State St,40.702513717933904,-74.01402004369842,4bf58dd8d48988d124941735,Office
+716,2 Water Street - Arcade,4eb941579a52ad1e408b608c,South Street,112,No Address,40.70213505514052,-74.01174529312101,4bf58dd8d48988d1df941735,Bridge
+701,2 Water Street - Arcade,4b435e5ef964a52009df25e3,MTA Subway - Whitehall St (R/W),115,Whitehall St,40.70177268425827,-74.01294261217117,4bf58dd8d48988d1fd931735,Metro Station
+700,2 Water Street - Arcade,4da2fe95c6e96ea8a3a9df5d,Urban Farm at Battery Park,171,Battery Park,40.70325440787322,-74.01468901072462,4bf58dd8d48988d15b941735,Farm
+712,2 Water Street - Arcade,42daf100f964a52035261fe3,Battery Park,261,Battery Pl,40.70321688525361,-74.01579540994133,4bf58dd8d48988d163941735,Park
+26,5th ave. arcade inc.,4b364e18f964a520893225e3,Boom Fitness,2,4 Park Ave,40.74658295086253,-73.98179632953475,4bf58dd8d48988d176941735,Gym
+33,5th ave. arcade inc.,4c53005e048b1b8d54fb5331,Vizeum,6,No Address,40.746621999999995,-73.98173100000001,4bf58dd8d48988d124941735,Office
+20,5th ave. arcade inc.,4f9ab1dbd4f2465542bc6750,Wolfgang's Steakhouse,15,4 Park Ave,40.74653128164081,-73.98195293767796,4bf58dd8d48988d1cc941735,Steakhouse
+25,5th ave. arcade inc.,4b3a5926f964a520426525e3,HSBC,26,33rd & Park,40.74639645470707,-73.98195397225172,4bf58dd8d48988d10a951735,Bank
+38,5th ave. arcade inc.,4dad48138154b108febb45b5,P/Kaufmann Contract,36,2 Park Ave,40.74689044356871,-73.9815882298017,4bf58dd8d48988d130941735,Building
+32,5th ave. arcade inc.,5f52311ab511c83bbf749c2e,Juice Generation,38,2 Park Ave,40.746381,-73.982156,4bf58dd8d48988d112941735,Juice Bar
+27,5th ave. arcade inc.,4fb9ef70e4b0eabae5d27526,4 Park Ave,41,4 Park Ave,40.74670524333993,-73.98227527826224,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+21,5th ave. arcade inc.,4b46b4c0f964a520252726e3,MTA Subway - 33rd St (6),44,Park Ave,40.746212675437214,-73.98191366573741,4bf58dd8d48988d1fd931735,Metro Station
+36,5th ave. arcade inc.,5a2819ae47f8765dae81eab2,Blank Financial,56,3 Park Ave,40.746484,-73.981146,503287a291d4c4b30a586d65,Financial or Legal Service
+22,5th ave. arcade inc.,5cc9b86f6f0aa2002cb2f867,NYU Health Child Care Center,61,No Address,40.746113,-73.981468,5744ccdfe4b0c0459246b4c7,Child Care Service
+34,5th ave. arcade inc.,5130b3ffe4b0dbd9e4d05b17,M427 - Manhattan Academy for Arts and Language,63,111,40.74647903442383,-73.98106384277344,4bf58dd8d48988d13d941735,High School
+37,5th ave. arcade inc.,56c4cb1dcd10b4ad3366dfb1,Houghton Mifflin Harcourt,81,3 Park Ave,40.74620707668579,-73.98098892515931,4bf58dd8d48988d130941735,Building
+23,5th ave. arcade inc.,5592ddcc498e99fe3c48032e,Pressed Juicery,84,1 Park Ave,40.74587631225586,-73.98150634765625,4bf58dd8d48988d112941735,Juice Bar
+35,5th ave. arcade inc.,503e550d8acab7fe481aa58a,Dramatics NYC 34th St,154,127 E 34th St,40.746465317272175,-73.979977650766,4bf58dd8d48988d110951735,Salon / Barbershop
+29,5th ave. arcade inc.,42911d00f964a520f5231fe3,New York Penn Station,1006,1 Penn Plz,40.7501992792495,-73.99274826049805,4bf58dd8d48988d129951735,Train Station
+426,Arcade,4c4308eeda3dc9280f4bcbb9,Global Broiling,9,New York CIty,40.79271,-73.96661999999999,4bf58dd8d48988d165941735,Scenic Lookout
+422,Arcade,4ba6da6ff964a520947339e3,41 West 96 Street,26,No Address,40.792438585985174,-73.9665911464282,4bf58dd8d48988d130941735,Building
+430,Arcade,5183d4b6498e416da53e3b68,"Dr. Robert A. Adair, M.D",31,41 W 96th St,40.79269409179688,-73.96634674072266,4bf58dd8d48988d177941735,Doctor's Office
+429,Arcade,4dceff12d4c065592f8deee1,Columbus Sq Dog Run,51,No Address,40.79302494356864,-73.96633860230251,4bf58dd8d48988d1e5941735,Dog Run
+439,Arcade,4c72d4207121a1cd919363d1,Columbus Natural Foods,68,725 Columbus Ave,40.79268629180404,-73.96752122749508,4bf58dd8d48988d118951735,Grocery Store
+424,Arcade,5037e21fe4b0b68ee3d6546f,Birch Coffee,69,750 Columbus Ave,40.793130587805976,-73.96724078166824,4bf58dd8d48988d1e0931735,Coffee Shop
+436,Arcade,4bb54c8df562ef3b1ed42e97,Rite Aid,69,741 Columbus Ave,40.793264516163866,-73.96688103675842,4bf58dd8d48988d10f951735,Pharmacy
+435,Arcade,4aeb357af964a520a8bf21e3,Columbus Wines & Spirits,77,730 Columbus Ave,40.792799838221605,-73.96760916182974,4bf58dd8d48988d119951735,Wine Shop
+432,Arcade,4c7a3368794e224bc1ee6728,Icon Parking,84,50 W 97th St,40.79283905029297,-73.96573638916016,4c38df4de52ce0d596b336e1,Parking
+428,Arcade,4f258800e4b01b0c60953818,MTA Bus - W 96 St & Columbus Av (M96/M106),99,W 96th St,40.79303505514471,-73.96777689456938,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+438,Arcade,60b17ab6a743f827943cc3c9,WestMont,108,730 Columbus Ave,40.792687,-73.967998,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+433,Arcade,4db2330d8154df05e598cc2d,Central Park Gardens,111,No Address,40.79254581677535,-73.96539155887382,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+421,Arcade,4bb2900eeb3e95216039ca0a,Dunkin',125,730 Columbus Ave,40.79244417395897,-73.96816880519928,4bf58dd8d48988d148941735,Donut Shop
+434,Arcade,5177d30c498e9b657328e30f,Coffee Cart - 97th & Columbus,127,W 97th Street,40.79377483087657,-73.96700439973823,4bf58dd8d48988d1cb941735,Food Truck
+437,Arcade,4bea0dbea9900f4738291640,110 West 96th Street,158,No Address,40.792977874129456,-73.96853819751354,4bf58dd8d48988d130941735,Building
+425,Arcade,4a95cf86f964a520c92420e3,Whole Foods Market,162,808 Columbus Ave,40.794109912321076,-73.96663311005507,4bf58dd8d48988d118951735,Grocery Store
+420,Arcade,4b0eed54f964a520e55c23e3,MTA Subway - 96th St (B/C),189,96th St,40.79177462584017,-73.96479310155709,4bf58dd8d48988d1fd931735,Metro Station
+427,Arcade,4b0ae639f964a520b02923e3,T.J. Maxx,250,808 Columbus Ave,40.79489238107115,-73.96638526210188,4bf58dd8d48988d1f6941735,Department Store
+423,Arcade,5fb00d384f777309c11f08ed,Krispy Kreme,510,2563 Broadway,40.7949565,-73.9719474,4bf58dd8d48988d148941735,Donut Shop
+233,Arcade Bookbinding Corp.,4fcbd424e4b00a0e854b8e52,The Masters Barber Shop,42,851 Wyckoff Ave,40.69755256287157,-73.90860639791853,4bf58dd8d48988d110951735,Salon / Barbershop
+228,Arcade Bookbinding Corp.,4cde17d541ed224b3dfcd63c,Mr. Lee's,47,No Address,40.69708073177608,-73.90892863108846,4bf58dd8d48988d145941735,Chinese Restaurant
+220,Arcade Bookbinding Corp.,4cacd6e0d971b1f7000334e1,Troy's Barbershop,58,No Address,40.697723,-73.908305,4bf58dd8d48988d110951735,Salon / Barbershop
+232,Arcade Bookbinding Corp.,60316cc11131484f076f89ce,Mateo Express Shipping,62,858 Wyckoff Ave,40.697565000000004,-73.907824,52f2ab2ebcbc57f1066b8b1f,Shipping Store
+227,Arcade Bookbinding Corp.,4ce1b008df986ea8c9d9ed16,Survivor Deli,66,816 Wyckoff Avenue,40.697772376910294,-73.9086236219776,4bf58dd8d48988d146941735,Deli / Bodega
+222,Arcade Bookbinding Corp.,607f310530d4f65bd3aea6cf,Stolen Magnolia,72,818 Wyckoff Ave,40.69785,-73.90835899999999,4eb1c0253b7b52c0e1adc2e9,Garden Center
+223,Arcade Bookbinding Corp.,4c87cc7c33453704cbde1572,Azteca Taqueria & Bakery,80,850 Wyckoff Avenue,40.697751000000004,-73.907779,4bf58dd8d48988d1c1941735,Mexican Restaurant
+224,Arcade Bookbinding Corp.,5d2e0d02bc080d002320c25f,Nick’s #3 Barber Shop,80,851 Wycoff Ave.,40.697736,-73.907753,4bf58dd8d48988d110951735,Salon / Barbershop
+225,Arcade Bookbinding Corp.,5b1aaf1ff96b2c002c2ca02e,Capybara,94,853 Wyckoff Ave,40.697857,-73.90769,4bf58dd8d48988d1d3941735,Vegetarian / Vegan Restaurant
+230,Arcade Bookbinding Corp.,4c87cbf653a6a0939b2d3fba,Hall of Fame Barbershop,128,884 Wyckoff Ave,40.697078704833984,-73.9068832397461,4bf58dd8d48988d110951735,Salon / Barbershop
+229,Arcade Bookbinding Corp.,5abfcc2da35dce29f414d388,Brooklyn Barista,130,880 Wyckoff Ave,40.69717159862193,-73.90684924159494,4bf58dd8d48988d1e0931735,Coffee Shop
+234,Arcade Bookbinding Corp.,5de9b841752a9900084f8660,Citi Bike Station,137,Hancock St & Wyckoff Ave,40.6972,-73.90677,4e4c9077bd41f78e849722f9,Bike Rental / Bike Share
+235,Arcade Bookbinding Corp.,4b823133f964a520d1cc30e3,Food Bazaar Supermarket,158,454 Wyckoff Ave.,40.69822286067939,-73.90970375880025,52f2ab2ebcbc57f1066b8b46,Supermarket
+237,Arcade Bookbinding Corp.,568fcc19498ea8182cc3f313,Ridgewood Yoga Studio,169,915 Wyckoff Ave,40.696994000000004,-73.906402,4bf58dd8d48988d102941735,Yoga Studio
+238,Arcade Bookbinding Corp.,51a936c6498e6d7f17e0252d,Lorimoto Gallery,182,Hancock St,40.69765904535763,-73.90632132591548,4bf58dd8d48988d1e2931735,Art Gallery
+239,Arcade Bookbinding Corp.,509b0789e4b059228ce95cc4,Joel's Bakery,216,16-15 Palmetto St,40.69807624752619,-73.91068475671834,4bf58dd8d48988d16a941735,Bakery
+236,Arcade Bookbinding Corp.,5f8a873ab294602b1ff0d807,Taqueria El Patron Mexican Grill,224,16-12 Madison St,40.69910274945534,-73.90927657485008,4bf58dd8d48988d1c4941735,Restaurant
+231,Arcade Bookbinding Corp.,604572ae4d99715e32de57e1,Nha Minh,230,9-15 Wyckoff Ave,40.69668,-73.905749,4bf58dd8d48988d14a941735,Vietnamese Restaurant
+221,Arcade Bookbinding Corp.,57c25ecd498e5d14afff51fe,Green Basket,231,Cornelia St & Wyckoff Ave,40.697432089384755,-73.90566429750879,4bf58dd8d48988d146941735,Deli / Bodega
+226,Arcade Bookbinding Corp.,5df975f9d50cc70008ceaba6,TV Eye,281,16-47 Weirfield St,40.697860999999996,-73.905178,4bf58dd8d48988d116941735,Bar
+396,Arcade Classics,5457f666498eeacb3138dfc8,Trustpilot,2,245 5th Ave,40.744629117173794,-73.98726166542447,5453de49498eade8af355881,Business Service
+380,Arcade Classics,4ddecc7ad4c01aeee905c13b,Cafe 28,3,245 5th Ave,40.74466280684203,-73.98726896025423,4bf58dd8d48988d16d941735,Café
+388,Arcade Classics,4b61f2d0f964a520ed2c2ae3,245 Fifth Avenue,7,245 5th Ave,40.74458124300109,-73.98734782155157,4bf58dd8d48988d124941735,Office
+399,Arcade Classics,4c66a41dc2ead13ad02eb480,Whitey's Hardware & Paint,7,485 3rd Ave,40.74461960276285,-73.98737922762321,4bf58dd8d48988d112951735,Hardware Store
+395,Arcade Classics,4bcf51d7b221c9b623ced1d0,Aerobeep,10,244 5th Ave,40.74456885133803,-73.98738487344497,4bf58dd8d48988d125941735,Tech Startup
+394,Arcade Classics,544015fe498e285ae03bdfe9,Anderson Literary Management LLC,12,244 5th Ave Fl 11,40.74454719133678,-73.98737898342362,503287a291d4c4b30a586d65,Financial or Legal Service
+397,Arcade Classics,5be784e3d1a402002c6fd7e8,Smoke Gift & Convenience 2,13,No Address,40.744655,-73.987133,4bf58dd8d48988d123951735,Smoke Shop
+392,Arcade Classics,4f3bc7fae4b063775873a5df,244 Fifth Avenue,14,No Address,40.744541268537056,-73.98740670393434,4bf58dd8d48988d124941735,Office
+393,Arcade Classics,55246290498e6aa7dff3ae0c,John Doe,20,253 5th Ave,40.74479677917434,-73.98717288341328,4bf58dd8d48988d116941735,Bar
+382,Arcade Classics,5e4c76cb2688de0008a916ee,Lina NoMad,21,245 5th Ave,40.74443817138672,-73.98725891113281,4bf58dd8d48988d104941735,Medical Center
+383,Arcade Classics,55aa7432498eed291c03cd7a,David's Barber Shop,22,1 E 28th St,40.744648,-73.987018,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+390,Arcade Classics,5362c896498e60d09a59710e,Roman K Salon,23,"253 5th Ave, 5th Floor",40.74478276488527,-73.98709386623574,54541900498ea6ccd0202697,Health & Beauty Service
+387,Arcade Classics,56a24cc2498ee1a54c30932e,Enigma HQ,26,245 5th Ave,40.74466563962762,-73.98697764322043,4bf58dd8d48988d125941735,Tech Startup
+389,Arcade Classics,5b4defe4da2e0000399f41cb,Prove (formerly Payfone),27,245 5th Ave,40.744391,-73.987226,4bf58dd8d48988d125941735,Tech Startup
+398,Arcade Classics,5e7bb364495a3b00087e0e72,"Rahul Patel, DPM",33,245 5th Ave Ste 307,40.744384600000004,-73.9870662,4bf58dd8d48988d177941735,Doctor's Office
+385,Arcade Classics,4b607087f964a520f8e529e3,The UPS Store,36,2 E 28th St,40.744315482853054,-73.98717663717667,52f2ab2ebcbc57f1066b8b1f,Shipping Store
+381,Arcade Classics,5f43bcb51944c20b444dc14e,255 5Th Avenue,40,255 5th Ave,40.744927000000004,-73.98700799999999,4bf58dd8d48988d124941735,Office
+386,Arcade Classics,45ab7c7af964a52044411fe3,Museum of Sex,66,233 5th Ave,40.74409509486289,-73.98762805650948,559acbe0498e472f1a53fa23,Erotic Museum
+384,Arcade Classics,50a94ef2e4b0f0766099e1e8,Chinese Kung-Fu Wu-Su Association,220,28 W 27th St Fl 8,40.74488185534032,-73.98987767919222,4bf58dd8d48988d101941735,Martial Arts School
+391,Arcade Classics,40b68100f964a5207d001fe3,Madison Square Park,270,Madison Ave,40.74226204193276,-73.98800611495972,4bf58dd8d48988d163941735,Park
+442,Arcade Community,4d49ea7bf53c8cfa55681d47,Jin Hong Diamond  Nails,5,No Address,40.68013,-73.910999,4f04aa0c2fb6e1c99f3db0b8,Nail Salon
+441,Arcade Community,4df537cf6284fefe8fc87439,Fulton Super Deli,33,Fulton Avenue,40.67987678451127,-73.91108090546486,4bf58dd8d48988d146941735,Deli / Bodega
+440,Arcade Community,4e0df55f45ddc2c6d172a6c4,Emely's Beauty Salon,43,96 Rockaway Ave,40.680055,-73.91144200000002,4bf58dd8d48988d110951735,Salon / Barbershop
+446,Arcade Community,562b8f8f498e522c2738b01d,brooklyn landmark elementary school,54,251 Macdougal St,40.680612,-73.910712,4f4533804b9074f6e4fb0105,Elementary School
+444,Arcade Community,51702e65e4b0ea41cfabe62a,P.S./I.S. 73,59,251 Macdougal St,40.68046188354492,-73.91036987304688,4f4533804b9074f6e4fb0105,Elementary School
+445,Arcade Community,611c57ccb0dcfd3277165bd2,Hardee,86,126 Hull St,40.679382000000004,-73.91093000000001,4bf58dd8d48988d145941735,Chinese Restaurant
+447,Arcade Community,4f4464ed19836ed00193d4a6,Good Taste Chinese Restaurant,102,126 Hull St,40.679237,-73.910843,4bf58dd8d48988d145941735,Chinese Restaurant
+443,Arcade Community,53405b0a498e331b6309802e,J's Jerk Hut,124,117 Rockaway Ave,40.679039,-73.910826,4bf58dd8d48988d144941735,Caribbean Restaurant
+451,Arcade Community,5f160d8cf60203328d8c1686,Love Nelly,134,53 Rockaway Ave,40.681346000000005,-73.911214,4bf58dd8d48988d16a941735,Bakery
+454,Arcade Community,5f808d89a8f19063a8e0437c,Beets Cafe,161,142 Rockaway Avenue,40.678733,-73.91059200000001,4bf58dd8d48988d16d941735,Café
+457,Arcade Community,4c52fef62543a5937cad3f86,Phoenix Community Garden,175,2-36 Somers St,40.67858473426164,-73.91104071649829,4bf58dd8d48988d15a941735,Garden
+452,Arcade Community,58bad25c4bc2f1632aace318,Daily Press Coffee,185,38 Somers St,40.678489944438205,-73.91090903870442,4bf58dd8d48988d1e0931735,Coffee Shop
+450,Arcade Community,50507b82e4b0473d5f43dbc8,Shirley Chisholm Day Care,186,33 Somersault Street,40.67874745591838,-73.91213722207716,4bf58dd8d48988d197941735,College Administrative Building
+448,Arcade Community,5f2b4345952995556e819871,All Night Skate,192,54 Rockaway Ave,40.681794000000004,-73.911674,4bf58dd8d48988d11e941735,Cocktail Bar
+449,Arcade Community,4bdcdf892a3a0f4709cdb4b6,MTA Subway - Rockaway Ave (C),193,Rockaway Ave,40.6784198875456,-73.91098417024698,4bf58dd8d48988d1fd931735,Metro Station
+456,Arcade Community,4e47fb5a62e148603b86e417,B60 (Fulton & Rockaway Ave),196,No Address,40.67839137066761,-73.91106583391091,4bf58dd8d48988d12b951735,Bus Line
+459,Arcade Community,4b80928bf964a520dc7d30e3,Royal Chicken Biscuits,233,1799 Broadway,40.681535360181385,-73.90886997804061,4d4ae6fc7a7b7dea34424761,Fried Chicken Joint
+453,Arcade Community,4ed414a399114b488c5084ff,Urban strategies,235,294 Sumpter St,40.680934,-73.91354399999999,4bf58dd8d48988d124941735,Office
+455,Arcade Community,5baae62489b06a0039250273,Pita Point,240,508 Marion Street,40.681816,-73.909132,4bf58dd8d48988d10b941735,Falafel Restaurant
+458,Arcade Community,4e9c46d330f87c966cfa3fec,B60 Bus,457,No Address,40.67604563243717,-73.91116128337305,4bf58dd8d48988d12b951735,Bus Line
+370,Arcade Creative Group (A Sony Music Company),4f22f6b2e4b0b2f98de71ff5,Sony Plaza Illy Cafe,7,No Address,40.76131802002589,-73.97357736189177,4bf58dd8d48988d1e0931735,Coffee Shop
+364,Arcade Creative Group (A Sony Music Company),4cc864a77be6548110b52d23,Illy caffe North America,8,Madison Ave,40.761415799213616,-73.97353024071856,4bf58dd8d48988d124941735,Office
+373,Arcade Creative Group (A Sony Music Company),4fa1adb7e4b0115a82cd47d4,Pacers Toastmasters Club,8,The Sony Center,40.76133801260085,-73.97353598014715,4bf58dd8d48988d171941735,Event Space
+366,Arcade Creative Group (A Sony Music Company),4f0a04e4e4b0596c904d6732,MoloLamken,9,540 Madison Ave,40.761292223287604,-73.97362781098117,4bf58dd8d48988d124941735,Office
+363,Arcade Creative Group (A Sony Music Company),4f60e179e4b04905886d6969,Sony Public Plaza,11,550 Madison Ave,40.76128966809208,-73.97354927338773,4bf58dd8d48988d164941735,Plaza
+367,Arcade Creative Group (A Sony Music Company),502e8003e4b04d70bdea7a76,Sony Club,13,550 Madison Ave Fl 35,40.761494020971774,-73.97366224753264,4bf58dd8d48988d171941735,Event Space
+371,Arcade Creative Group (A Sony Music Company),512c0a44e4b0a8adf180433b,Pizza Da Solo,13,550 Madison Ave,40.761467353897146,-73.97350484806445,4bf58dd8d48988d1ca941735,Pizza Place
+378,Arcade Creative Group (A Sony Music Company),4d672853a800721ecda60cb8,The Innovation Station,15,550 Madison Ave Fl 30,40.761406,-73.97343000000001,4bf58dd8d48988d124941735,Office
+379,Arcade Creative Group (A Sony Music Company),4d5006dddcce224bf1ccd31b,Columbia/Epic Label Group,18,550 Madison Ave,40.76122550921536,-73.9735474590038,4bf58dd8d48988d124941735,Office
+365,Arcade Creative Group (A Sony Music Company),4c98dd75671db60c6107bdf6,Sony/ATV Music Publishing,24,550 Madison Ave,40.761442113028025,-73.97333521713676,4bf58dd8d48988d124941735,Office
+369,Arcade Creative Group (A Sony Music Company),571bec75cd104795c027b270,MTA BxM7 34th  Street & Madison  Ave,24,No Address,40.76116198799846,-73.97361633212931,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+377,Arcade Creative Group (A Sony Music Company),4b22729bf964a520e64624e3,Epic Records,31,550 Madison Ave,40.76145194534829,-73.97325474794536,4bf58dd8d48988d124941735,Office
+368,Arcade Creative Group (A Sony Music Company),4bcba10d3740b7134bf26265,540 Madison Avenue,33,540 Madison Ave,40.76107823051907,-73.973586040683,4bf58dd8d48988d174941735,Coworking Space
+375,Arcade Creative Group (A Sony Music Company),4b1c222df964a520ce0224e3,Sony Fitness Center,40,550 Madison Ave,40.761567699578855,-73.97320883244484,4bf58dd8d48988d176941735,Gym
+376,Arcade Creative Group (A Sony Music Company),4d042c5b28926ea811226ac2,King Cole Bar,42,2 E 55th St,40.76143789631651,-73.97410979521449,4bf58dd8d48988d11e941735,Cocktail Bar
+362,Arcade Creative Group (A Sony Music Company),58af37e8076be15eeb312567,Vivienne Westwood,51,14 E 55th St,40.761072,-73.974075,4bf58dd8d48988d104951735,Boutique
+360,Arcade Creative Group (A Sony Music Company),4a637181f964a52008c51fe3,The St. Regis New York,84,2 E 55th St,40.7613979,-73.9746128,4bf58dd8d48988d1fa931735,Hotel
+361,Arcade Creative Group (A Sony Music Company),58fbdcad12138468bd514a50,Anton Kern Gallery,208,16 W 55th St,40.761901,-73.975989,4bf58dd8d48988d1e2931735,Art Gallery
+374,Arcade Creative Group (A Sony Music Company),5d669c759c03190008143b31,Red Peony,245,24 W 56th St,40.762675,-73.975974,4bf58dd8d48988d145941735,Chinese Restaurant
+642,Arcade Edit NY,4dcbe17881dcc1e341fd4394,220 Fifth Avenue,7,220 5th Ave,40.74358050971151,-73.98819109274437,4bf58dd8d48988d124941735,Office
+653,Arcade Edit NY,4ce00fc7db1254814f723ace,La Perla Sample Sale,8,No Address,40.743608934081045,-73.98805044702543,4bf58dd8d48988d109951735,Lingerie Store
+646,Arcade Edit NY,4cf514b9d29b2d43ab37f4bb,Vanguard Management Group,9,220 5th Ave Ph West,40.74358872988235,-73.98823509680534,4bf58dd8d48988d124941735,Office
+655,Arcade Edit NY,4a7087f7f964a520b3d71fe3,GlobalWorks,9,220 5th Ave,40.74355810048106,-73.98817682009188,4bf58dd8d48988d124941735,Office
+645,Arcade Edit NY,5cbb5ddbf1fdaf002c187d2d,Imd Beauty Spa,15,224 5th Ave,40.74355,-73.988275,52f2ab2ebcbc57f1066b8b3c,Massage Studio
+644,Arcade Edit NY,5e5fd5d8d0725c0008d19640,The Gilded Lady,17,No Address,40.743621999999995,-73.988349,507c8c4091d498d9fc8c67a9,Public Art
+659,Arcade Edit NY,4d6675816d86224be1049381,The Sandbox @ GlobalWorks,18,220 5th Ave,40.743552684886886,-73.98795373187997,4bf58dd8d48988d174941735,Coworking Space
+640,Arcade Edit NY,55365d3f498e7a3f69209272,Mexicue Kitchen & Bar,21,225 5th Ave,40.743615399999996,-73.98788979999999,4bf58dd8d48988d1c1941735,Mexican Restaurant
+643,Arcade Edit NY,4f493041e4b00005b93df2c8,7-Eleven,23,224 5th Ave,40.74385017482118,-73.98819051682943,4d954b0ea243a5684a65b473,Convenience Store
+656,Arcade Edit NY,4f19bc59e4b0b7e256b8a1fd,Dominoes At GW,24,220 5th Ave,40.74345271509228,-73.98830296264396,4bf58dd8d48988d174941735,Coworking Space
+654,Arcade Edit NY,556602bd498e46aa126dfd5f,Infinity Float,26,No Address,40.743807000000004,-73.987915,4bf58dd8d48988d1ed941735,Spa
+649,Arcade Edit NY,4c60188412e5c92807691e4c,World Policy Institute,28,220 5th Ave,40.74373,-73.988452,4bf58dd8d48988d174941735,Coworking Space
+651,Arcade Edit NY,585acab5375c4a72eff621ab,Riskified NY,30,220 5th Ave,40.74387599425364,-73.98832665434573,4bf58dd8d48988d125941735,Tech Startup
+650,Arcade Edit NY,517eb002e4b04f1b77fbccbd,1-800-FLOWERS.COM,31,220 5th Ave,40.74362804974889,-73.98851583476795,4bf58dd8d48988d124941735,Office
+648,Arcade Edit NY,4f562eb1e4b0d45ec112f64f,Wirtz International nv,36,220 5th Ave,40.743606,-73.988568,4bf58dd8d48988d124941735,Office
+652,Arcade Edit NY,4bd36f2fcaff952180eed4f0,225 Fifth Ave,48,225 5th Ave,40.743298539811896,-73.98778645306176,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+657,Arcade Edit NY,4d93b001578ba0939c0a9357,Avenues: The World School - World Headquarters,81,11 E 26th St,40.74376383618424,-73.98719174123572,4bf58dd8d48988d124941735,Office
+641,Arcade Edit NY,40b68100f964a5207d001fe3,Madison Square Park,153,Madison Ave,40.74226204193276,-73.98800611495972,4bf58dd8d48988d163941735,Park
+658,Arcade Edit NY,586423d9ac13690a1b02ef9f,REVIV,203,1140 Broadway,40.744176331776345,-73.98583889007568,54541900498ea6ccd0202697,Health & Beauty Service
+585,Arcade Lounge,4b9e7673f964a52007e636e3,Achievement First Bushwick,78,125 Covert St,40.688913,-73.910332,4f4533804b9074f6e4fb0105,Elementary School
+580,Arcade Lounge,6007025fc0448a561157937c,Sam’s Detox Deli & Grill,97,1144 Halsey St,40.690046,-73.91076600000001,4bf58dd8d48988d146941735,Deli / Bodega
+591,Arcade Lounge,4da905ab4df01c19b167ecaa,Batcave,137,1 Wayne Manor,40.690374448027136,-73.91176985788715,4bf58dd8d48988d124941735,Office
+596,Arcade Lounge,5db5567323aa41000867a445,Citibike Station,137,No Address,40.68927,-73.90954,4e4c9077bd41f78e849722f9,Bike Rental / Bike Share
+588,Arcade Lounge,4f46924ce4b01fefa1149f46,Tiger playground,145,No Address,40.687957,-73.910726,4bf58dd8d48988d1e7941735,Playground
+587,Arcade Lounge,5f88e2cbfcd49f1f079aa434,Laundry Bee,168,No Address,40.687745,-73.910746,52f2ab2ebcbc57f1066b8b33,Laundromat
+584,Arcade Lounge,4e3f52f762e19d610987f3f5,Emilios Laundromat,174,100 Covert St,40.687698,-73.91067199999998,52f2ab2ebcbc57f1066b8b33,Laundromat
+586,Arcade Lounge,536549ea498ea0b7ddef3905,Cowboy Hotel,227,No Address,40.688961,-73.90849399999999,4bf58dd8d48988d1f1931735,General Entertainment
+597,Arcade Lounge,578edbe5498ed7aa1996951a,Boardwalk Wine & Spirits,256,1195 Halsey St,40.69129943847656,-73.90986633300781,4bf58dd8d48988d186941735,Liquor Store
+583,Arcade Lounge,4fdb8a9f7e27bf02d3864966,FDNY Squad 252,267,617 Central Ave,40.688674,-73.908086,4bf58dd8d48988d12c941735,Fire Station
+589,Arcade Lounge,5e4caf1f668011000748c6bf,Money Cat Vietnamese Kitchen,280,554 Wilson Ave,40.69092,-73.90871700000001,4bf58dd8d48988d14a941735,Vietnamese Restaurant
+590,Arcade Lounge,4e742388d1643f93b156383f,The Lovejoy Center,288,70 Weirfield St,40.687812,-73.914041,4bf58dd8d48988d124941735,Office
+598,Arcade Lounge,4c78634b97028cfa74cad7fe,Jimmy's Pizzeria,288,561 Wilson Ave,40.691333420947366,-73.90918085135159,4bf58dd8d48988d1ca941735,Pizza Place
+581,Arcade Lounge,4eaabd629adfbd5e5d37741b,Nat's Hardware,297,576 Wilson Ave,40.690405,-73.908013,4bf58dd8d48988d112951735,Hardware Store
+595,Arcade Lounge,5b390d6fe1791000399a3d76,Lil Baby's Bushwick,298,504 Wilson Ave,40.691883000000004,-73.910748,4bf58dd8d48988d1de931735,Tattoo Parlor
+592,Arcade Lounge,52c2f43111d2a28c68697a39,Hair & Nail Salon,304,557 Wilson Ave,40.691489,-73.909144,4bf58dd8d48988d110951735,Salon / Barbershop
+599,Arcade Lounge,600a0a89dcdde1171192f578,Crust Pizzeria,317,No Address,40.686701,-73.909408,4bf58dd8d48988d1ca941735,Pizza Place
+582,Arcade Lounge,4e360f4862e17d29083b0fae,1134 Jefferson Ave,318,1134 Jefferson Ave,40.689291,-73.914947,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+593,Arcade Lounge,5ff0cd324d83836bb4cac746,General Irving,322,1210 Halsey Street,40.691704,-73.909195,4bf58dd8d48988d1e0931735,Coffee Shop
+594,Arcade Lounge,56d8a2e3cd10fd56c52675b6,Zun Laundromat,333,1285 Bushwick Ave,40.68676576681212,-73.91344440290261,52f2ab2ebcbc57f1066b8b33,Laundromat
+684,Arcade Pizza,4f32b52a19836c91c7f1ddd9,St Nicholas Fish Market Co,9,1609 Saint Nicholas Ave,40.85513912483922,-73.92952676456102,4bf58dd8d48988d1ce941735,Seafood Restaurant
+682,Arcade Pizza,4dea8dd3ae60e989235c5f44,Calle 191 Pescaderia,10,1609 Saint Nicholas Ave,40.85518248667049,-73.92944869052192,4bf58dd8d48988d1ce941735,Seafood Restaurant
+685,Arcade Pizza,4cd9fed5071ba093c21bb605,MTA - 192nd And St Nicholas Av (M101) (M3),12,192nd And St Nicholas Av,40.85524176649419,-73.92941101886773,4bf58dd8d48988d1fe931735,Bus Station
+688,Arcade Pizza,4e2b428c14955dbf7ad8f006,Deli Grocery & Convenience Store - 191 Subway,14,St. Nicholas Ave,40.85533807232827,-73.9294910430908,4d954b0ea243a5684a65b473,Convenience Store
+693,Arcade Pizza,5990842bda70802cfa0c448c,Up Heights,14,1604 St Nicholas Avenue,40.85510244987913,-73.92949994800101,4bf58dd8d48988d1e0931735,Coffee Shop
+694,Arcade Pizza,563be883cd103c7d6583a913,Subway Games,17,1610 Saint Nicholas Ave,40.855252,-73.929358,4bf58dd8d48988d1e1931735,Arcade
+692,Arcade Pizza,4dbb05706a23e294ba0a269e,El Mundo Laundromat,22,1612 Saint Nicholas Ave,40.855289382903436,-73.92930865287782,4bf58dd8d48988d130941735,Building
+686,Arcade Pizza,4d8ca549ca75b60cc859d6a8,Food Corp Deli Grocery,23,1613 Saint Nicholas Ave,40.855422,-73.92965600000002,4bf58dd8d48988d146941735,Deli / Bodega
+696,Arcade Pizza,5add1292cf72a0223ac538ee,Dominican Valle,23,No Address,40.85501,-73.929585,4bf58dd8d48988d144941735,Caribbean Restaurant
+698,Arcade Pizza,4cdde8d6c4f6a35ddc89c66c,Supernanny,23,No Address,40.85502,-73.92945999999999,4bf58dd8d48988d144941735,Caribbean Restaurant
+683,Arcade Pizza,5da72567dfe544000842f992,Miss Rizos Salon,25,1604 Saint Nicholas Ave,40.85504913330078,-73.92935180664062,4bf58dd8d48988d110951735,Salon / Barbershop
+697,Arcade Pizza,4fa6ae9fe4b0419376d7e898,Kukara Macara,25,1601 Saint Nicholas Ave,40.854990767328026,-73.92959565337604,4bf58dd8d48988d144941735,Caribbean Restaurant
+687,Arcade Pizza,4c828ea4dc018cfaf57cd06c,Fine Fare,30,191st Street,40.85543722563002,-73.92933677859467,52f2ab2ebcbc57f1066b8b46,Supermarket
+681,Arcade Pizza,4ebc6ff8f5b9e505b79e454c,Corner Of 190 & St Nicholas,42,No Address,40.8556037265565,-73.92950954235344,4bf58dd8d48988d162941735,Other Great Outdoors
+695,Arcade Pizza,4c6e729c4d24b60c1c9bd8d8,Dunkin',47,1599 Saint Nicholas Ave,40.8548994,-73.92993299999999,4bf58dd8d48988d148941735,Donut Shop
+699,Arcade Pizza,4c83cbdc74d7b60c07c78cd8,Jay's Wines & Liquor,49,1621 Saint Nicholas Ave,40.855582485831796,-73.92921141974568,4bf58dd8d48988d186941735,Liquor Store
+691,Arcade Pizza,4f11e320e4b0865b08176d55,Rosa Beauty Supply,58,1603 Saint Nicholas Ave,40.85492697959358,-73.93014102229844,4bf58dd8d48988d10c951735,Cosmetics Shop
+690,Arcade Pizza,4af22c7cf964a52058e621e3,El Nuevo Caridad,179,1618 Saint Nicholas Ave,40.853608563348345,-73.92948288271292,4bf58dd8d48988d1be941735,Latin American Restaurant
+680,Arcade Pizza,4b0cb04df964a520054123e3,MTA Subway - 191st St (1),349,Broadway,40.85673145794365,-73.93319586467837,4bf58dd8d48988d1fd931735,Metro Station
+101,Arcade Restaurant,5f2b4345952995556e819871,All Night Skate,34,54 Rockaway Ave,40.681794000000004,-73.911674,4bf58dd8d48988d11e941735,Cocktail Bar
+102,Arcade Restaurant,4e0cc617a809a0a62eb3eef2,Arthur's Place,36,47 Rockaway Ave,40.681564,-73.911253,4bf58dd8d48988d146941735,Deli / Bodega
+100,Arcade Restaurant,5f160d8cf60203328d8c1686,Love Nelly,41,53 Rockaway Ave,40.681346000000005,-73.911214,4bf58dd8d48988d16a941735,Bakery
+103,Arcade Restaurant,51a9f459498eeebb9b0673d8,Regal Laundry,47,55 Rockaway Ave,40.681235,-73.91121,4bf58dd8d48988d1fc941735,Laundry Service
+104,Arcade Restaurant,5017e784e4b0687bcdd2b106,Frank's Barber Shop,91,38 Rockaway Ave,40.682292,-73.91189399999998,4bf58dd8d48988d110951735,Salon / Barbershop
+111,Arcade Restaurant,562b8f8f498e522c2738b01d,brooklyn landmark elementary school,126,251 Macdougal St,40.680612,-73.910712,4f4533804b9074f6e4fb0105,Elementary School
+107,Arcade Restaurant,4f86030fe4b04a6ada86479f,FDNY Engine 233/Ladder 176,136,25 Rockaway Ave,40.682687,-73.911369,4bf58dd8d48988d130941735,Building
+109,Arcade Restaurant,51702e65e4b0ea41cfabe62a,P.S./I.S. 73,157,251 Macdougal St,40.68046188354492,-73.91036987304688,4f4533804b9074f6e4fb0105,Elementary School
+110,Arcade Restaurant,4e0df55f45ddc2c6d172a6c4,Emely's Beauty Salon,160,96 Rockaway Ave,40.680055,-73.91144200000002,4bf58dd8d48988d110951735,Salon / Barbershop
+106,Arcade Restaurant,4ee949a261aff2afcd6a6287,Marion Park,161,No Address,40.68241003762646,-73.91314401114221,4bf58dd8d48988d1e7941735,Playground
+119,Arcade Restaurant,4ed414a399114b488c5084ff,Urban strategies,169,294 Sumpter St,40.680934,-73.91354399999999,4bf58dd8d48988d124941735,Office
+108,Arcade Restaurant,4f32545019836c91c7cd08de,Jason Liquor Store,181,18 Rockaway Ave,40.683102000000005,-73.91190300000001,4bf58dd8d48988d186941735,Liquor Store
+117,Arcade Restaurant,4dbb4e1a0cb691071c87429a,Mount  Zion Holiness Church,196,1792 Broadway,40.682113,-73.909487,4bf58dd8d48988d10b941735,Falafel Restaurant
+118,Arcade Restaurant,4e7251c17d8b53db1c2d60ce,PS73,202,No Address,40.68310220838067,-73.91056993084408,4bf58dd8d48988d1a8941735,General College & University
+113,Arcade Restaurant,611d58eebb53437e73400635,PMR of NY- Bushwick,211,1765 Broadway,40.682677000000005,-73.909713,5744ccdfe4b0c0459246b4af,Physical Therapist
+114,Arcade Restaurant,4bbe4ee09474c9b69d6ad9b6,MTA Subway - Chauncey St (J/Z),213,Chauncey St.,40.68335211594996,-73.91111437819488,4bf58dd8d48988d1fd931735,Metro Station
+115,Arcade Restaurant,5c60a5a3250cab002c76e256,Urban Natural Valley Market,213,1725 Broadway,40.683349,-73.911088,52f2ab2ebcbc57f1066b8b45,Organic Grocery
+116,Arcade Restaurant,5baae62489b06a0039250273,Pita Point,217,508 Marion Street,40.681816,-73.909132,4bf58dd8d48988d10b941735,Falafel Restaurant
+112,Arcade Restaurant,611c57ccb0dcfd3277165bd2,Hardee,242,126 Hull St,40.679382000000004,-73.91093000000001,4bf58dd8d48988d145941735,Chinese Restaurant
+105,Arcade Restaurant,4c4b517a959220a1a94f650f,Fish N Chicks LLC,281,57 Somers St,40.679039,-73.910826,4bf58dd8d48988d1ce941735,Seafood Restaurant
+627,Arcade Roofing & Home Improvement,4f0f4815e4b040d483a80d02,Pandoras Box,82,Nowhere,40.601980662351494,-73.9971580160659,4bf58dd8d48988d15a941735,Garden
+624,Arcade Roofing & Home Improvement,4cd19ea76200b1f733efda28,Dr. Harrison's Office,105,21st Ave,40.602235272967,-73.99693994448383,4bf58dd8d48988d162941735,Other Great Outdoors
+623,Arcade Roofing & Home Improvement,5113cdaee4b036fd3cfcbfb4,"Bay Ridge, Bklyn",122,No Address,40.601020237460055,-73.99819098334575,4bf58dd8d48988d162941735,Other Great Outdoors
+631,Arcade Roofing & Home Improvement,55eb86ed498ed2c16d4b6a7c,Double Fire Gourmet Inc.,188,2122 86th St,40.60274505615234,-73.9956283569336,52af3a7c3cf9994f4e043bed,Cantonese Restaurant
+634,Arcade Roofing & Home Improvement,60021a5021b54e5cbb136c32,OC Dessert,191,2120 86th St,40.602793,-73.99566300000001,4bf58dd8d48988d16d941735,Café
+632,Arcade Roofing & Home Improvement,4d991e93af3d236a43f24cc7,Happy Seafood Restaurant,198,2146 86th St,40.602504639789174,-73.99505289699077,4bf58dd8d48988d145941735,Chinese Restaurant
+626,Arcade Roofing & Home Improvement,5f55b71a23de1e42573a4663,Tiger Sugar,206,2132 86th St,40.60277535782667,-73.99530708789825,52e81612bcbc57f1066b7a0c,Bubble Tea Shop
+620,Arcade Roofing & Home Improvement,4b102c53f964a520926a23e3,Burger King,210,2164 86th St,40.6021572477629,-73.99456393788559,4bf58dd8d48988d16e941735,Fast Food Restaurant
+629,Arcade Roofing & Home Improvement,60b111ec091ee303c750fb1c,Bank Of America,221,No Address,40.603269,-73.996459,4bf58dd8d48988d10a951735,Bank
+636,Arcade Roofing & Home Improvement,4fb81f5ae4b0c241c411cc83,Kung Fu Tea,224,2174 86th St,40.60203,-73.99431,52e81612bcbc57f1066b7a0c,Bubble Tea Shop
+635,Arcade Roofing & Home Improvement,60df6c2984d4c328f420d009,Chipotle Mexican Grill,229,2076 86th St,40.603343,-73.996465,4bf58dd8d48988d1c1941735,Mexican Restaurant
+637,Arcade Roofing & Home Improvement,58682ca9da54ae618fc707d7,Vivi Bubble Tea,237,2169 86th St,40.60231190315835,-73.99431243359835,52e81612bcbc57f1066b7a0c,Bubble Tea Shop
+638,Arcade Roofing & Home Improvement,4c091c77a1b32d7fa50c97f0,La Bella Pizza Express,237,2178 86th St,40.60200450936564,-73.99412688007007,4bf58dd8d48988d1ca941735,Pizza Place
+622,Arcade Roofing & Home Improvement,4e35630ffa7656ba316ff038,MTA - B6/B82/X28/X38 Bus (Cropsey Ave & Bay Parkway),238,No Address,40.6017908339585,-73.9940361255576,4bf58dd8d48988d1fe931735,Bus Station
+630,Arcade Roofing & Home Improvement,5fde52622cddeb37060a2470,Superior Wonton Noodles,240,2145 86th St,40.602903999999995,-73.994888,4bf58dd8d48988d145941735,Chinese Restaurant
+633,Arcade Roofing & Home Improvement,603e6fe2bf05d857920d6da2,Teso Life,241,2158 86th Street,40.602497,-73.99439699999999,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+639,Arcade Roofing & Home Improvement,4bdc528dfed22d7fcea057c9,MTA Subway - Bay Parkway (D),276,86th St,40.6018977592576,-73.99361192652478,4bf58dd8d48988d1fd931735,Metro Station
+621,Arcade Roofing & Home Improvement,593deb59f79faa76f4f8eed7,86th Grocery & Snacks,287,86th Street,40.601836999999996,-73.993454,4bf58dd8d48988d146941735,Deli / Bodega
+625,Arcade Roofing & Home Improvement,4bc865df6501c9b6d3fe3f29,MTA Bus - Bay Parkway & 86th Street (B6/B6LTD/B82/B82LTD),291,Bay Pkwy,40.60218447890985,-73.99353866323433,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+628,Arcade Roofing & Home Improvement,4ba8f79df964a520bdfe39e3,Dunkin',405,1980 86th St,40.60462557953677,-73.99871916315374,4bf58dd8d48988d148941735,Donut Shop
+151,At the arcade,4f3291c319836c91c7e49d19,Mitchell Fish and Chips,11,617 Vanderbilt Ave,40.678783,-73.968475,4bf58dd8d48988d1ce941735,Seafood Restaurant
+142,At the arcade,4dc16497d16455f8322791bb,Ample Hills Creamery,15,623 Vanderbilt Ave,40.678546994225385,-73.9684545270517,4bf58dd8d48988d1c9941735,Ice Cream Shop
+148,At the arcade,4b17c40df964a520f5c723e3,Peñas Food Market,15,598 Vanderbilt,40.678543,-73.96847700000001,4bf58dd8d48988d146941735,Deli / Bodega
+140,At the arcade,4a55d316f964a52048b41fe3,Zaytoon's,16,594 Vanderbilt Ave,40.678705,-73.96868,4bf58dd8d48988d10b941735,Falafel Restaurant
+146,At the arcade,4aeb7bd4f964a5208cc221e3,Mitchell's Soul Food,19,617 Vanderbilt Ave,40.67885439509863,-73.96843800674937,4bf58dd8d48988d14f941735,Southern / Soul Food Restaurant
+147,At the arcade,4c1e56ee8b3aa59300e89b5f,Luria Academy,21,238 Saint Marks Ave,40.6784923374063,-73.96841203712528,4bf58dd8d48988d1a8941735,General College & University
+152,At the arcade,513b7692e4b0c2f5a98d6287,Dreamland Antiques Emporium,24,619 Vanderbilt Ave,40.678713,-73.968199,4bf58dd8d48988d116951735,Antique Shop
+156,At the arcade,5010a3d4e4b06fc7cd892200,Seeds Brooklyn,25,No Address,40.67890570724066,-73.96841060227928,4bf58dd8d48988d1e5931735,Music Venue
+144,At the arcade,4e1c5b5dd4c0761fec5545ec,Vanderbilt Avenue,26,No Address,40.67892121735886,-73.96848521682125,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+153,At the arcade,5e2ddec9a5c3fb0008a952a3,Specific Gravity,26,No Address,40.678919,-73.96844499999999,4bf58dd8d48988d111951735,Jewelry Store
+157,At the arcade,548eeada498e4c3cf0acd057,Little Cupcake Bakeshop,29,598 Vanderbilt Ave,40.678467616154784,-73.96868449664579,4bf58dd8d48988d16a941735,Bakery
+149,At the arcade,4a52aacbf964a520dfb11fe3,Unnameable Books,32,600 Vanderbilt Ave,40.67843080383352,-73.96868289101711,52f2ab2ebcbc57f1066b8b30,Used Bookstore
+158,At the arcade,5368119d498ebf0228cebc09,R&D Foods,35,602 Vanderbilt Ave,40.678379082569364,-73.96863796803916,4bf58dd8d48988d1f5941735,Gourmet Shop
+154,At the arcade,4b537d76f964a520959f27e3,Complete Music Studios,36,227 Saint Marks Ave,40.67859913603926,-73.96806555329077,4bf58dd8d48988d124941735,Office
+159,At the arcade,516b12a1e4b0209bc0866513,Brotherhood Baptist Church,37,625 Vanderbilt Ave,40.678363,-73.968334,4bf58dd8d48988d132941735,Church
+150,At the arcade,5a6cc216f5e9d763b7a37c8f,Gran Caffe De Martini,49,609 Vanderbilt Ave,40.67910336932808,-73.96832032665563,4bf58dd8d48988d1e0931735,Coffee Shop
+141,At the arcade,4c6844342f6c0f47c9201b7e,1 of a find vintage,64,633 Vanderbilt Ave,40.678101,-73.96843100000002,4bf58dd8d48988d104951735,Boutique
+143,At the arcade,4db462a2fa8c350240e3f2a2,Olde Brooklyn Bagel Shoppe,105,645 Vanderbilt Ave,40.677755989985144,-73.96877423816309,4bf58dd8d48988d179941735,Bagel Shop
+145,At the arcade,5f419ca9aee48d48c77c16be,Vanderbilt Ave Open Street,133,No Address,40.677501,-73.968777,52e81612bcbc57f1066b7a25,Pedestrian Plaza
+763,Brooklyn Games & Arcade,528cb9d5498ebd379cab90cd,6122 4 Avenue Food Corp.,14,6122 4th Ave,40.639894084656895,-74.01980167556346,50be8ee891d4fa8dcc7199a7,Market
+766,Brooklyn Games & Arcade,4f444992e4b0b7292e5e8082,Fountain of Salvation,23,No Address,40.64002990722656,-74.0194320678711,4bf58dd8d48988d132941735,Church
+764,Brooklyn Games & Arcade,4d752ebd1a8aa35d87fb19a7,Pacific Laundromat,27,6114 4th Ave,40.640128,-74.019624,4bf58dd8d48988d1fc941735,Laundry Service
+768,Brooklyn Games & Arcade,4f32b71c19836c91c7f2990d,Fourth Avenue Pizzeria,31,6112 4th Ave,40.640158,-74.01955799999998,4bf58dd8d48988d1ca941735,Pizza Place
+767,Brooklyn Games & Arcade,4c54a81572cf0f4789b8e4d4,Second Cycle Laundromat,48,6111 4th Ave,40.63985,-74.019047,4bf58dd8d48988d1fc941735,Laundry Service
+775,Brooklyn Games & Arcade,4cf012455de16ea82a1dc496,La Esperanza Restaurant,57,6112 4th Ave,40.64016044139861,-74.01904463768004,4bf58dd8d48988d1ca941735,Pizza Place
+762,Brooklyn Games & Arcade,4c06d1c68a81c9b664512690,Rite Aid,78,6201-23 4th Ave,40.63920220000001,-74.019851,4bf58dd8d48988d10f951735,Pharmacy
+761,Brooklyn Games & Arcade,4ed2a1d86da162f1c12b0ece,4th Ave Sunset Park,110,No Address,40.640566617891714,-74.0186704278013,4bf58dd8d48988d162941735,Other Great Outdoors
+770,Brooklyn Games & Arcade,4dd2bf7fd16465f3f959b34c,Los Primos Tire Shop,111,6302 4th Ave,40.639213,-74.020604,4bf58dd8d48988d124951735,Automotive Shop
+777,Brooklyn Games & Arcade,508b2a28e4b06f6d18b119d5,425 62nd st,111,No Address,40.63922500610352,-74.01863861083984,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+769,Brooklyn Games & Arcade,4fdfa73be4b0866bd7a3c733,MTA Bus - B9 - 60th St & 4th Ave,113,60th St & 4th Ave,40.6406611869714,-74.0187505614355,4bf58dd8d48988d1fe931735,Bus Station
+771,Brooklyn Games & Arcade,4c6c51cce13db60cb7bbd5b1,Koong Wing,117,6011 4th Ave,40.640399,-74.018407,4bf58dd8d48988d145941735,Chinese Restaurant
+773,Brooklyn Games & Arcade,4d5e82a8e4fe5481a2aa689e,NYU Lutheran Family Health Centers Park Ridge,155,6317 4th Ave,40.638580573732455,-74.02029669076641,4bf58dd8d48988d177941735,Doctor's Office
+779,Brooklyn Games & Arcade,4d78f726b706224b261b318d,Brooklyn First Church of the Brethren,163,No Address,40.64101891918958,-74.02085747256601,4bf58dd8d48988d132941735,Church
+778,Brooklyn Games & Arcade,4e47cad1e4cd9d94fb33c13e,Cross Roads Christian Church,172,No Address,40.63907241821289,-74.0213623046875,4bf58dd8d48988d132941735,Church
+772,Brooklyn Games & Arcade,4ffc90351648c9b3aab51b18,Sunset Park Greenmarket,179,4th Ave.,40.64090495626977,-74.01798248291016,4bf58dd8d48988d1fa941735,Farmers Market
+765,Brooklyn Games & Arcade,4cbb7aa6adcd54819b3329a2,Full Doe Bakery,213,5905 4th Ave,40.641137,-74.01771600000002,4bf58dd8d48988d16a941735,Bakery
+776,Brooklyn Games & Arcade,4be636392457a5930aabac15,Brooklyn Crossroad Supper Club,229,3rd ave,40.640856,-74.022017,4bf58dd8d48988d11f941735,Nightclub
+774,Brooklyn Games & Arcade,58bb7b96af7d17615ee213ed,Grumpy Cat Bar,236,No Address,40.638576,-74.017414,4bf58dd8d48988d118941735,Dive Bar
+80,Central Park - The Arcade,4be709372468c9281aff0143,Bethesda Terrace,2,Terrace Dr,40.77385431547793,-73.97098155596522,4bf58dd8d48988d164941735,Plaza
+85,Central Park - The Arcade,4ea819528231a8f6a1b8623a,Terrace Bridge,10,No Address,40.77378298398863,-73.97103041410445,4bf58dd8d48988d1df941735,Bridge
+87,Central Park - The Arcade,4e989303775b6787c26110ee,Central Park Navy Terrace,29,Olmstead and Vaux Way,40.77412424676337,-73.97097434760015,4bf58dd8d48988d164941735,Plaza
+99,Central Park - The Arcade,5cdcadcf64c8e1002c24b231,Bethesda restrooms,33,No Address,40.773579999999995,-73.97111,5744ccdfe4b0c0459246b4c4,Public Bathroom
+86,Central Park - The Arcade,504194dce4b0c996b2bbfde2,Olmstead & Vaux Way,38,No Address,40.77374199110694,-73.97137794293593,4bf58dd8d48988d163941735,Park
+81,Central Park - The Arcade,4a6b8bf4f964a52018cf1fe3,Bethesda Fountain,49,Terrace Dr,40.77429373881737,-73.9708399772644,56aa371be4b08b9a8d573547,Fountain
+96,Central Park - The Arcade,4eaea5ea722eefae84f266b9,Angel of the Waters,49,Terrace Dr,40.77429780122743,-73.97083193063736,52e81612bcbc57f1066b79ed,Outdoor Sculpture
+89,Central Park - The Arcade,4cd3e67d4944721e7af5eea6,Central Park - 72nd St Transverse,50,72nd Street Transverse Rd,40.77361937530755,-73.97043764591217,4bf58dd8d48988d162941735,Other Great Outdoors
+90,Central Park - The Arcade,4f70c8fee4b05bffbc09284d,Central Park - Amphitheater,109,Central Park,40.772880005038935,-73.97104918956757,4bf58dd8d48988d1e5931735,Music Venue
+94,Central Park - The Arcade,4bbb71d8f1c5ef3bf9fac814,Naumburg Bandshell,132,Central Park,40.772712636118115,-73.97136520670539,4bf58dd8d48988d1e5931735,Music Venue
+97,Central Park - The Arcade,4c856f57d34ca143e5914780,Central Park - African Drum Circle,133,72nd St Transverse,40.77280091951561,-73.97168787529965,4bf58dd8d48988d162941735,Other Great Outdoors
+83,Central Park - The Arcade,4e838c3ae5e877f1e16ed150,Central Park SummerStage,146,Central Park,40.77264695319242,-73.97027108726499,4bf58dd8d48988d1f2931735,Performing Arts Venue
+91,Central Park - The Arcade,4ba4f635f964a5201bc938e3,Cherry Hill,152,72nd St Tranverse,40.77499246969142,-73.97196114063263,4bf58dd8d48988d15f941735,Field
+88,Central Park - The Arcade,49ebbf61f964a52020671fe3,Central Park Mall,164,Central Park,40.77244937900301,-73.97154808044435,4bf58dd8d48988d163941735,Park
+93,Central Park - The Arcade,4e7dc20fb634af8b52f0ab3f,Trefoil Arch,190,Central Park,40.77452123339714,-73.96887123584747,4bf58dd8d48988d162941735,Other Great Outdoors
+98,Central Park - The Arcade,4b50deaaf964a520293627e3,Bow Bridge,219,Central Park,40.77573142284535,-73.97177532898557,4bf58dd8d48988d1df941735,Bridge
+92,Central Park - The Arcade,5183fef2498e3dc5d43834c2,Central Park - Fairy Tail Pond,255,No Address,40.776084374723695,-73.97022430142016,4bf58dd8d48988d161941735,Lake
+95,Central Park - The Arcade,4d5e8cae618aa090f365ebe1,Central Park - Dog Run Area,272,Central Park,40.774988525227336,-73.9680834458695,4bf58dd8d48988d1e5941735,Dog Run
+82,Central Park - The Arcade,412d2800f964a520df0c1fe3,Central Park,1124,59th St to 110th St,40.78307608904521,-73.96549701690674,4bf58dd8d48988d163941735,Park
+524,Chinatown Fair Video Arcade,5f3089ef7150dc431d2d1bd1,Pinklady Cheese Tart,2,11 Mott St,40.713986,-73.99874100000001,4bf58dd8d48988d1d0941735,Dessert Shop
+523,Chinatown Fair Video Arcade,4fe9f760e4b0d7ec229bf235,Family Dentistry-Frances M. Chiu D.M.D. & Derek Lau D.M.D.,4,10 Mott St,40.71399613383557,-73.99874763562622,4bf58dd8d48988d178941735,Dentist's Office
+528,Chinatown Fair Video Arcade,57b867aa498e82c71ab8e2be,Mott Street Pharmacy,9,11 Mott Street,40.714012,-73.998808,4bf58dd8d48988d10f951735,Pharmacy
+527,Chinatown Fair Video Arcade,5675c52c498e2f30a978b6fb,T-Swirl Crepe,13,2 Mott St,40.7138500490141,-73.99869679042024,52e81612bcbc57f1066b79f2,Creperie
+532,Chinatown Fair Video Arcade,4cf3ead6c9af6dcbf9f1a87f,2 Mott St,13,2 Mott St,40.71385449913718,-73.99865581680476,4bf58dd8d48988d124941735,Office
+522,Chinatown Fair Video Arcade,55b52904498edca26ecc7a7f,Wok Wok Southeast Asian Kitchen,14,11 Mott St,40.71405586781808,-73.99883871163942,4bf58dd8d48988d156941735,Malay Restaurant
+538,Chinatown Fair Video Arcade,5127e1fde4b038697d75f751,Dr David Cheng,17,7-8 Chatham Square,40.7139290874443,-73.99851234980811,4bf58dd8d48988d178941735,Dentist's Office
+521,Chinatown Fair Video Arcade,49d3deadf964a5201d5c1fe3,Noodle Village 粥麵軒,18,13 Mott St,40.71412788438359,-73.99874558609585,4bf58dd8d48988d145941735,Chinese Restaurant
+525,Chinatown Fair Video Arcade,459b830af964a5208b401fe3,Buddha Bodai 佛菩提素菜,19,5 Mott St,40.71379837914967,-73.99867652064822,4bf58dd8d48988d1d3941735,Vegetarian / Vegan Restaurant
+533,Chinatown Fair Video Arcade,49f20602f964a520d4691fe3,Ajisen Ramen,19,14 Mott St,40.714134,-73.998646,4bf58dd8d48988d1d1941735,Noodle House
+539,Chinatown Fair Video Arcade,4f174f75e4b0aa5608115f3e,Stephen Sheung ESQ,19,2 Mott St,40.71380551501797,-73.99879928369396,4bf58dd8d48988d124941735,Office
+531,Chinatown Fair Video Arcade,4ceabcd5678aa0935315f5ea,Iki Iki Gift Shop,22,2 Mott St,40.713847,-73.998504,4bf58dd8d48988d128951735,Gift Shop
+536,Chinatown Fair Video Arcade,4f3aa73ee4b026b7f7754002,Lotus Tours Ltd.,22,2 Mott St Rm 400,40.713847,-73.998504,4bf58dd8d48988d130941735,Building
+529,Chinatown Fair Video Arcade,4f4ffbede4b0693114399dbf,Kawaii Oof,23,11 Mott St,40.71403121948242,-73.99897766113281,4bf58dd8d48988d1f3941735,Toy / Game Store
+530,Chinatown Fair Video Arcade,594b1249d3cce80b02bb3f7c,Pure Harmony Spa,23,5 Mott St,40.713853,-73.998949,52f2ab2ebcbc57f1066b8b3c,Massage Studio
+534,Chinatown Fair Video Arcade,4a00def5f964a520b9701fe3,Hop Lee Restaurant,25,16 Mott St,40.7141961909275,-73.99875753592946,4bf58dd8d48988d145941735,Chinese Restaurant
+535,Chinatown Fair Video Arcade,4cf98d35d8468cfa63b4e76b,Wawa Chinatown,26,No Address,40.71379217230634,-73.99850087244373,4bf58dd8d48988d1c7941735,Snack Place
+526,Chinatown Fair Video Arcade,52181b2cbce664b5814d2264,Crystal Palace Beauty,27,2 Mott St Rm 803,40.713726074861945,-73.99867936283222,4bf58dd8d48988d1ed941735,Spa
+537,Chinatown Fair Video Arcade,5365aa83498ef37a452665f0,Ali Baba Organic Marketplace,32,1 Mott St,40.71368127658448,-73.9986684668076,52f2ab2ebcbc57f1066b8b1c,Fruit & Vegetable Store
+561,Daniel Arcade,509e894be4b0d1661c0eb977,99c Discounts,2,Avenue J,40.624668583677284,-73.96531694314416,4bf58dd8d48988d1f7941735,Flea Market
+569,Daniel Arcade,50d77adde4b0252169beb7b9,Taco Bell,3,No Address,40.62467097281785,-73.96529972412316,4bf58dd8d48988d16e941735,Fast Food Restaurant
+570,Daniel Arcade,515f187be4b005f77821bd37,Ds Wings Joint,3,No Address,40.62466049194336,-73.96536254882812,4bf58dd8d48988d14c941735,Wings Joint
+575,Daniel Arcade,50bf4138e4b0097253b7f2dc,Bridal Shop,3,Ave J & CIA,40.62470626831055,-73.96529388427734,4bf58dd8d48988d11a951735,Bridal Shop
+579,Daniel Arcade,515f11aee4b0b78266bce343,Gs Baseball,3,No Address,40.62465286254883,-73.96532440185547,4bf58dd8d48988d1bb941735,College Baseball Diamond
+572,Daniel Arcade,5072f71fe4b0e78a1b94704f,Building CI & J,5,No Address,40.62466625095121,-73.9653858192127,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+576,Daniel Arcade,51254fc8e4b04b9969d996da,Mikki's Video,6,No Address,40.62465728386314,-73.96526528607659,4bf58dd8d48988d126951735,Video Store
+578,Daniel Arcade,508650bae4b0065a780d82ab,Gary's Movie Night,7,No Address,40.624720837428775,-73.96525954640155,4bf58dd8d48988d180941735,Multiplex
+566,Daniel Arcade,50e73c0ce4b0124eb34b38be,Brooklyn Golf Course,8,No Address,40.62467324904255,-73.96523084802386,4bf58dd8d48988d1e6941735,Golf Course
+568,Daniel Arcade,4ede37ce7ee5f354d51eacb6,The Buzz,9,No Address,40.624640390568594,-73.96524232737545,4bf58dd8d48988d122951735,Electronics Store
+577,Daniel Arcade,5092e982e4b0b6c71639d2d5,Act 7,12,No Address,40.624593786558535,-73.96542025723772,4bf58dd8d48988d109951735,Lingerie Store
+565,Daniel Arcade,53767cbd498ed7782d363d88,The Finest Touch Barber Shop,29,1352 Coney Island Ave,40.624437,-73.965452,4bf58dd8d48988d110951735,Salon / Barbershop
+573,Daniel Arcade,506ff9fce4b0997e4b9a0f37,GFI Management,29,1014 Avenue J,40.624437,-73.965452,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+574,Daniel Arcade,51810f3a498ebf69d1264545,Newsstand And Grocery Store,36,1344A Coney Island Ave,40.62496948242188,-73.96554565429688,4d954b0ea243a5684a65b473,Convenience Store
+560,Daniel Arcade,4d927716fa1ef04d180c58c7,MTA Bus - Av J & Coney Island Av (B6/B11/B68),37,Ave J,40.6248244089269,-73.9649209305307,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+564,Daniel Arcade,509e99a3e4b03075374d94c7,AT&T Store,75,1369 Coney Island Ave,40.624152,-73.96479000000001,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shop
+571,Daniel Arcade,609c2318dabb5c25ab70984e,Shwarama Tanami,100,1360 Coney Island Ave,40.62379,-73.9652,52e81612bcbc57f1066b79fc,Kosher Restaurant
+567,Daniel Arcade,4d52c77fbfc260fca5c0ce26,"Eichers Judaica Store - Tzitzis, Kippot and More",150,1401 Coney Island Ave,40.623473,-73.964561,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+562,Daniel Arcade,4e1377526284edb6bae9a1b5,Santander Bank,195,Ave J,40.624751,-73.963018,4bf58dd8d48988d10a951735,Bank
+563,Daniel Arcade,4d7fb76bdd4a6ea800ff7f25,Talmud Torah,283,1305 Coney Island Ave,40.627238213834936,-73.96534430667603,4bf58dd8d48988d131941735,Spiritual Center
+132,Deno's Arcade,4f931d5ae4b01143d1ebb0c3,Photobooth Under The Wonder Wheel,9,No Address,40.573944,-73.978944,4bf58dd8d48988d182941735,Theme Park
+131,Deno's Arcade,4e135d1b7d8b4d5613ebe467,Zoltar Machine,11,No Address,40.57396596221336,-73.97909166671978,4bf58dd8d48988d1e1931735,Arcade
+123,Deno's Arcade,4c43c87bdcd61b8d4b8a7a56,Spook-a-Rama,14,No Address,40.573998378287456,-73.97910250753341,4bf58dd8d48988d182941735,Theme Park
+125,Deno's Arcade,60d618e1e4aae55ef49c72f5,Dizzy Dragons,16,No Address,40.574005,-73.979124,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+128,Deno's Arcade,4a7b02b9f964a520cbe91fe3,Deno's Wonder Wheel,16,1025 Boardwalk W,40.57400777752365,-73.97910812128734,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+126,Deno's Arcade,60d617933cfdcd6b21c3763f,Train Ride,18,No Address,40.573813,-73.979219,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+124,Deno's Arcade,4db70c07a86e8d2707b820dd,Tilt-a-whirl,19,No Address,40.573714281938884,-73.97909740598244,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+122,Deno's Arcade,598cac87b37e2b1805619979,Sea Serpent,21,No Address,40.573694,-73.97904100000001,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+127,Deno's Arcade,4d5be1301da1cbff2c3b1a05,Circus Coaster,21,1000 Surf Ave,40.5738170234201,-73.97877395153046,4bf58dd8d48988d182941735,Theme Park
+121,Deno's Arcade,51feb7c5498e3df58fa1d80a,Deno's Wonder Wheel Amusement Park,27,1025 Boardwalk W,40.5738179905465,-73.97933407094784,4bf58dd8d48988d182941735,Theme Park
+130,Deno's Arcade,60d6340f4f2de719ee091992,Beach Buggy,29,No Address,40.573728,-73.979302,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+133,Deno's Arcade,4d5bead41da1cbff71831a05,Tea Party,29,1000 Surf Ave,40.57366552305894,-73.97881044263973,4bf58dd8d48988d182941735,Theme Park
+129,Deno's Arcade,4bd842d2f645c9b63a77a7e0,Luna Park,39,1000 Surf Ave,40.57418602653488,-73.97878174628191,4bf58dd8d48988d182941735,Theme Park
+137,Deno's Arcade,612bbe92844b27193bb9ca0c,Windstarz,45,No Address,40.573617999999996,-73.978601,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+136,Deno's Arcade,5b833155b040560039f41a08,Coney Clipper,66,No Address,40.573927000000005,-73.97823000000001,4bf58dd8d48988d182941735,Theme Park
+138,Deno's Arcade,60eb15a21485515334be15c5,Phoenix Roller Coaster,87,West 12th Street,40.574543,-73.97957,4bf58dd8d48988d182941735,Theme Park
+135,Deno's Arcade,49e4a769f964a52015631fe3,Coney Island Beach & Boardwalk,143,Riegelmann Boardwalk,40.57260479999999,-73.978786,4bf58dd8d48988d1e2941735,Beach
+134,Deno's Arcade,4d5be96e1da1cbff58791a05,Big Top Express,163,1000 Surf Ave,40.57531356811523,-73.97859954833984,4bf58dd8d48988d182941735,Theme Park
+139,Deno's Arcade,4d5be67c1da1cbff0d641a05,Speed Boat,163,1000 Surf Ave,40.57531356811523,-73.97859954833984,4bf58dd8d48988d182941735,Theme Park
+665,EOS Arcade,5483af35498e56d019ca641c,66 Rockwell Place - Lounge,1,No Address,40.68819582893525,-73.97952250688047,4bf58dd8d48988d121941735,Lounge
+666,EOS Arcade,5ba98173610f0400394d871b,Eos Library,1,No Address,40.688165000000005,-73.979516,4bf58dd8d48988d12f941735,Library
+662,EOS Arcade,554cc454498ea046095da80f,EOS Coffee Kiosk,3,"66 Rockwell Place, Brooklyn NY 11217",40.68817391822244,-73.97947675859088,4bf58dd8d48988d1e0931735,Coffee Shop
+669,EOS Arcade,5b2268bacad1b6002cf58763,66 Rockwell Management Office,6,"66 Rockwell Place, 4th Fl",40.688145,-73.979574,4bf58dd8d48988d124941735,Office
+676,EOS Arcade,4fb6aef8e4b012942f409b46,Runa World HQ,13,33 Flatbush Ave Fl 5,40.6880604880372,-73.97948767544119,4bf58dd8d48988d174941735,Coworking Space
+667,EOS Arcade,54078028498eef2f703e98c6,66 Rockwell Place - Laundry Room,20,No Address,40.68817,-73.979274,4bf58dd8d48988d1fc941735,Laundry Service
+671,EOS Arcade,5259728011d2fce165ba0cf7,UrbanGlass,22,647 Fulton St,40.688318919382404,-73.97931872325087,4bf58dd8d48988d127951735,Arts & Crafts Store
+661,EOS Arcade,5dbdc982662e710008bbf872,Las Santas,23,572 Fulton St,40.688278000000004,-73.97976,4bf58dd8d48988d155941735,Gastropub
+675,EOS Arcade,5bc9bd0ceaf49a002c7dd940,Eos Fit,23,66 Rockwell Pl,40.68800354003906,-73.97935485839844,4bf58dd8d48988d175941735,Gym / Fitness Center
+663,EOS Arcade,54948967498e3df9a8667772,66 Rockwell Place - Sky Lounge,24,No Address,40.68796405137047,-73.97947380771873,4bf58dd8d48988d165941735,Scenic Lookout
+672,EOS Arcade,4c03f26a310fc9b63d92c661,Dollar Deal,30,635 Fulton St,40.68845177910274,-73.97954299911119,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+668,EOS Arcade,57f90cfa498e4e964edad98f,EOS Terrace,32,No Address,40.687891,-73.979454,4bf58dd8d48988d165941735,Scenic Lookout
+660,EOS Arcade,5352e67c498e8b59f66c744e,66 Rockwell Place,34,66 Rockwell Pl,40.68796752147136,-73.97982266220092,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+670,EOS Arcade,5b89aecc8c812a002ca7f2af,Coffee Project New York,49,78 Rockwell Pl,40.687751,-73.979387,4bf58dd8d48988d1e0931735,Coffee Shop
+678,EOS Arcade,4d6d428ecb0eb1f720dfa9a0,10 MetroTech Center,57,10 Metrotech Ctr,40.68844092170541,-73.98010751354147,4bf58dd8d48988d174941735,Coworking Space
+677,EOS Arcade,4c2258d699282d7f0cfb66b0,SCO Family Of Services,61,570 Fulton St,40.688503997753756,-73.9801132527738,4bf58dd8d48988d174941735,Coworking Space
+679,EOS Arcade,4c5a0fd067ac0f47a9ef054c,GenspaceNYC,61,33 Flatbush Ave,40.687791921293616,-73.98004138935454,4bf58dd8d48988d1a5941735,College Lab
+673,EOS Arcade,5da3206c1be55d00075d618f,Forte Gym,74,230 Ashland Place,40.68825149536133,-73.9786376953125,4bf58dd8d48988d175941735,Gym / Fitness Center
+674,EOS Arcade,4ad8fa6ef964a520ac1621e3,MTA Subway - Nevins St (2/3/4/5),77,Nevins St,40.68819537897723,-73.98043254164331,4bf58dd8d48988d1fd931735,Metro Station
+270,Educole bowling and arcade,4da31c5d7aee54815ce9e2fe,66 Bus,5,No Address,40.63081744,-74.13038056,4bf58dd8d48988d12b951735,Bus Line
+272,Educole bowling and arcade,50ba3d35e4b0a653aec8e699,Corner Luncheonette,27,247 Jewett Ave,40.631016,-74.130289,4bf58dd8d48988d14e941735,American Restaurant
+273,Educole bowling and arcade,4e95f37d82310e913f6c0bd7,Dance Theatre Of Staten Island,40,No Address,40.63086228658803,-74.12988274771175,4bf58dd8d48988d130941735,Building
+264,Educole bowling and arcade,4c40dc24ce54e21ec7320a1a,Little Shop Studios,43,864 Post Ave,40.63073,-74.12983,4bf58dd8d48988d171941735,Event Space
+265,Educole bowling and arcade,4ba351c0f964a520013538e3,Stephanie's Deli,66,234 Jewett Ave,40.631229,-74.13085699999998,4bf58dd8d48988d146941735,Deli / Bodega
+260,Educole bowling and arcade,4c3f3da415e8ef3b8e63300e,Michelangelo's Pizza,67,860 Post Ave,40.630791,-74.129548,4bf58dd8d48988d1ca941735,Pizza Place
+263,Educole bowling and arcade,4c2625b45c5ca593ce8c45fe,Fresh Haircutters,79,858 Post Ave,40.630764,-74.129403,4bf58dd8d48988d110951735,Salon / Barbershop
+275,Educole bowling and arcade,4bd31661b221c9b6c0cbd8d0,Fresh Barbershop,99,No Address,40.6309235194172,-74.12918311299525,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+269,Educole bowling and arcade,4d2d4175679e6dcb8bc1ad95,Educole karaoke bar,103,914 Post Ave,40.631141,-74.13147099999998,4bf58dd8d48988d1ca941735,Pizza Place
+271,Educole bowling and arcade,4d2df0d494013704423be1da,Educoles pizza,106,913 Post Ave,40.631453,-74.131232,4bf58dd8d48988d1ca941735,Pizza Place
+276,Educole bowling and arcade,4ca5d8a4a643b713bacde6a6,Shaolin Kung Fu Temple,144,925 Post Ave,40.631673,-74.131582,4bf58dd8d48988d101941735,Martial Arts School
+262,Educole bowling and arcade,4c4e42e89efabe9acc3ccd69,Happy Paws Boutique,201,945 Post Ave,40.631974,-74.132133,4bf58dd8d48988d110951735,Salon / Barbershop
+279,Educole bowling and arcade,4bd7747688559521759e87a7,Tanning Loft,227,Victory Blvd.,40.62884846675197,-74.12946411413853,4d1cf8421a97d635ce361c31,Tanning Salon
+278,Educole bowling and arcade,4cd161257561236a8d5731f3,Post laundromat,273,970 Post Ave,40.632026,-74.133137,4bf58dd8d48988d1fc941735,Laundry Service
+261,Educole bowling and arcade,4dd409556365c27b0dbf48af,MTA Bus - Castleton Depot,281,1390 Castleton Ave,40.633198409619496,-74.12940103228597,4bf58dd8d48988d1fe931735,Bus Station
+267,Educole bowling and arcade,4dfbee58e4cdbe059c376e4d,Sunshiine Lane,325,15 Albion Pl,40.633222,-74.132452,4bf58dd8d48988d113951735,Gas Station
+274,Educole bowling and arcade,4d1fdddf5c4ca1cdb4a49c3d,MTA Bus - Castleton Av & Jewett Av (S46/S53/S66/S96/SIM3/3c/35),346,Castleton Ave,40.63384640260922,-74.12969753956581,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+277,Educole bowling and arcade,4cab63e9a6e08cfad351a594,Joe Mozz,427,1021 Post Ave,40.633138,-74.134338,4bf58dd8d48988d110941735,Italian Restaurant
+266,Educole bowling and arcade,5331dfb611d2b412e21d2863,Mobil,594,387 Port Richmond Ave,40.632378,-74.13705999999998,4bf58dd8d48988d113951735,Gas Station
+47,Eldorado Bumper Cars & Arcade,4dc591dbb0fb5556ccf46e99,MFN Bucket,7,No Address,40.575268,-73.98011899999999,4bf58dd8d48988d174941735,Coworking Space
+44,Eldorado Bumper Cars & Arcade,4f849f65e4b081aacf19d551,Popeyes Louisiana Kitchen,14,1220 Surf Ave,40.5753002311716,-73.98031863224374,4d4ae6fc7a7b7dea34424761,Fried Chicken Joint
+43,Eldorado Bumper Cars & Arcade,53a0d3f9498ec06f0765de0d,Lunatics Ice Cream,20,1224 Surf Ave,40.575318,-73.9804,4bf58dd8d48988d1c9941735,Ice Cream Shop
+59,Eldorado Bumper Cars & Arcade,52c4469d498efde7ddeaea78,Scan-A-Rama,33,1208 Surf Ave,40.57537078857422,-73.97984313964844,4bf58dd8d48988d1e2931735,Art Gallery
+52,Eldorado Bumper Cars & Arcade,595bed4fdb2aeb0886de5d43,F-Society (Mr. Robot),42,1221 Bowery,40.57487106323242,-73.98039245605469,4bf58dd8d48988d1e1931735,Arcade
+41,Eldorado Bumper Cars & Arcade,5747aad3498e14be5f331b68,Freak Bar,44,1208 Surf Ave,40.57540518158034,-73.9797205219493,4bf58dd8d48988d116941735,Bar
+42,Eldorado Bumper Cars & Arcade,536e575c498ed4eaf75fc6c6,Coney Island USA - Museum & Freak Show,47,1208 Surf Ave,40.57542177285767,-73.97969840957181,4bf58dd8d48988d181941735,Museum
+56,Eldorado Bumper Cars & Arcade,4fb9662ae4b0c06753bb1893,Coney Island Bar & Grill,52,1205 Surf Ave,40.575637895891376,-73.9798896362627,4bf58dd8d48988d116941735,Bar
+57,Eldorado Bumper Cars & Arcade,4fdfa727e4b0866bd7a3bfe3,Lola Star's Subway Gift Shop,77,No Address,40.575579,-73.98097299999999,4bf58dd8d48988d128951735,Gift Shop
+45,Eldorado Bumper Cars & Arcade,5377f9af498e4726651b12e9,Margarita Island,82,1105 Bowery Street,40.57484354961254,-73.97935368211385,4bf58dd8d48988d11e941735,Cocktail Bar
+51,Eldorado Bumper Cars & Arcade,4b93f492f964a520ac5c34e3,Coney Island Beach Shop,98,3018 Stillwell Avenue Coney Island,40.57491559001252,-73.9812849978397,4bf58dd8d48988d128951735,Gift Shop
+58,Eldorado Bumper Cars & Arcade,4f58913ee4b0b8ced77b6a4a,NYPD Td34 Gym,98,1243 Surf Ave,40.57591247558594,-73.98091125488281,4bf58dd8d48988d176941735,Gym
+55,Eldorado Bumper Cars & Arcade,4dea88f0b0fb8293f7d7bef1,Skeeball,129,No Address,40.5740685054678,-73.98042317106521,4bf58dd8d48988d1e1931735,Arcade
+54,Eldorado Bumper Cars & Arcade,607b3a818c20a4708925d94c,Bumper Cars,132,No Address,40.574401,-73.979054,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+46,Eldorado Bumper Cars & Arcade,4a7b02b9f964a520cbe91fe3,Deno's Wonder Wheel,163,1025 Boardwalk W,40.57400777752365,-73.97910812128734,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+50,Eldorado Bumper Cars & Arcade,4bd842d2f645c9b63a77a7e0,Luna Park,165,1000 Surf Ave,40.57418602653488,-73.97878174628191,4bf58dd8d48988d182941735,Theme Park
+49,Eldorado Bumper Cars & Arcade,4a20bdddf964a520be7c1fe3,The Cyclone,200,834 Surf Ave,40.575225290170096,-73.97781754616965,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+48,Eldorado Bumper Cars & Arcade,59073a39b546187ea5cb9bde,Surf City Pizzeria,205,837 Surf Ave,40.575589660666814,-73.97781149826676,4bf58dd8d48988d1ca941735,Pizza Place
+53,Eldorado Bumper Cars & Arcade,4d5bea841da1cbff3a811a05,Mermaid Parade Ride,241,1000 Surf Ave,40.57357050702873,-73.97833675146103,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+250,Flynn's Arcade,4e5311d76284ca6a2f6d0e21,Big Six Towers #5,62,46-10 61st St,40.73234625720768,-73.88207954300884,4bf58dd8d48988d110951735,Salon / Barbershop
+246,Flynn's Arcade,4e298f9d62e17c3301a94906,St. Adalbert's Catholic Church,83,52-29 83rd St,40.73240395810612,-73.8828802524605,4bf58dd8d48988d132941735,Church
+240,Flynn's Arcade,50bb7657e4b071d531276e07,Saint Adalbert School,118,52-17 83rd St,40.73291749940902,-73.883543570634,4bf58dd8d48988d13b941735,School
+252,Flynn's Arcade,4f4a84a9e4b011fb77adcd92,St. Adelbert's,122,No Address,40.73290049464063,-73.88358971818438,4bf58dd8d48988d132941735,Church
+255,Flynn's Arcade,4e1bb2041fc714dc5c310335,Li Li,138,83-06 Grand Ave,40.733131408691406,-73.88375091552734,4bf58dd8d48988d145941735,Chinese Restaurant
+249,Flynn's Arcade,531b4f7f498e00e81050bfb4,Mariella's Salon,153,84-26 Grand Ave,40.73410034179688,-73.88304901123047,4bf58dd8d48988d110951735,Salon / Barbershop
+244,Flynn's Arcade,4c2e1ab4987f20a126884aaa,"MTA Q58, Q59 Grand Ave & 84th St",154,No Address,40.733427787256495,-73.88383541897363,4bf58dd8d48988d12b951735,Bus Line
+258,Flynn's Arcade,4ea0945df790ffa116e7fdc9,VXL Medical Care,175,83-01 Grand Ave,40.73314352,-73.88419438,4bf58dd8d48988d186941735,Liquor Store
+248,Flynn's Arcade,4bc63132db8fa593ebeb9b37,The Hilltap Tavern,176,83-03 Grand Ave,40.73326870713013,-73.88416974913841,4bf58dd8d48988d116941735,Bar
+247,Flynn's Arcade,6084ae7dd4111d6f6ec5585f,Kuya's Lechon,196,84-60 Grand Ave,40.734665,-73.88207,4eb1bd1c3b7b55596b4a748f,Filipino Restaurant
+243,Flynn's Arcade,4f0b27e5e4b06fab1bd36b8f,Grand Slope Park,198,Haspel St,40.734668659474416,-73.88246426554714,4bf58dd8d48988d163941735,Park
+254,Flynn's Arcade,4d5ee3b7338bb60cfb0e15bd,A.N.R. Hardware,207,No Address,40.734757,-73.882384,4bf58dd8d48988d112951735,Hardware Store
+251,Flynn's Arcade,4c49a1f5a3ace21ef269dd3b,Que Sabor,217,84-60 Grand Ave,40.734855521286256,-73.88207641859282,4bf58dd8d48988d16a941735,Bakery
+241,Flynn's Arcade,4bc0e63cabf49521a01ec093,Community Beverage,222,8004 Grand Ave,40.73211565153576,-73.88455653997656,4bf58dd8d48988d186941735,Liquor Store
+257,Flynn's Arcade,4e4c484fb0fb57f6f21c87bb,Ace Wine And Spirits,255,No Address,40.73518843387485,-73.8818613418303,4bf58dd8d48988d186941735,Liquor Store
+256,Flynn's Arcade,4dbe07b5a86e0e98a20950ff,Grand Ave Supermarket,263,8515 Grand Ave,40.73524995435713,-73.88170630398237,4bf58dd8d48988d118951735,Grocery Store
+253,Flynn's Arcade,4e03c3697d8b00eb78bf4ae1,Melody Beauty Salon,265,8522,40.735243,-73.88154399999999,4bf58dd8d48988d110951735,Salon / Barbershop
+245,Flynn's Arcade,4e2b6eead22d3f83c88fb0f2,Footbridge over LIRR,295,55th Avenue,40.73269737861064,-73.87863997509231,4bf58dd8d48988d1df941735,Bridge
+259,Flynn's Arcade,4c3b58314565e21ee391566a,99 Cent Store,1302,69-17 Grand Ave,40.72642135620117,-73.8949966430664,4bf58dd8d48988d1f7941735,Flea Market
+9,Frames Bowling Lounge,5e0e1bdc6f11b900082504c7,Gate 421,6,No Address,40.757154,-73.99289499999999,4bf58dd8d48988d12b951735,Bus Line
+6,Frames Bowling Lounge,515ebd74e4b0a9e5c3875492,"C&J Bus To Portsmouth, NH",8,No Address,40.75724822635669,-73.99290557546364,4f2a23984b9023bd5841ed2c,Moving Target
+18,Frames Bowling Lounge,4b9a738ff964a52079b635e3,Pine Hill Bus,10,No Address,40.757276,-73.992986,4bf58dd8d48988d1fe931735,Bus Station
+8,Frames Bowling Lounge,4c60a550b6f3be9aa8f15f73,Book Corner,17,Port Authority Bus Terminal,40.75728053978705,-73.99313512932147,4bf58dd8d48988d114951735,Bookstore
+13,Frames Bowling Lounge,4c6b07cee503c928512a47b3,Library Walk,24,41st streer,40.757383339316014,-73.9928367092527,4bf58dd8d48988d162941735,Other Great Outdoors
+15,Frames Bowling Lounge,4dcaee2c1838cc2cc641456f,Pedro Tatas . Jose's Cousin,28,No Address,40.757433,-73.992884,4bf58dd8d48988d1c1941735,Mexican Restaurant
+12,Frames Bowling Lounge,4c7d8de6d598a093a54dc362,Gate 232,34,South Terminal,40.757492284569594,-73.9930174829653,4bf58dd8d48988d1fe931735,Bus Station
+0,Frames Bowling Lounge,4e6fd25ed164f60bba71d535,Gate 224,37,South Terminal,40.75746858421768,-73.99272070912116,4bf58dd8d48988d1fe931735,Bus Station
+11,Frames Bowling Lounge,4d41a4bbde17a093901d036c,Gate 223,37,Port Authority Bus Terminal,40.757454485054005,-73.9926932379005,4bf58dd8d48988d1fe931735,Bus Station
+16,Frames Bowling Lounge,4bd26cbe046076b09e1a7471,Gate 167,46,Port Authority Bus Terminal,40.757371631202176,-73.99247516123957,4bf58dd8d48988d1fe931735,Bus Station
+17,Frames Bowling Lounge,59b2a2f735811b271f1aa589,Craven,47,346 W 40th St,40.756761,-73.992925,4bf58dd8d48988d116941735,Bar
+5,Frames Bowling Lounge,4aa06479f964a520753f20e3,2 Bros. Pizza,51,542 9th Ave,40.757080537080924,-73.99355367266132,4bf58dd8d48988d1ca941735,Pizza Place
+3,Frames Bowling Lounge,58a09cb6b7920746eb8539b1,DoubleTree by Hilton,58,350 W 40th St,40.756663200000006,-73.993015,4bf58dd8d48988d1fa931735,Hotel
+14,Frames Bowling Lounge,59cfbc54c365882163746baa,Double Tree Gym,62,No Address,40.75663,-73.99308,4bf58dd8d48988d176941735,Gym
+19,Frames Bowling Lounge,4c8146b4d4e2370453405c88,Gate 234,67,South Terminal,40.7570045804628,-73.99219751347118,4bf58dd8d48988d1fe931735,Bus Station
+7,Frames Bowling Lounge,4d532b366bc337045a0affd2,Gate 2,100,South Terminal,40.75686100442746,-73.99185419071728,4bf58dd8d48988d1fe931735,Bus Station
+10,Frames Bowling Lounge,4e53e4d718a8c0ad8f74bdfc,NYC Baby,146,No Address,40.75673982753576,-73.99459278990595,4d4b7105d754a06379d81259,Travel & Transport
+1,Frames Bowling Lounge,4840fe6bf964a52030501fe3,Port Authority Bus Terminal,166,625 8th Ave,40.75708266723886,-73.99100026783957,4bf58dd8d48988d1fe931735,Bus Station
+4,Frames Bowling Lounge,49b7ed6df964a52030531fe3,Times Square,609,Broadway & 7th Ave,40.75826955760071,-73.98587535555836,4bf58dd8d48988d164941735,Plaza
+740,Games & Arcades,4bd19820caff9521c9e1d0f0,Silver Spoon Restaurant,15,207-12,40.7076184133555,-73.74970772744868,4bf58dd8d48988d144941735,Caribbean Restaurant
+743,Games & Arcades,4cd2d8e02436b60c412f87ca,Hollis Quality Cleaners,16,No Address,40.70757582077458,-73.74982264676494,4bf58dd8d48988d1fc941735,Laundry Service
+746,Games & Arcades,4d4ef6a64a38b60c7055ef66,Beauty Nails,20,20716 Hollis Ave,40.707645,-73.74976,4bf58dd8d48988d10c951735,Cosmetics Shop
+741,Games & Arcades,4b8d7c8df964a520a7fe32e3,compare foods,68,20616 Hollis Ave,40.707218170166016,-73.75041198730469,4bf58dd8d48988d118951735,Grocery Store
+748,Games & Arcades,4e10f6411f6e671dd9e3e451,CompareFoods,105,206-16 Hollis Ave,40.70749667439923,-73.75092012292255,4bf58dd8d48988d118951735,Grocery Store
+744,Games & Arcades,4c3ce21fb36ac928cab70486,Hop's Kitchen,110,109-69 Francis Lewis Blvd,40.707282781680604,-73.75094885258434,4bf58dd8d48988d145941735,Chinese Restaurant
+750,Games & Arcades,533d7724498e5ad90c719e56,grace nail and spa,121,No Address,40.70733642578125,-73.7510986328125,4f04aa0c2fb6e1c99f3db0b8,Nail Salon
+756,Games & Arcades,4cda2239d4ecb1f7801d7248,Hollis Deli,123,Francis Lewis & Hollis,40.707314000000004,-73.751114,4bf58dd8d48988d146941735,Deli / Bodega
+745,Games & Arcades,50294b54f470f7543bccad19,BP,167,20533 HOLLIS AVE,40.707479,-73.751653,4bf58dd8d48988d113951735,Gas Station
+751,Games & Arcades,4ba81b8cf964a52025cd39e3,Walgreens,169,10962 Francis Lewis Blvd,40.70651765220365,-73.75122783023261,4bf58dd8d48988d10f951735,Pharmacy
+749,Games & Arcades,4bd8fb2ae914a593166255fa,Dunkin',178,10962 Francis Lewis Blvd,40.706747348595044,-73.75155580761418,4bf58dd8d48988d148941735,Donut Shop
+747,Games & Arcades,4c3cd6357d002d7f13fdae18,Domino's Pizza,182,10962 Francis Lewis Blvd,40.706597816644894,-73.75149697065353,4bf58dd8d48988d1ca941735,Pizza Place
+752,Games & Arcades,4cf15afc1d18a1430fc852ec,Kennedy fried chicken,185,20529 Hollis Ave,40.70736579967805,-73.75186245368526,4bf58dd8d48988d14c941735,Wings Joint
+755,Games & Arcades,4be221d7f07b0f478fdff443,J & L St. Albans Pizzeria,196,205-27 Hollis Ave,40.70738983154297,-73.75199890136719,4bf58dd8d48988d1ca941735,Pizza Place
+742,Games & Arcades,4eb601da9a52ad1e3f380b45,Hollis Ave,286,20602 Hollis Ave,40.706692221980184,-73.75290820581718,4bf58dd8d48988d162941735,Other Great Outdoors
+758,Games & Arcades,4e0b253a22713e13018f273f,MTA Q2 (Hollis Avenue),334,Hollis Avenue,40.70941459691551,-73.74663935739333,4bf58dd8d48988d1fe931735,Bus Station
+753,Games & Arcades,4e80805029c2611406c53bd4,IS192,340,109-89 204th St,40.70563237779008,-73.75289096818885,4bf58dd8d48988d1ab941735,Student Center
+754,Games & Arcades,5290f4f311d2721accb192f4,Pathways College Preparatory School,359,109-89 204th St,40.705628479475905,-73.7531693400202,4bf58dd8d48988d13d941735,High School
+757,Games & Arcades,4d327fe098336dcb469e24f0,Club Hunter,620,No Address,40.703807356932,-73.755206543004,4bf58dd8d48988d146941735,Deli / Bodega
+759,Games & Arcades,4f3dc8abe4b0f010501272a2,Secrets Bar & Lounge,4937,24511 Francis Lewis Blvd,40.664649963378906,-73.73444366455078,4bf58dd8d48988d121941735,Lounge
+400,Graha Arcade,4fad4a66e4b06e5ab7da5808,CityMD W Flatiron,7,37 West 23rd Street,40.74231939999999,-73.9908977,4bf58dd8d48988d196941735,Hospital
+403,Graha Arcade,4c77b1ec93faa0934782f1fb,Touro College -  Main Campus,20,27 W 23rd St,40.74241434393432,-73.99062064726624,4bf58dd8d48988d124941735,Office
+409,Graha Arcade,4cd422c54f6d6a3161b60a11,Touro College Library Midtown,21,43 W 23rd St,40.742530524477374,-73.99102322346575,4bf58dd8d48988d1a7941735,College Library
+404,Graha Arcade,5ce2bc2e2632ec002ca68048,Vettery,23,27 W 23rd St,40.742395,-73.99058199999997,4bf58dd8d48988d125941735,Tech Startup
+416,Graha Arcade,4dc2fbbb1f6ef43b89d8115d,Lifespire Man. South,32,27 W 23rd St,40.742675902466324,-73.99086253402484,4bf58dd8d48988d124941735,Office
+419,Graha Arcade,4be05ced4c189c74bb6956f2,Touro College,34,43 W 23rd St,40.74237714023242,-73.99126425737475,4bf58dd8d48988d197941735,College Administrative Building
+417,Graha Arcade,4bf8c87f5efe2d7f99666b34,Karems Halal Food Cart,35,60-98 W 23rd St,40.74206599360497,-73.99090844530741,4bf58dd8d48988d1cb941735,Food Truck
+408,Graha Arcade,59542863f62e09162c5cac34,Datorama,36,43 W 23rd St,40.74234540467983,-73.99129308080866,4bf58dd8d48988d125941735,Tech Startup
+412,Graha Arcade,55a577d4498e6ad9e4eeb03a,Rise New York,42,43 W 23rd St Fl 2,40.74232898409415,-73.99136227253456,4bf58dd8d48988d174941735,Coworking Space
+402,Graha Arcade,4be0af874c189c74ba7556f2,Betterment,44,27 W 23rd St,40.742196,-73.99038900000001,4bf58dd8d48988d125941735,Tech Startup
+410,Graha Arcade,52a1fa08498ede15b1530912,Deep Indian Kitchen,47,25 W 23rd St,40.74202506140514,-73.99055792757031,4bf58dd8d48988d10f941735,Indian Restaurant
+414,Graha Arcade,4d498bd44509721e768925b0,Dr. Donna Esposito,49,49 W 23rd St,40.74242942933567,-73.99144216316094,52e81612bcbc57f1066b7a39,Mental Health Office
+401,Graha Arcade,4a21834ff964a520077d1fe3,The Home Depot,56,40 W 23rd St,40.742009499999995,-73.9913159,4bf58dd8d48988d112951735,Hardware Store
+406,Graha Arcade,50524dabe4b057d58969e2bc,Dr. Sambataro,58,49 W 23rd St,40.74275207519531,-73.99134826660156,4bf58dd8d48988d177941735,Doctor's Office
+415,Graha Arcade,4d80f5b5577eb1f70746b2d3,Revolucion NY,62,22 W 23rd St,40.741905148754505,-73.99046266107995,4bf58dd8d48988d124941735,Office
+407,Graha Arcade,4b2d69bef964a52024d624e3,DataVision,63,50 W 23rd St,40.742270170668526,-73.99159491062164,4bf58dd8d48988d122951735,Electronics Store
+413,Graha Arcade,4b6de0d2f964a52013982ce3,Jennifer Leather,68,26 W 23rd St,40.74176025390625,-73.9908676147461,4bf58dd8d48988d1f8941735,Furniture / Home Store
+405,Graha Arcade,4a0a30a7f964a5208d741fe3,Duggal Visual Solutions,114,43 W 24th St Fl 2,40.7433466,-73.99131299999998,4bf58dd8d48988d127951735,Arts & Crafts Store
+411,Graha Arcade,4b11c14ff964a520ef8323e3,MTA Subway - 23rd St (F/M),193,23rd St,40.74301146895779,-73.99300347126494,4bf58dd8d48988d1fd931735,Metro Station
+418,Graha Arcade,4be07eea2aed2d7f0090c86f,Girl Scouts Council of Greater NY Offices,4285,40 Wall St,40.706668981173294,-74.009850025177,4bf58dd8d48988d130941735,Building
+334,Greeley Arcade Building,4cffb3071ebe6dcbdef28291,Florentine Films,4,No Address,40.74749308683239,-73.98972048733542,4bf58dd8d48988d124941735,Office
+321,Greeley Arcade Building,59efa19925ecca240d6f2861,Nordstrom Rack,13,865 Avenue of the Americas,40.747552299999995,-73.9896436,4bf58dd8d48988d1f6941735,Department Store
+338,Greeley Arcade Building,4d73afb58e12b1f7a2954c05,Dark PR,15,875 Avenue of the Americas,40.747338,-73.989808,4bf58dd8d48988d124941735,Office
+336,Greeley Arcade Building,527a6fa811d2d40347eef6c9,Mara Hoffman Showroom,29,866 Avenue of the Americas,40.74774,-73.98978199999999,4bf58dd8d48988d130941735,Building
+323,Greeley Arcade Building,4d71813c5838a0930cabfcda,Green Screen Dream,30,851 Avenue of the Americas,40.747215270996094,-73.9898910522461,4bf58dd8d48988d1e2931735,Art Gallery
+335,Greeley Arcade Building,4ff2459fe4b0a148f89af102,Gregorys Coffee,64,874 Avenue of the Americas,40.7477283,-73.98908320000001,4bf58dd8d48988d1e0931735,Coffee Shop
+333,Greeley Arcade Building,4d42c4b185c1721e8d1fe292,Satellite Academy High School,66,120 W 30th St,40.74742,-73.990557,4bf58dd8d48988d13d941735,High School
+320,Greeley Arcade Building,4beb33be415e20a1940ce6bb,Novelty Candy Store,74,856 Avenue of the Americas,40.74724578857422,-73.98894500732422,4bf58dd8d48988d117951735,Candy Store
+330,Greeley Arcade Building,5cf5a3ca8f90d9002363ddce,Upfit Training Academy,75,No Address,40.747856,-73.990511,4bf58dd8d48988d175941735,Gym / Fitness Center
+326,Greeley Arcade Building,4ac7b7e4f964a52053b920e3,Hampton Inn by Hilton,76,116 W 31st St,40.74806773841009,-73.99023234844208,4bf58dd8d48988d1fa931735,Hotel
+329,Greeley Arcade Building,4e86efa98b81f9942843345b,Beatrice Apartments,76,105 W 29th St,40.7469003,-73.9902686,4bf58dd8d48988d130941735,Building
+322,Greeley Arcade Building,5a09b45b6dcf043c23d5ad4e,King’s Street Coffee,77,121 W 30th St,40.74777457216174,-73.9906057983432,4bf58dd8d48988d1e0931735,Coffee Shop
+328,Greeley Arcade Building,5e23224e57798100081d4603,New Hair,79,119 W 30th St,40.747818,-73.990602,4bf58dd8d48988d110951735,Salon / Barbershop
+325,Greeley Arcade Building,59ac2ec6fdb9a734dd847025,Paper Coffee,130,44 W 29th,40.74631409352761,-73.98957118391989,4bf58dd8d48988d1e0931735,Coffee Shop
+331,Greeley Arcade Building,4a3966c7f964a520689f1fe3,Jack's.,132,110 W 32nd St,40.74864291288824,-73.98946131021954,52dea92d3cf9994f4e043dbb,Discount Store
+332,Greeley Arcade Building,4b4d2088f964a520ebcb26e3,DLG Galery,154,143 W 29th St,40.74753189086914,-73.9916000366211,4bf58dd8d48988d1e2931735,Art Gallery
+324,Greeley Arcade Building,4a63d085f964a520dac51fe3,33rd St PATH Station,170,33rd St.,40.74861334322874,-73.98841729018807,4bf58dd8d48988d1fd931735,Metro Station
+327,Greeley Arcade Building,40b68100f964a5207d001fe3,Madison Square Park,599,Madison Ave,40.74226204193276,-73.98800611495972,4bf58dd8d48988d163941735,Park
+337,Greeley Arcade Building,5c8d460cefa82a002c60770c,15 Hudson Yards,1325,15 Hudson Yards,40.753531172414895,-74.00329764539288,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+166,Harlem Arcade,5115cb6ee4b0e3bff67c7aba,Mt. Corel,6,No Address,40.81624984741211,-73.94141387939453,4eb1d4d54b900d56c88a45fc,Mountain
+168,Harlem Arcade,5115ba7ce4b07949b7298c12,Junon,6,No Address,40.81627655029297,-73.94142150878906,4bf58dd8d48988d1e0941735,Harbor / Marina
+163,Harlem Arcade,5115d118e4b0f0411a6a112f,North Corel,7,No Address,40.81630325317383,-73.94143676757812,4eb1d4d54b900d56c88a45fc,Mountain
+162,Harlem Arcade,51172a0be4b0ec510c31d4ed,Bone Village,8,No Address,40.81631851196289,-73.94144439697266,4bf58dd8d48988d162941735,Other Great Outdoors
+167,Harlem Arcade,5115c73ce4b0c7859556cbbf,Costa Del Sol,8,No Address,40.81631851196289,-73.94144439697266,4bf58dd8d48988d1e3941735,Surf Spot
+164,Harlem Arcade,5115b85de4b0805e0de88bec,Condor Canyon,9,No Address,40.816261291503906,-73.94145965576172,4eb1d4d54b900d56c88a45fc,Mountain
+169,Harlem Arcade,51173fd0e4b08e476fe23de0,Great glacier,9,No Address,40.816261291503906,-73.94145965576172,4eb1d4d54b900d56c88a45fc,Mountain
+165,Harlem Arcade,5115b403e4b03e9918a7118b,Chocobo Farm,11,No Address,40.81624984741211,-73.94147491455078,4bf58dd8d48988d15b941735,Farm
+171,Harlem Arcade,4d8cc9281716a143d02a08f7,A-plus Prosses serving,20,131w 137th street d1,40.816106,-73.941356,4bf58dd8d48988d124941735,Office
+170,Harlem Arcade,4bedea15946c0f47a22aa363,Kandy Blaz,33,No Address,40.816297999999996,-73.941749,4eb1d4d54b900d56c88a45fc,Mountain
+172,Harlem Arcade,4b376908f964a520ef4025e3,Abyssinian Baptist Church,49,132 Odell Clark Pl,40.81673311787599,-73.94136364699091,4bf58dd8d48988d132941735,Church
+173,Harlem Arcade,4d8a67f099c2a1cdf80d90d7,Odell Clark Place II,90,108 Odell Clark Pl,40.816360888517096,-73.94027654075433,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+177,Harlem Arcade,55c558a5498ebb448ec94b55,Harlem Knight Bar,115,2361 Adam Clayton Powell Jr Blvd,40.81716887808743,-73.94206986617345,4bf58dd8d48988d116941735,Bar
+179,Harlem Arcade,59027ed4780eee19af6e945e,PJ Nails & Spa,120,541 Malcolm X Blvd,40.815727,-73.940125,4f04aa0c2fb6e1c99f3db0b8,Nail Salon
+175,Harlem Arcade,55bfb087498eeabf50d4692e,Harlem Nights,121,2361 Adam Clayton Powell Jr Blvd,40.81719783885,-73.94214639619078,4bf58dd8d48988d116941735,Bar
+176,Harlem Arcade,60bce848164ed272f96193b9,Ink Harlem,143,2363 Adam Clayton Powell Jr Blvd,40.817526,-73.941835,4bf58dd8d48988d143941735,Breakfast Spot
+178,Harlem Arcade,613d045790eb43793cfc9f69,Sexy Taco,147,2340 Adam Clayton Powell Jr Blvd,40.816838,-73.942942,4bf58dd8d48988d151941735,Taco Place
+174,Harlem Arcade,507f4964e4b02081a110f623,Bestway Deli,152,No Address,40.81649776767182,-73.94314331129017,4bf58dd8d48988d146941735,Deli / Bodega
+161,Harlem Arcade,604bd36881be423763bc0bd3,Mad Juicy,169,100 W 139th St,40.816635,-73.93939,4bf58dd8d48988d112941735,Juice Bar
+482,I Fix Machine Arcade,5c4bf2492db4a9002c6a342c,"The L Hotel, Ascend Hotel Collection",51,135 32nd Street,40.65719929999999,-74.00274590000001,4bf58dd8d48988d1fa931735,Hotel
+480,I Fix Machine Arcade,60884ea24b76ff0e7cd9f652,Briq,72,132 32nd Street,40.656624,-74.002601,4bf58dd8d48988d124941735,Office
+489,I Fix Machine Arcade,5d718671565c3a0008c00360,NYC Yoga Project,74,112 32nd St,40.657421,-74.003979,4bf58dd8d48988d102941735,Yoga Studio
+485,I Fix Machine Arcade,4c1624d9a1010f4739fd4e18,"Hagan, coury & Associates",80,No Address,40.65631661872646,-74.00359101605163,4bf58dd8d48988d1f4941735,Design Studio
+483,I Fix Machine Arcade,549afde1498eafa4221cb7ee,On the Rocks,83,894 4th Ave,40.656388,-74.002723,4bf58dd8d48988d123941735,Wine Bar
+493,I Fix Machine Arcade,59c6de3248b04e4a8ff6c980,Beer House,95,No Address,40.656271999999994,-74.002696,4bf58dd8d48988d186941735,Liquor Store
+492,I Fix Machine Arcade,5973d79aa92d9809bbae650c,Next Level,97,No Address,40.656937,-74.002144,4bf58dd8d48988d10b951735,Video Game Store
+486,I Fix Machine Arcade,4e59f5bf18a8c204751347bc,Zone C Brooklyn Baby!,98,No Address,40.657650625705294,-74.00409026749415,4bf58dd8d48988d1f4941735,Design Studio
+494,I Fix Machine Arcade,4d432ba785c1721e3572e692,Getty Gas Station,106,No Address,40.65743601126271,-74.00441736256064,4bf58dd8d48988d113951735,Gas Station
+487,I Fix Machine Arcade,4d52d8b89d493704c734dd39,Big John's Coffee Shop & Grill,131,865 4th Ave,40.656548,-74.001855,4bf58dd8d48988d1e0931735,Coffee Shop
+488,I Fix Machine Arcade,4b721b55f964a5200e6f2de3,On the Run,131,875 4th Ave,40.65758395990238,-74.00194510800121,4bf58dd8d48988d1c7941735,Snack Place
+497,I Fix Machine Arcade,5b93f8f7bcbf7a002c9e3933,Mama Lupitas,133,904 4th Ave,40.65586,-74.0028,4bf58dd8d48988d1c1941735,Mexican Restaurant
+495,I Fix Machine Arcade,5c8db13c336273003942b92d,Minnie’s Bar,141,885 4th Ave,40.655819,-74.002666,4bf58dd8d48988d116941735,Bar
+498,I Fix Machine Arcade,607b654e8c20a47089954ec0,Gravesend Pizza,152,181 34th St,40.655632000000004,-74.003355,4bf58dd8d48988d1ca941735,Pizza Place
+496,I Fix Machine Arcade,4b760232f964a52037362ee3,la parada,157,855 4th Ave,40.656807,-74.00144399999998,4bf58dd8d48988d1c4941735,Restaurant
+499,I Fix Machine Arcade,5729b53d498e2cb0d59fad82,34 New York Finest Deli,172,920 4th Avenue,40.6554706,-74.00357340000001,4bf58dd8d48988d1c5941735,Sandwich Place
+490,I Fix Machine Arcade,4b951e6bf964a520fd8f34e3,Sunset Park High School,196,153 35th St,40.65537112317844,-74.00419356073343,4bf58dd8d48988d13d941735,High School
+491,I Fix Machine Arcade,53192dd6498e6f151e87e3ed,Micro Center,197,850 3rd Ave,40.65869086269174,-74.0039944687346,4bf58dd8d48988d122951735,Electronics Store
+484,I Fix Machine Arcade,4f8b172ce4b05ae88a60b0d3,Grand Kitchen & Stone Supply Inc.,291,"920 3rd Ave, Brooklyn, NY 11232",40.65709,-74.006743,4bf58dd8d48988d1f4941735,Design Studio
+481,I Fix Machine Arcade,4e6934d2b993038735685814,Industry City,387,220 36th St #2A,40.65623714310724,-74.00776862015051,4bf58dd8d48988d1fd941735,Shopping Mall
+61,Kaufman Arcade,4b72faf5f964a520a8932de3,Green Tea Nail and Spa,4,141 W 35th St,40.751193641076455,-73.98903311955753,4bf58dd8d48988d10c951735,Cosmetics Shop
+63,Kaufman Arcade,60f72b538e91d07cdf170e5b,Blue 35 Tailors & Cleaners,10,141 W 35th St,40.751257,-73.98917,5032781d91d4c4b30a586d5b,Tailor Shop
+79,Kaufman Arcade,51d312cf498e01bc8210a958,Hardware Project,11,No Address,40.751275999259725,-73.98900885681526,4f04afc02fb6e1c99f3db0bc,Mobile Phone Shop
+77,Kaufman Arcade,4d9dc57348b6224bf1cf2b9f,Alternatives Unlimited - SES NYC,12,147 W 35th St,40.75120324685609,-73.98922693741638,4bf58dd8d48988d124941735,Office
+78,Kaufman Arcade,4d99cc8d2bd6f04d082a8650,SES Tutoring NYC,12,147 W 35th St,40.751126,-73.988966,4bf58dd8d48988d13d941735,High School
+64,Kaufman Arcade,4c88dedbda5da1cd8c6237e9,Fancy 35 Cleaners,14,141 W 35th St,40.751258850097656,-73.98893737792969,4bf58dd8d48988d1fc941735,Laundry Service
+73,Kaufman Arcade,4d9b4ae4674ca1433e9acf43,Premiere Vision,14,147 W 35th St,40.751066974254286,-73.98905476854135,4bf58dd8d48988d124941735,Office
+70,Kaufman Arcade,5b4284f39411f2002c16555d,Yoga & Fitness Herald Square,18,139 West 35th St,40.751281,-73.988902,4bf58dd8d48988d102941735,Yoga Studio
+71,Kaufman Arcade,5dae14c54db7920007d946dd,Zaro's Bakery,18,151 W 34th St,40.751083,-73.98925,4bf58dd8d48988d16a941735,Bakery
+66,Kaufman Arcade,570bdac9498efb0ebb5e011a,pizza bar NYC,21,151 W 34th St,40.751265816114525,-73.98932433572696,4bf58dd8d48988d14e941735,American Restaurant
+62,Kaufman Arcade,5a0b2f7a51950e1a4374b56f,Manhattan Apothecary,26,147 W 35th St,40.7514223530056,-73.9891641898522,4bf58dd8d48988d10f951735,Pharmacy
+68,Kaufman Arcade,523223712fc68447aab9984a,Robbie & Co. Men's Shop,27,147 W 35th St,40.751438,-73.98909300000003,4bf58dd8d48988d106951735,Men's Store
+67,Kaufman Arcade,50fee88fe4b052c5b1e8e5d6,147 W 35 St,30,No Address,40.75133695288453,-73.98939336718209,4bf58dd8d48988d130941735,Building
+69,Kaufman Arcade,56efe70e498e8a77e130b14f,Dunkin',31,155 W 35th St,40.75145178434104,-73.98923995784139,4bf58dd8d48988d148941735,Donut Shop
+72,Kaufman Arcade,55aab4ae498e68da467c191d,Best Stitch Tailoring,31,147 W 35th St,40.75143989897182,-73.98926790720112,5032781d91d4c4b30a586d5b,Tailor Shop
+74,Kaufman Arcade,546252ea498ecce55ba25164,Just Salad,40,151 W 34th St Fl 4,40.750828999999996,-73.98911600000001,4bf58dd8d48988d1bd941735,Salad Place
+76,Kaufman Arcade,4bbb7a939858d13aa06533a2,Goldberg Technology,41,147 W 35th St,40.75156089574122,-73.98901459578161,4bf58dd8d48988d124941735,Office
+60,Kaufman Arcade,41102700f964a520d60b1fe3,Macy's,55,151 W 34th St,40.7508025,-73.98948349999999,4bf58dd8d48988d1f6941735,Department Store
+65,Kaufman Arcade,5d8dc3b92b655f0008086029,Lovesac at Macy's Herald Square,55,151 W 34th St Fl 9,40.7508025,-73.98948349999998,4bf58dd8d48988d1f8941735,Furniture / Home Store
+75,Kaufman Arcade,595d2cb3a6031c40dfce312b,BCBGeneration at Macy's,91,151 W 34th St,40.75059829999999,-73.988334,4bf58dd8d48988d103951735,Clothing Store
+502,Luna Arcade,4c6344d3fa7bc928c2521027,Brooklyn Flyer,7,"1000 Surf Ave, Coney Island",40.57457525180408,-73.97867430705583,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+500,Luna Arcade,4c2a954b2219c928755ca348,The Tickler,9,"1000 Surf Avenue, Coney Island",40.574686484139015,-73.97866530277221,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+509,Luna Arcade,4c59abc704f9be9a3ee3ef60,Wild River,30,1000 Surf Ave,40.57459176316695,-73.97837999681009,4bf58dd8d48988d182941735,Theme Park
+510,Luna Arcade,612bcb88cc4e80273465eb8d,Atlantic Aviator,33,No Address,40.574416,-73.978443,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+504,Luna Arcade,607b3a818c20a4708925d94c,Bumper Cars,36,No Address,40.574401,-73.979054,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+516,Luna Arcade,4c59aaed5c57c9b6865b1b4a,Electro Spin,36,"1000 Surf Ave, Coney Island",40.57429407013017,-73.97878605072101,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+514,Luna Arcade,4c59ab7ed3aee21e9dcb6855,Thunder Bolt,37,1000 Surf Ave,40.57430421,-73.97887689,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+503,Luna Arcade,5b8c4856419a9e002cca353d,Sea Side Swing,41,No Address,40.574295,-73.978498,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+501,Luna Arcade,4bd842d2f645c9b63a77a7e0,Luna Park,48,1000 Surf Ave,40.57418602653488,-73.97878174628191,4bf58dd8d48988d182941735,Theme Park
+506,Luna Arcade,556fcfa2498ef374535991cb,Luna 360,50,No Address,40.575011906597865,-73.97844312893614,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+507,Luna Arcade,4c43c87bdcd61b8d4b8a7a56,Spook-a-Rama,75,No Address,40.573998378287456,-73.97910250753341,4bf58dd8d48988d182941735,Theme Park
+508,Luna Arcade,4a7b02b9f964a520cbe91fe3,Deno's Wonder Wheel,75,1025 Boardwalk W,40.57400777752365,-73.97910812128734,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+505,Luna Arcade,5b833155b040560039f41a08,Coney Clipper,88,No Address,40.573927000000005,-73.97823000000001,4bf58dd8d48988d182941735,Theme Park
+511,Luna Arcade,51feb7c5498e3df58fa1d80a,Deno's Wonder Wheel Amusement Park,102,1025 Boardwalk W,40.5738179905465,-73.97933407094784,4bf58dd8d48988d182941735,Theme Park
+517,Luna Arcade,4d5bea841da1cbff3a811a05,Mermaid Parade Ride,121,1000 Surf Ave,40.57357050702873,-73.97833675146103,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+512,Luna Arcade,4e31c5cf1520b5aee2203558,Coneys Cones,137,1409 Mermaid Ave,40.57338628050546,-73.97887697971531,4bf58dd8d48988d1c9941735,Ice Cream Shop
+519,Luna Arcade,4c44c0e9dd1f2d7f4b4c80f9,Gyro Corner,153,No Address,40.573459125305476,-73.97970576685249,4bf58dd8d48988d14e941735,American Restaurant
+513,Luna Arcade,4bafaa5df964a52066153ce3,Nathan's Famous,250,1310 Surf Ave,40.57546706646261,-73.98147694724416,4bf58dd8d48988d16f941735,Hot Dog Joint
+515,Luna Arcade,4a4a9cbcf964a520ffab1fe3,Golden Taste,15768,42 Bowery,40.715603,-73.996907,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+280,Mermaid Parade Ride,4ba51013f964a520b4d738e3,Paul's Daughter,15,Boardwalk,40.573433125203024,-73.97836391306038,4bf58dd8d48988d16f941735,Hot Dog Joint
+282,Mermaid Parade Ride,4d5be8fd1da1cbff53761a05,Beach Shack,15,1000 Surf Ave,40.57367950405757,-73.97822678089142,4bf58dd8d48988d182941735,Theme Park
+287,Mermaid Parade Ride,612bbe92844b27193bb9ca0c,Windstarz,22,No Address,40.573617999999996,-73.978601,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+292,Mermaid Parade Ride,4e35b3611838f85189a9ae15,Coney Island Blue Fairy,33,No Address,40.57336215905652,-73.97861530732206,4deefb944765f83613cdba6e,Historic Site
+294,Mermaid Parade Ride,4d5be9dc1da1cbff5b7c1a05,Happy Swing,34,1000 Surf Ave,40.5738321274642,-73.97855217526512,4bf58dd8d48988d182941735,Theme Park
+286,Mermaid Parade Ride,5b833155b040560039f41a08,Coney Clipper,40,No Address,40.573927000000005,-73.97823000000001,4bf58dd8d48988d182941735,Theme Park
+289,Mermaid Parade Ride,4d5bead41da1cbff71831a05,Tea Party,41,1000 Surf Ave,40.57366552305894,-73.97881044263973,4bf58dd8d48988d182941735,Theme Park
+293,Mermaid Parade Ride,4e407d7afa7697d3df7d7408,Flix On The Beach,44,Coney Island Beach,40.57319726425606,-73.97813613224007,4bf58dd8d48988d1e2941735,Beach
+296,Mermaid Parade Ride,4c2ceafd8ef52d7f31ae33ba,Water Mania,60,1000 Surf Ave,40.574108,-73.978415,4bf58dd8d48988d182941735,Theme Park
+291,Mermaid Parade Ride,4db70c07a86e8d2707b820dd,Tilt-a-whirl,66,No Address,40.573714281938884,-73.97909740598244,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+285,Mermaid Parade Ride,4bd842d2f645c9b63a77a7e0,Luna Park,78,1000 Surf Ave,40.57418602653488,-73.97878174628191,4bf58dd8d48988d182941735,Theme Park
+283,Mermaid Parade Ride,4a7b02b9f964a520cbe91fe3,Deno's Wonder Wheel,81,1025 Boardwalk W,40.57400777752365,-73.97910812128734,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+284,Mermaid Parade Ride,5d61b060dacf3800086da08f,Half Moon Funnel Cakes,85,Coney Island,40.574321000000005,-73.978539,56aa371be4b08b9a8d57350b,Food Stand
+290,Mermaid Parade Ride,607b3a818c20a4708925d94c,Bumper Cars,110,No Address,40.574401,-73.979054,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+281,Mermaid Parade Ride,49e4a769f964a52015631fe3,Coney Island Beach & Boardwalk,114,Riegelmann Boardwalk,40.57260479999999,-73.978786,4bf58dd8d48988d1e2941735,Beach
+298,Mermaid Parade Ride,4c44c0e9dd1f2d7f4b4c80f9,Gyro Corner,116,No Address,40.573459125305476,-73.97970576685249,4bf58dd8d48988d14e941735,American Restaurant
+299,Mermaid Parade Ride,4bef0ae6c80dc928596927e3,Shoot The Freak,187,No Address,40.573174953460686,-73.98049,4bf58dd8d48988d1e1931735,Arcade
+288,Mermaid Parade Ride,4a20bdddf964a520be7c1fe3,The Cyclone,189,834 Surf Ave,40.575225290170096,-73.97781754616965,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+297,Mermaid Parade Ride,51d7757d498eee1e6b1bfa40,Coney Island Fireworks,203,West 17- Stillwell Avenue,40.57366937860385,-73.98073882807061,4bf58dd8d48988d165941735,Scenic Lookout
+196,Moto Arcade,4eb833b14fc6167a83b5593d,CNET Gotham,1,201 Mulberry St,40.72163217545263,-73.99658918380737,4bf58dd8d48988d171941735,Event Space
+181,Moto Arcade,5f3ebb7f354c107b17b70da9,O.N.S Clothing,5,201 Mulberry St,40.721567,-73.996596,4bf58dd8d48988d106951735,Men's Store
+180,Moto Arcade,5e64067e3703e0000830e2a1,Veja,7,205 Mulberry St,40.72157287597656,-73.99652099609375,4bf58dd8d48988d107951735,Shoe Store
+188,Moto Arcade,4bf0703517880f4748522937,205 Mulberry St,7,205 Mulberry St,40.72157287597656,-73.99652099609375,4bf58dd8d48988d1f6931735,General Travel
+189,Moto Arcade,4caf71af5430b71355603616,Insound Design Store,7,201 Mulberry St,40.721546797199686,-73.99656236171721,4bf58dd8d48988d10d951735,Record Shop
+197,Moto Arcade,57f0263bcd10af69ef87e61c,giphy loop dreams,8,201 Mulberry St,40.721542,-73.996549,4bf58dd8d48988d1e2931735,Art Gallery
+194,Moto Arcade,4d46e0d114aa8cfabfb9813d,Digital Clarity NYC HQ,10,275 Mott St Apt 2F,40.721687,-73.996507,4bf58dd8d48988d124941735,Office
+195,Moto Arcade,4db303bd0437fa536a09b62c,Dig Daniel Arsham Snarkitechture,10,Kenmare,40.721687,-73.996507,4bf58dd8d48988d124941735,Office
+191,Moto Arcade,4e08ab327d8b2a018061c43c,Rocawear Style Suite #ThatsRocawear,13,201 Mulberry St,40.72173178195953,-73.99662694285712,4d4b7105d754a06378d81259,Shop & Service
+183,Moto Arcade,3fd66200f964a5203fe61ee3,Malia Mills,15,199 Mulberry St,40.72147392847805,-73.99657314368916,4bf58dd8d48988d104951735,Boutique
+184,Moto Arcade,50ca76dee4b06fef13b5a5c2,R29 Tinseltown Bazaar,15,No Address,40.72158314264689,-73.99676949191729,4bf58dd8d48988d103951735,Clothing Store
+193,Moto Arcade,4e1c771652b1c2b69f352f82,The Spot by Heineken,18,201 Mulberry St,40.721456379435786,-73.9965233186853,4bf58dd8d48988d121941735,Lounge
+192,Moto Arcade,526d5e6c11d2e12573ca318e,Motorola,21,201 Mulberry St,40.72146880768898,-73.99675056632964,4bf58dd8d48988d1f1931735,General Entertainment
+190,Moto Arcade,4bfda1fbb68d0f47b013e957,Open House Studios,25,No Address,40.721833000000004,-73.996496,4bf58dd8d48988d171941735,Event Space
+199,Moto Arcade,4f35b2efe4b0fc67a759cfc8,LuLus Style Studio,48,No Address,40.72198691332091,-73.99688829591489,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+182,Moto Arcade,4ab7a81ef964a520557a20e3,Vive La Crêpe,49,51 Spring St,40.72206402561164,-73.99656737344651,52e81612bcbc57f1066b79f2,Creperie
+185,Moto Arcade,56bbc58e498eed7b2c402556,Pasquale Jones,61,187 Mulberry St,40.721078399999996,-73.9967554,4bf58dd8d48988d1ca941735,Pizza Place
+198,Moto Arcade,5adf87fc9e3b65333d724b66,Van Leeuwen Ice Cream,69,45 Spring St,40.722108,-73.996085,4bf58dd8d48988d1c9941735,Ice Cream Shop
+187,Moto Arcade,54144ba5498e6b1091d9eb05,PaintBox NoLita,121,22 Spring,40.72139182,-73.99517783,554a5e17498efabeda6cc559,Photography Studio
+186,Moto Arcade,4be078b398f2a5935a5dc25a,Holland Tunnel,2169,Interstate 78,40.72737259531574,-74.0211582183838,52f2ab2ebcbc57f1066b8b4a,Tunnel
+200,MotoArcade!,5f3ebb7f354c107b17b70da9,O.N.S Clothing,6,201 Mulberry St,40.721567,-73.996596,4bf58dd8d48988d106951735,Men's Store
+213,MotoArcade!,4ee29b54e4b04d212f81b1c0,Lizzmonade,7,"201 Mulberry St, New York, NY 10012",40.721527881360814,-73.99674482759477,4bf58dd8d48988d112941735,Juice Bar
+205,MotoArcade!,50ca76dee4b06fef13b5a5c2,R29 Tinseltown Bazaar,8,No Address,40.72158314264689,-73.99676949191729,4bf58dd8d48988d103951735,Clothing Store
+209,MotoArcade!,4caf71af5430b71355603616,Insound Design Store,9,201 Mulberry St,40.721546797199686,-73.99656236171721,4bf58dd8d48988d10d951735,Record Shop
+219,MotoArcade!,4bffac70ca1920a13a13ed81,Play Beautiful,9,201 Mulberry St,40.721557000000004,-73.99655600000001,4bf58dd8d48988d171941735,Event Space
+208,MotoArcade!,57f0263bcd10af69ef87e61c,giphy loop dreams,10,201 Mulberry St,40.721542,-73.996549,4bf58dd8d48988d1e2931735,Art Gallery
+211,MotoArcade!,4eb833b14fc6167a83b5593d,CNET Gotham,10,201 Mulberry St,40.72163217545263,-73.99658918380737,4bf58dd8d48988d171941735,Event Space
+201,MotoArcade!,5e64067e3703e0000830e2a1,Veja,12,205 Mulberry St,40.72157287597656,-73.99652099609375,4bf58dd8d48988d107951735,Shoe Store
+216,MotoArcade!,526d5e6c11d2e12573ca318e,Motorola,12,201 Mulberry St,40.72146880768898,-73.99675056632964,4bf58dd8d48988d1f1931735,General Entertainment
+217,MotoArcade!,4bf0703517880f4748522937,205 Mulberry St,12,205 Mulberry St,40.72157287597656,-73.99652099609375,4bf58dd8d48988d1f6931735,General Travel
+204,MotoArcade!,3fd66200f964a5203fe61ee3,Malia Mills,13,199 Mulberry St,40.72147392847805,-73.99657314368916,4bf58dd8d48988d104951735,Boutique
+212,MotoArcade!,57f05d8e498e8431c79bfe52,201 Mulberry Street,14,201 Mulberry St,40.72148999002563,-73.9968099063273,4bf58dd8d48988d171941735,Event Space
+207,MotoArcade!,4e1c771652b1c2b69f352f82,The Spot by Heineken,17,201 Mulberry St,40.721456379435786,-73.9965233186853,4bf58dd8d48988d121941735,Lounge
+215,MotoArcade!,4e08ab327d8b2a018061c43c,Rocawear Style Suite #ThatsRocawear,18,201 Mulberry St,40.72173178195953,-73.99662694285712,4d4b7105d754a06378d81259,Shop & Service
+210,MotoArcade!,4fecd6ece4b018f9cfc4927b,For Humankind,27,201 Mulberry St,40.721582663484256,-73.99699733176631,4bf58dd8d48988d171941735,Event Space
+218,MotoArcade!,4bfda1fbb68d0f47b013e957,Open House Studios,33,No Address,40.721833000000004,-73.996496,4bf58dd8d48988d171941735,Event Space
+206,MotoArcade!,56bbc58e498eed7b2c402556,Pasquale Jones,54,187 Mulberry St,40.721078399999996,-73.9967554,4bf58dd8d48988d1ca941735,Pizza Place
+203,MotoArcade!,4ab7a81ef964a520557a20e3,Vive La Crêpe,56,51 Spring St,40.72206402561164,-73.99656737344651,52e81612bcbc57f1066b79f2,Creperie
+202,MotoArcade!,49ee25b6f964a5202b681fe3,Eileen's Special Cheesecake,69,17 Cleveland Pl,40.72159493364086,-73.99749153217225,4bf58dd8d48988d16a941735,Bakery
+214,MotoArcade!,6036bbabf90ecb573631ff04,5ive Spice,95,227 Mulberry St,40.722269,-73.996018,4bf58dd8d48988d14a941735,Vietnamese Restaurant
+727,New York Arcade Rentals,4babf3aef964a5208ad83ae3,Hope For New York,1,1359 Broadway,40.75184631347656,-73.98795318603516,4bf58dd8d48988d132941735,Church
+732,New York Arcade Rentals,555382b5498ea01f89c08fe0,Nyserda,1,1359 Broadway,40.75184631347656,-73.98795318603516,4bf58dd8d48988d171941735,Event Space
+737,New York Arcade Rentals,50dc839be4b0e04beb53dc56,Meu Mar Cafe,4,No Address,40.7518379898633,-73.98800453505906,4bf58dd8d48988d152941735,Arepa Restaurant
+736,New York Arcade Rentals,50e60133e4b026ac77cd5817,Mithaas,8,No Address,40.75178955846728,-73.98799305706578,4bf58dd8d48988d1c7941735,Snack Place
+723,New York Arcade Rentals,5a7c59a8d807ee6bad5fab2c,Sisense,13,1359 Broadway,40.751821882637245,-73.98780379234094,4bf58dd8d48988d125941735,Tech Startup
+738,New York Arcade Rentals,50de0f33e4b0073e9fd0e02d,Metropolitan National Bank,14,No Address,40.75193529483892,-73.9881020979744,4bf58dd8d48988d10a951735,Bank
+721,New York Arcade Rentals,4be882394485d13a3d0f94ee,The UPS Store,20,121 W 36th St,40.75179443582081,-73.98817905039209,52f2ab2ebcbc57f1066b8b1f,Shipping Store
+730,New York Arcade Rentals,57dddade498eaf06318e5a86,Lan Sheng Szechuan Restaurant 草堂小餐,26,128 W 36th St,40.75167527076857,-73.98815322279674,52af3b773cf9994f4e043c03,Szechuan Restaurant
+734,New York Arcade Rentals,5de9b7488a06ab0008578d52,Wolfgang’s Steakhouse,26,1359 Broadway,40.751908,-73.987646,4bf58dd8d48988d1cc941735,Steakhouse
+724,New York Arcade Rentals,4b1ecf0df964a520d11f24e3,Redeemer Presbyterian Offices,27,1359 Broadway,40.75189536207752,-73.98762995127234,4bf58dd8d48988d124941735,Office
+725,New York Arcade Rentals,51d192f2e4b0e66b7c30573f,"SLCE Architects, LLP",27,1359 Broadway,40.75170276714466,-73.98771229029697,4bf58dd8d48988d124941735,Office
+720,New York Arcade Rentals,4c56bba812f0d13afb6b05ad,1359 Broadway,28,1359 Broadway,40.751653396287864,-73.98776770182906,4bf58dd8d48988d130941735,Building
+731,New York Arcade Rentals,523b2f7311d23d66548a6723,Fresh & Co,28,1359 Broadway,40.751614942792585,-73.98788730197478,4bf58dd8d48988d14e941735,American Restaurant
+733,New York Arcade Rentals,4b97e422f964a520171d35e3,NY Real Estate Institute,30,139 W 35th St.,40.751740733057424,-73.98827409430507,4bf58dd8d48988d1a8941735,General College & University
+735,New York Arcade Rentals,5ce483eafb8e59002c1409d3,Secret Eyelash,37,1369 Broadway,40.75215530395508,-73.98773193359375,54541900498ea6ccd0202697,Health & Beauty Service
+739,New York Arcade Rentals,4b4facbff964a5204b1027e3,Chopstick House,56,130 W 36th St,40.7514533996582,-73.98835754394531,4bf58dd8d48988d145941735,Chinese Restaurant
+722,New York Arcade Rentals,5723922f498efa17d6ffb135,Shake Shack,73,1333 Broadway,40.751253113104504,-73.98762983461616,4bf58dd8d48988d16c941735,Burger Joint
+728,New York Arcade Rentals,4c75a1d0c219224bfd20a328,Capitol Bait & Tackle,76,132 W 36th St,40.751454,-73.988682,52f2ab2ebcbc57f1066b8b16,Fishing Store
+726,New York Arcade Rentals,51a9070f698f1d8a4bcfc8aa,Citi Bike Station,119,Broadway,40.752848983798046,-73.9873948340213,4e4c9077bd41f78e849722f9,Bike Rental / Bike Share
+729,New York Arcade Rentals,41102700f964a520d60b1fe3,Macy's,174,151 W 34th St,40.7508025,-73.98948349999999,4bf58dd8d48988d1f6941735,Department Store
+354,Sahil's Arcade Of Good Times,51dacc1c498e145832582033,St. John's Garden,9,210 W 31st St,40.74925838662004,-73.99237395348631,4bf58dd8d48988d15a941735,Garden
+355,Sahil's Arcade Of Good Times,51fd143e498e8751ffd865ad,Vanderbilt Statue,10,No Address,40.74931750451884,-73.99239597435728,4deefb944765f83613cdba6e,Historic Site
+346,Sahil's Arcade Of Good Times,4f747879e4b0b3e2370f78c1,Samuel Rea Statue,11,No Address,40.74928105718017,-73.99236023679022,4bf58dd8d48988d162941735,Other Great Outdoors
+353,Sahil's Arcade Of Good Times,4f6b8f1fe4b0ef1d48d9f356,Fundspire,14,"29, Newark, NJ 07103",40.749123118920714,-73.99252681099746,4bf58dd8d48988d174941735,Coworking Space
+357,Sahil's Arcade Of Good Times,52de9b97498e62eda5ffe81c,North Chelsea Park,15,No Address,40.749383478435156,-73.99242351146776,4bf58dd8d48988d163941735,Park
+358,Sahil's Arcade Of Good Times,507ff4cde4b0889aa65e8ddb,comScore,18,7 Penn Plz,40.74916375457572,-73.992293583512,4bf58dd8d48988d124941735,Office
+342,Sahil's Arcade Of Good Times,4e528a3d62e1f6d84aa99d95,"Sonnenschein, Sherman & Deutsch, LLP",24,7 Penn Plaza,40.74915,-73.992233,4bf58dd8d48988d127941735,Conference Room
+351,Sahil's Arcade Of Good Times,4da73cb3f7b15dc952f603dc,Century Management,30,7 Penn Plz,40.74898069625532,-73.99249237782708,4bf58dd8d48988d130941735,Building
+343,Sahil's Arcade Of Good Times,4bffd57792a6c928a42443e2,Track 01,34,Penn Station,40.74952221569745,-73.99230004567735,4f4531504b9074f6e4fb0102,Platform
+350,Sahil's Arcade Of Good Times,4a85b1b3f964a520eefe1fe3,Starbucks,35,370 7th Ave,40.7489585,-73.99231501,4bf58dd8d48988d1e0931735,Coffee Shop
+359,Sahil's Arcade Of Good Times,4b0ada59f964a520e62823e3,Capital One Bank,37,370 7th Ave,40.74892044067383,-73.9925537109375,4bf58dd8d48988d10a951735,Bank
+348,Sahil's Arcade Of Good Times,527ace28498ecdcebc44d896,Internap,38,370 7th Ave Fl 17,40.748912,-73.992544,4bf58dd8d48988d125941735,Tech Startup
+347,Sahil's Arcade Of Good Times,4bd5d354637ba5935f18f770,Seven Penn Plaza,42,7 Penn Plz,40.748873915529636,-73.99256897125528,4bf58dd8d48988d124941735,Office
+341,Sahil's Arcade Of Good Times,5dcc85223f657e000848a2cc,Tracks Raw Bar & Grill,53,220 W 31st St,40.74945,-73.993065,4bf58dd8d48988d11d941735,Sports Bar
+349,Sahil's Arcade Of Good Times,4e90d9d96da174e28e72affc,New York Rangers Locker Room,69,4 Penn Plz,40.74987325417217,-73.99237186168206,4f4528bc4b90abdf24c9de85,Athletics & Sports
+340,Sahil's Arcade Of Good Times,42911d00f964a520f5231fe3,New York Penn Station,107,1 Penn Plz,40.7501992792495,-73.99274826049805,4bf58dd8d48988d129951735,Train Station
+344,Sahil's Arcade Of Good Times,4ae6363ef964a520aba521e3,Madison Square Garden,189,4 Penn Plz,40.75075196505169,-73.99354219436646,4bf58dd8d48988d18b941735,Basketball Stadium
+345,Sahil's Arcade Of Good Times,578e6500cd10fae9c60a2a8a,Moynihan Train Hall,292,340 W 33rd St,40.75107,-73.99499,4bf58dd8d48988d129951735,Train Station
+356,Sahil's Arcade Of Good Times,4c0fa2d698102d7fe482e506,Passport Magazine,350,247 W 35th St Fl 12,40.752377760036076,-73.99196358189953,4bf58dd8d48988d124941735,Office
+352,Sahil's Arcade Of Good Times,60bc32b1cc9b0b61eba15130,Plan B,473,34 W 32nd St Fl 2,40.74779,-73.987216,4bf58dd8d48988d116941735,Bar
+541,Showplace Arcade,4dff4d2fe4cdf7246078091e,Pratt Industries,177,4435 Victory Blvd,40.588761903362645,-74.20033949588694,4bf58dd8d48988d130941735,Building
+540,Showplace Arcade,4bd8d7692e6f0f47c2e10808,Visy Paper,239,4435 Victory Blvd,40.589431412547775,-74.20115716077741,4f4531084b9074f6e4fb0101,Recycling Facility
+542,Showplace Arcade,4f2ada60e4b09f4f37cb797a,family tile,287,No Address,40.58723068237305,-74.19770812988281,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+544,Showplace Arcade,4c3330c5452620a1cb24230f,Arthur Kill Generating Station,333,4401 Victory Blvd,40.585797,-74.19767900000002,4bf58dd8d48988d124941735,Office
+554,Showplace Arcade,4c49fd4cbad7a593fc77c3a9,CITGO,613,172 W Service Rd,40.58918,-74.194294,4bf58dd8d48988d113951735,Gas Station
+552,Showplace Arcade,4c5efb6b9b28d13a73bf5d70,Dunkin',615,"180 West Service Rd, Citgo Gas Station",40.58918082560613,-74.19426650413067,4bf58dd8d48988d148941735,Donut Shop
+551,Showplace Arcade,5f3d520b2d715a0bdba65de0,Crunch Fitness - Staten Island,616,300 West Service Road,40.586164200000006,-74.1939571,4bf58dd8d48988d176941735,Gym
+558,Showplace Arcade,4b47047cf964a520942a26e3,New York Sports Club,652,300 W Service Rd,40.586168799999996,-74.1935239,4bf58dd8d48988d176941735,Gym
+545,Showplace Arcade,4f848c6a7b0c58977ce216b8,Staten Island Department of Sanitation Facility,656,Exit 7 Service Road off of West Shore Expressway,40.58976735141164,-74.19406414031981,4bf58dd8d48988d130941735,Building
+546,Showplace Arcade,4e61b9c8b0fb188e8d65d2e3,KMI Carteret Dock 1B,719,No Address,40.585908523695615,-74.20941750916809,4d4b7105d754a06375d81259,Professional & Other Places
+549,Showplace Arcade,4c86d2a2110176b09e3db340,LA Fitness,792,145 E Service Rd,40.58818761819296,-74.19180726782817,4bf58dd8d48988d176941735,Gym
+547,Showplace Arcade,4ccaea0ac4d06dcb45266603,Jimmy Hoffa Final Resting Place,814,West Shore Exwy w Srv Road,40.5852445464785,-74.19184734526436,4bf58dd8d48988d15c941735,Cemetery
+555,Showplace Arcade,58cec21a6c682b714f1e8f6e,Hook & Rail Meats,819,4174 Victory Blvd,40.590509999999995,-74.19239,4bf58dd8d48988d11d951735,Butcher
+559,Showplace Arcade,4d2a093e467d6ea84fb8d495,Nrgize,825,145 E Service Rd,40.588044000000004,-74.191395,4bf58dd8d48988d112941735,Juice Bar
+550,Showplace Arcade,5cd28f037dc9e1002c64e0f9,Fairfield Inn & Suites by Marriott New York Staten Island,839,290 Wild Avenue,40.586899100000004,-74.1911844,4bf58dd8d48988d1fa931735,Hotel
+553,Showplace Arcade,59fe09012079557b03858a2d,Staten Island New York Hotel,858,290 Wild Ave,40.586781,-74.190973,4bf58dd8d48988d1fa931735,Hotel
+557,Showplace Arcade,4cafdb3175ebb60c8b00c0ad,The Cellar,904,No Address,40.586651819766786,-74.19044280652439,4bf58dd8d48988d123941735,Wine Bar
+548,Showplace Arcade,4f43b29be4b0ee9b22920dcc,DSNY Transfer Station,1084,Fresh Kills,40.57997235527328,-74.19262127021553,4bf58dd8d48988d126941735,Government Building
+543,Showplace Arcade,4c3c58bc7d00d13a1cb93850,Kinder Morgan Bulk Storage Terminal,1139,Peter J Sica Industrial Hwy,40.582518275685395,-74.21304025167912,4bf58dd8d48988d124941735,Office
+556,Showplace Arcade,4c4440dc74ffc928bb3c75cc,Kinder Morgan,1152,78 Lafayette St,40.589964511946505,-74.21427838784939,4eb1bea83b7b6f98df247e06,Factory
+310,Washington Heights Arcade and Bingo,4e62a39cd4c06542ab0c849b,J & J New York,10,585 W 181st St,40.849316,-73.933051,4bf58dd8d48988d108951735,Women's Store
+300,Washington Heights Arcade and Bingo,4b4255c0f964a520d1d125e3,Washington Heights Family Health Center,16,575 W 181st St,40.849218214743736,-73.93315878509,4bf58dd8d48988d177941735,Doctor's Office
+308,Washington Heights Arcade and Bingo,4e27086a483b329ccb40b65d,Delta Computer,16,No Address,40.84928154945255,-73.9329886436441,4bf58dd8d48988d122951735,Electronics Store
+307,Washington Heights Arcade and Bingo,4e9db7a8b6348df6f73e051c,Doctor's Office,19,No Address,40.84919067189765,-73.93309746924923,4bf58dd8d48988d177941735,Doctor's Office
+304,Washington Heights Arcade and Bingo,4d1ea6310901721e024e84a5,MTA Bus - BX3 - Broadway,22,Broadway,40.84921641300949,-73.93332709431095,4bf58dd8d48988d1fe931735,Bus Station
+311,Washington Heights Arcade and Bingo,4e2705f0b61ce3fb0554516c,181 St. NYPH Clinic,23,No Address,40.84915280341984,-73.93311738967681,4bf58dd8d48988d104941735,Medical Center
+306,Washington Heights Arcade and Bingo,4fb6848be4b07a70ece42bd5,Papi's Pizzeria,30,1422 Saint Nicholas Ave,40.849445648037204,-73.93349931292883,4bf58dd8d48988d1ca941735,Pizza Place
+314,Washington Heights Arcade and Bingo,4e5313a918a8c0ad8f6b0285,MABSTOA BX13,32,181 Street & St. Nicholas Ave,40.849455999999996,-73.93351972103119,4bf58dd8d48988d12b951735,Bus Line
+302,Washington Heights Arcade and Bingo,4b3d0918f964a5207b8c25e3,MTA Subway - 181st St (1),33,W 181st St.,40.84947047813713,-73.93351924434106,4bf58dd8d48988d1fd931735,Metro Station
+312,Washington Heights Arcade and Bingo,4e9204d99adf18f8825bba7e,Zodiac,37,No Address,40.849272656424816,-73.9335854221804,4bf58dd8d48988d108951735,Women's Store
+318,Washington Heights Arcade and Bingo,4bcdf9b0fb84c9b63cf4223e,Washington Heights Corner Project,39,566 W 181st St,40.849131151326226,-73.93349640627314,4bf58dd8d48988d124941735,Office
+301,Washington Heights Arcade and Bingo,50622a2fe4b0a433c33f183f,181st Street & St. Nicholas Avenue,50,181st Street,40.84931972393604,-73.93374534151803,4d954b16a243a5684b65b473,Rest Area
+315,Washington Heights Arcade and Bingo,4ee2c41177c8e89316832d54,181 Street Shopping Center,51,No Address,40.84893054592818,-73.93335579742457,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+303,Washington Heights Arcade and Bingo,4c08e1907e3fc928a3f1f082,Dunkin',54,1416 Saint Nicholas Ave,40.848971559412725,-73.93354349109637,4bf58dd8d48988d148941735,Donut Shop
+305,Washington Heights Arcade and Bingo,567ef37d498eb25ea637c311,Taco GoGo,59,564 W 181st St,40.848933,-73.933573,4bf58dd8d48988d151941735,Taco Place
+309,Washington Heights Arcade and Bingo,4f32ed5be4b04cda14e48b08,NYC Business Solutions,59,560 W 181st St,40.848862,-73.93339300000002,4bf58dd8d48988d126941735,Government Building
+316,Washington Heights Arcade and Bingo,4bd33cb241b9ef3b63a2ffe5,The Children's Place,70,600 W 181st St,40.849345875312096,-73.93399132525082,4bf58dd8d48988d105951735,Kids Store
+313,Washington Heights Arcade and Bingo,60d0b3042678d47abf9da7a0,Target,91,602 W. 181st St,40.84941368873314,-73.93423448922316,52f2ab2ebcbc57f1066b8b42,Big Box Store
+317,Washington Heights Arcade and Bingo,4c51db817f6e20a1eb8ecbea,That's Amore Pizza,96,1415 St Nicholas ave,40.84883475731,-73.9340603618281,4bf58dd8d48988d1ca941735,Pizza Place
+319,Washington Heights Arcade and Bingo,4afcba6af964a5206d2522e3,La Casa del Mofongo,100,1447 Saint Nicholas Ave,40.85026656753515,-73.9331453236254,4bf58dd8d48988d144941735,Caribbean Restaurant
+462,Young's Video Arcade Games and Internet Service,4e53d7946365676e99de22ec,Jimmy Jazz,29,46 Belmont Ave,40.668806849370334,-73.90764713287355,4bf58dd8d48988d103951735,Clothing Store
+478,Young's Video Arcade Games and Internet Service,4c7c060ca8683704ab1f184d,China Pavillion,37,70 Belmomy ave,40.668330526721746,-73.90812986501366,4bf58dd8d48988d145941735,Chinese Restaurant
+474,Young's Video Arcade Games and Internet Service,5ee000964e0cfe1cad546687,Collective Fare,43,69 Belmont Ave,40.6689696033062,-73.907820135355,4bf58dd8d48988d1c4941735,Restaurant
+461,Young's Video Arcade Games and Internet Service,591f560d5d891b595c6f7b19,Brownsville Community Culinary Center by Melting Pot Foundation,49,69 Belmont Ave,40.669016,-73.90789000000002,58daa1558bbb0b01f18ec200,Cooking School
+464,Young's Video Arcade Games and Internet Service,4e7de7928231e88c0cc2c6f9,Nails Spa,91,No Address,40.66865529634614,-73.90674619057694,4bf58dd8d48988d1de931735,Tattoo Parlor
+460,Young's Video Arcade Games and Internet Service,551f0ef9498e51f9cac6b5e3,Dollar Tree,99,39  Belmont Ave,40.66861485221681,-73.90899680955026,52dea92d3cf9994f4e043dbb,Discount Store
+465,Young's Video Arcade Games and Internet Service,4e7614a4c65bb91db4a40674,People's Choice Meat Warehouse,104,134 Osborn St,40.668914,-73.908974,4bf58dd8d48988d118951735,Grocery Store
+469,Young's Video Arcade Games and Internet Service,4c50b8375ee81b8d87ec07ff,NYCHA - Langston Hughes Apartments,104,301 Sutter Ave,40.66772567091654,-73.90834803684969,4f2a210c4b9023bd5841ed28,Housing Development
+470,Young's Video Arcade Games and Internet Service,4c0140e59a950f4772cc08c6,M. Slavin & Sons,120,31 Belmont Ave,40.668821,-73.909213,4bf58dd8d48988d1ce941735,Seafood Restaurant
+466,Young's Video Arcade Games and Internet Service,528bafe611d2cef4e5aa0ac7,CTown Supermarkets,129,29 Belmont Ave,40.668719393548095,-73.90934363007545,4bf58dd8d48988d118951735,Grocery Store
+479,Young's Video Arcade Games and Internet Service,4f3260c919836c91c7d1e640,Belmont Coffee Shop,137,101 Belmont Ave,40.669159,-73.906384,4bf58dd8d48988d1e0931735,Coffee Shop
+473,Young's Video Arcade Games and Internet Service,6092aa665db92416d269830a,B14 Pitkin Ave & Osborn St,163,Pitkin Ave,40.669940000000004,-73.908546,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+468,Young's Video Arcade Games and Internet Service,4e698e83b0fb8b8a83d21a2f,Ps 284,169,No Address,40.66745190662365,-73.90647634421009,4bf58dd8d48988d1ad941735,Trade School
+467,Young's Video Arcade Games and Internet Service,4e98b45d2c5bf1484659a444,Cherry Valley Market,177,381 Mother Gaston Blvd,40.669712,-73.906351,52f2ab2ebcbc57f1066b8b46,Supermarket
+471,Young's Video Arcade Games and Internet Service,4fdb8a9d7e27bf02d38648f4,FDNY Engine 231/Ladder 120,220,107 Watkins St,40.67055892944336,-73.90795135498047,4bf58dd8d48988d12c941735,Fire Station
+475,Young's Video Arcade Games and Internet Service,54076ef3498ee6cd30789864,Planet Fitness,227,441 Rockaway Ave,40.66910390451917,-73.91042914229027,4bf58dd8d48988d175941735,Gym / Fitness Center
+463,Young's Video Arcade Games and Internet Service,4dc815697d8b14fb46690e0c,Hair Town Beauty Supply,247,470 Rockaway Ave,40.668482,-73.910752,4d4b7105d754a06378d81259,Shop & Service
+476,Young's Video Arcade Games and Internet Service,4cec643f82125481584b59a1,Hair And Nail Spa,276,1699 Pitkin Ave,40.669957,-73.91055,4bf58dd8d48988d10c951735,Cosmetics Shop
+472,Young's Video Arcade Games and Internet Service,4b6382bdf964a520997f2ae3,NYCHA - Brownsville Houses,302,284 Sutter Ave,40.66593190381608,-73.9086351046828,4f2a210c4b9023bd5841ed28,Housing Development
+477,Young's Video Arcade Games and Internet Service,4de3c920ae60e7f3ac0ef275,Bargain Hunter,764,1530 Pitkin Ave,40.668539,-73.91687900000002,52dea92d3cf9994f4e043dbb,Discount Store
+603,arcade edit,4f0da371e4b03684a48bcc5c,Universum New York,8,129 W 29th St,40.747252782038906,-73.99131590745871,4bf58dd8d48988d124941735,Office
+612,arcade edit,4dac4a2d43a1128197226b24,"Rocket Fuel, Inc.",8,129 W 29th St Fl 8,40.74724477201429,-73.99134281647956,4bf58dd8d48988d125941735,Tech Startup
+602,arcade edit,50aba1ace4b082c93a8482af,Pioneers Bar,9,138 W 29th St,40.74710078537464,-73.99123951792717,4bf58dd8d48988d116941735,Bar
+607,arcade edit,5caf7e3d31ac6c002c4a3f41,Steak N’ Lobster,10,129 W 29th St,40.747147999999996,-73.99141800000001,4bf58dd8d48988d1cc941735,Steakhouse
+600,arcade edit,4ba62bfff964a520d63839e3,Digital Arts,11,130 W 29th St Fl 8,40.74725114729817,-73.99137833966584,4bf58dd8d48988d124941735,Office
+608,arcade edit,4be7384e2468c9280b410243,Chelton's Bar & Grille at Doubletree Hotel,12,128 W 29th St,40.74710818281853,-73.99117665473246,4bf58dd8d48988d1d5941735,Hotel Bar
+610,arcade edit,4d079d2f30a58cfad696b1e7,Modus Agency,12,129 W 29th St,40.74724726954919,-73.99117198774995,4bf58dd8d48988d125941735,Tech Startup
+601,arcade edit,5d0e967953331f00233323d2,Escape Virtuality,13,130 W 29th St,40.747119,-73.99143000000001,4bf58dd8d48988d1f1931735,General Entertainment
+604,arcade edit,58b987cf13af1c0df9c3ff00,Pulse Recording Studio,15,No Address,40.747039,-73.99127800000001,52f2ab2ebcbc57f1066b8b37,Recording Studio
+617,arcade edit,542eec02498ef7f7cf360c2e,One Medical Treehouse,16,129 W 29th St,40.74712039587139,-73.99110973255439,4bf58dd8d48988d124941735,Office
+606,arcade edit,4ad46f88f964a520dde720e3,DoubleTree by Hilton,22,128 W 29th St,40.7469851,-73.9913827,4bf58dd8d48988d1fa931735,Hotel
+615,arcade edit,5df8fc6978d20d0007d88eea,xtraCHEF,23,135 W 29th St Rm 1205,40.747365,-73.99140899999999,4bf58dd8d48988d125941735,Tech Startup
+618,arcade edit,4c157fd7a1010f4719344e18,bass hit studios,23,130 W 29th St,40.747043679931224,-73.9915167687641,4bf58dd8d48988d124941735,Office
+609,arcade edit,4e30a3ce14954cb0e5f25904,Yoga Collective,26,135 W 29th St Rm 603,40.74733594809091,-73.99152889091263,4bf58dd8d48988d102941735,Yoga Studio
+613,arcade edit,5d78260fe4af590008aee6bb,Mensch Studio,34,135 W 29th St,40.747456101588114,-73.99146884679793,4bf58dd8d48988d110951735,Salon / Barbershop
+611,arcade edit,559e9e3c498e714621684285,Red Seat Ventures,42,129 W 29th St,40.74746583372074,-73.99096583439517,4bf58dd8d48988d125941735,Tech Startup
+619,arcade edit,53dd7dcf498e62f1e9a63c8e,Haymarket,69,Broadway,40.747760033531776,-73.99158563544898,4deefb944765f83613cdba6e,Historic Site
+614,arcade edit,4c8a4e79cb08ef3b4bf132c1,104 west 29th,71,104 W 29th St,40.74690347672027,-73.99052211194682,4bf58dd8d48988d130941735,Building
+605,arcade edit,42911d00f964a520f5231fe3,New York Penn Station,358,1 Penn Plz,40.7501992792495,-73.99274826049805,4bf58dd8d48988d129951735,Train Station
+616,arcade edit,4dff759645dd3320c88318f3,Daniel Scuderi Antiques Inc,6376,47-15 Barnett Ave.,40.750168,-73.91578299999998,4bf58dd8d48988d116951735,Antique Shop

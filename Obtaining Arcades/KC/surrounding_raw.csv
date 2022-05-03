@@ -1,0 +1,141 @@
+,Arcade,Venue_ID,Venue_Name,Venue_Distance,Venue_Address,Venue_Latitude,Venue_Longitude,Category_ID,Category_Name
+0,Sean's Arcade And Mini Bar,4bff06fe10899c74d66215c5,Sarah Colman-Livengood Park,401,59th & Lane,39.015509737287616,-94.47573377789988,4bf58dd8d48988d1e7941735,Playground
+1,Sean's Arcade And Mini Bar,4bd06bc49854d13a49a1f74d,Laurel Hills Elementary,878,5401 Lane,39.025665283203125,-94.47555541992188,4f4533804b9074f6e4fb0105,Elementary School
+2,Sean's Arcade And Mini Bar,4dce8ec78877851243fa0958,Graceway Ball Fields,577,No Address,39.02128397332956,-94.48419341628656,4bf58dd8d48988d1e8941735,Baseball Field
+3,Sean's Arcade And Mini Bar,4e9cca65dab4aec571ae9d98,Shays Animal Kingdom,14,No Address,39.018282400000004,-94.4787105,4bf58dd8d48988d1e5941735,Dog Run
+4,Sean's Arcade And Mini Bar,4e513b38c65bb313ba9ebab0,Sean's Arcade And Mini Bar,0,No Address,39.0181981901088,-94.47883225310844,4bf58dd8d48988d171941735,Event Space
+5,Sean's Arcade And Mini Bar,5f29ce36dada2c4da2b70b12,Mount Carmel Cemetary,1115,No Address,39.023317,-94.46775,4bf58dd8d48988d15c941735,Cemetery
+6,Sean's Arcade And Mini Bar,4e31c42f2fb6ede816e33fa5,Redbox,1020,8700 E 63rd St,39.009638,-94.483069,4bf58dd8d48988d126951735,Video Store
+7,Sean's Arcade And Mini Bar,591ef4299ba3e53785aacba9,Shell,1198,8435 E 63rd St,39.009499,-94.486988,4bf58dd8d48988d113951735,Gas Station
+8,Sean's Arcade And Mini Bar,4e4806e762e148603b87a23f,Graceway,757,5460 Blue Ridge Cut Off,39.024537059571124,-94.4820084035208,4bf58dd8d48988d132941735,Church
+9,Sean's Arcade And Mini Bar,50de6836e4b09e22ed1b7185,quicktrip 63rd st and blue ridge cutoff,1053,No Address,39.00916784247219,-94.48249333456789,4d954b0ea243a5684a65b473,Convenience Store
+10,Sean's Arcade And Mini Bar,4c7d79413b22a1cda0095f9e,DMV,1231,6140 Raytown Trfy,39.01147998859375,-94.46751805367789,4bf58dd8d48988d124941735,Office
+11,Sean's Arcade And Mini Bar,552d5783498e03cbd21ae101,UMB Bank ATM,1074,8733 E 63rd St,39.009,-94.4826,52f2ab2ebcbc57f1066b8b56,ATM
+12,Sean's Arcade And Mini Bar,4ec5b98dd3e3e131f034fbba,Sinclair,1118,No Address,39.02802492404913,-94.48150751297412,4bf58dd8d48988d113951735,Gas Station
+13,Sean's Arcade And Mini Bar,4b55c046f964a52054ee27e3,QuikTrip,1076,8733 E 63rd St,39.008975962529185,-94.4825949858382,4d954b0ea243a5684a65b473,Convenience Store
+14,Sean's Arcade And Mini Bar,50339288e4b0a6a992d0195f,OTTO Car Wash,1166,8609 E 63rd St,39.00911095,-94.48553984,4f04ae1f2fb6e1c99f3db0ba,Car Wash
+15,Sean's Arcade And Mini Bar,4d3dec76557d6dcb3d574944,Raytown Area Chamber Of Commerce,1042,No Address,39.015871104956084,-94.46716261255432,4bf58dd8d48988d130941735,Building
+16,Sean's Arcade And Mini Bar,4e86075830f873b8fa4be0c1,Golden Beauty Supply,958,No Address,39.01095734880836,-94.48483533208847,4bf58dd8d48988d10c951735,Cosmetics Shop
+17,Sean's Arcade And Mini Bar,4be6e15e910020a184b6d414,First United Methodist Church Raytown,805,No Address,39.025320410728455,-94.48047995567322,4bf58dd8d48988d132941735,Church
+18,Sean's Arcade And Mini Bar,4d49ebcdb480a1435c6129ec,Raytown Fire Station #1,935,No Address,39.01450095637111,-94.46911873112555,4bf58dd8d48988d12c941735,Fire Station
+19,Sean's Arcade And Mini Bar,5133d9fbe4b031601d54429d,Brywood Shopping Center,1014,No Address,39.010611003411945,-94.4853301872868,4bf58dd8d48988d1fd941735,Shopping Mall
+20,Arcade Shoe Repair,4fd8e282e4b0de27c90b4166,Charisse,37,1006 Walnut St,39.101624763939,-94.58221077919006,4bf58dd8d48988d10c941735,French Restaurant
+21,Arcade Shoe Repair,4b2bd714f964a5201abc24e3,Neo Delicatessan,193,1000 Walnut St Ste 205,39.102976830757974,-94.5830631662896,4bf58dd8d48988d146941735,Deli / Bodega
+22,Arcade Shoe Repair,5c8b1c800d8a0f002c113a68,Spokes Cafe & Cyclery,99,929 Walnut St,39.102436532837714,-94.58174675703049,4bf58dd8d48988d16d941735,Café
+23,Arcade Shoe Repair,5996a3f74186866117bcdbba,Hotel Indigo Kansas City Downtown,263,101 W 11th St,39.100701,-94.58464599999999,4bf58dd8d48988d1fa931735,Hotel
+24,Arcade Shoe Repair,4c7bc2303badb1f7f8bd5554,UMB Bank,247,1010 Grand Blvd,39.10172753435879,-94.5789408742427,4bf58dd8d48988d10a951735,Bank
+25,Arcade Shoe Repair,4e68c94aae60186280a26fe8,Arcade Shoe Repair,0,No Address,39.101542,-94.581791,4bf58dd8d48988d1ff941735,Miscellaneous Shop
+26,Arcade Shoe Repair,51b9d3c2498e51f3058aafbf,U.S. Department of Education (ED),56,1010 Walnut St,39.101503,-94.58244499999999,4bf58dd8d48988d124941735,Office
+27,Arcade Shoe Repair,4df8bc09a809df9984ea7cde,Harmony,40,911 Main St,39.10151,-94.58226,4bf58dd8d48988d124941735,Office
+28,Arcade Shoe Repair,4d06676137036dcbdaf21bfb,Courtyard Delicatessen,32,1010 Grand Blvd,39.101554,-94.581418,54f4ba06498e2cf5561da814,Corporate Cafeteria
+29,Arcade Shoe Repair,4c72c5787121a1cd046a63d1,FedEx Office Print & Ship Center,70,"1111 Main St, Suite 111",39.1009969,-94.5822173,52f2ab2ebcbc57f1066b8b1f,Shipping Store
+30,Arcade Shoe Repair,502d3f88e4b05f26ae8380f8,KPMG,56,1000 Walnut St Ste 1000,39.101503,-94.58244499999999,4bf58dd8d48988d124941735,Office
+31,Arcade Shoe Repair,4dc03758fa8cc78a8624e726,Mama Tio's,94,1111 Main St,39.100947041148814,-94.58257740846614,4bf58dd8d48988d1c1941735,Mexican Restaurant
+32,Arcade Shoe Repair,4d69d94882cba0939169e0d8,Bank Midwest,163,1111 Main St,39.100484894902635,-94.58310624123204,4bf58dd8d48988d10a951735,Bank
+33,Arcade Shoe Repair,4e20894bd164740631fcf388,Commerce Bank,102,1001 Main St,39.10243147749721,-94.58207630066285,4bf58dd8d48988d10a951735,Bank
+34,Arcade Shoe Repair,4bed86856e8c20a1bc7d7061,In & Out,85,1007 Main St,39.102059000000004,-94.582522,4d954b0ea243a5684a65b473,Convenience Store
+35,Arcade Shoe Repair,4b85472ff964a520485431e3,Professional Building Lofts,114,1103 Grand Blvd,39.100827032190594,-94.58083054006141,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+36,Arcade Shoe Repair,568c885e498e68d35094a34a,Zaina,127,1108 Grand Blvd,39.100653504764765,-94.58086235424781,4bf58dd8d48988d1c0941735,Mediterranean Restaurant
+37,Arcade Shoe Repair,4b0b0efef964a520372c23e3,Commerce Bank Building,148,1000 Walnut St,39.102481421441624,-94.58301004077336,4bf58dd8d48988d130941735,Building
+38,Arcade Shoe Repair,4f672da3e4b098610d469f85,"Kristopher J. Bruso, DDS",137,1111 Main St #306,39.100888,-94.58313969999999,4bf58dd8d48988d178941735,Dentist's Office
+39,Arcade Shoe Repair,4cdb2a9cfc9737040246cd05,Troost MAX - Financial District,115,E 11th St,39.101146,-94.580556,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+40,Arcade Xbox,4ae0ff98f964a5206a8421e3,Cooley Park,410,3501-3599 NE Antioch Rd,39.158482805098615,-94.54678167075424,4bf58dd8d48988d163941735,Park
+41,Arcade Xbox,4e10f91762e1d997a69c0eef,Bestie House,307,3700-3798 N Walrond Ave,39.16180787,-94.54297703,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+42,Arcade Xbox,4cdc9f2ba1bba35d02b09be5,Hills Of Rock Creek,884,No Address,39.15776193750128,-94.55503784158746,4bf58dd8d48988d163941735,Park
+43,Arcade Xbox,4ad4c01df964a5204df120e3,Best Western Country Inn - North,992,2633 NE 43rd St,39.1710491827532,-94.54752064973945,4bf58dd8d48988d1fa931735,Hotel
+44,Arcade Xbox,4d1a13b3cc216ea8051082d3,Kansas City North Community Center,514,3930 NE Antioch Rd,39.166124262470085,-94.54960741870285,4bf58dd8d48988d176941735,Gym
+45,Arcade Xbox,4fb6e5cde4b0397fc0463503,The Veranda,7,No Address,39.16214,-94.54643,4bf58dd8d48988d117941735,Beer Garden
+46,Arcade Xbox,4fbefafae4b02c8542b9389a,Arcade Xbox,0,No Address,39.162168678892954,-94.54651477680645,4bf58dd8d48988d1e1931735,Arcade
+47,Arcade Xbox,4f960c82e4b08c0fe2e2ddd2,Ackerman Master Suite,11,No Address,39.16217145088737,-94.54664814719605,4eb1d80a4b900d56c88a45ff,Shrine
+48,Arcade Xbox,4dd7debd7d8b322663fa1b78,Avondale United Methodist Church,300,No Address,39.15999707374527,-94.54444513450005,4bf58dd8d48988d132941735,Church
+49,Arcade Xbox,4fbd23bae4b0caa891587ae6,Gift of Life Garden,149,No Address,39.16272735595703,-94.54808807373047,4bf58dd8d48988d196941735,Hospital
+50,Arcade Xbox,4cd56ad376ab721e04da6c6a,Faith Community Church,435,3500 NE Parvin Road,39.16479587436011,-94.55025644802883,4bf58dd8d48988d132941735,Church
+51,Arcade Xbox,4f2b6101e4b0009b31009675,Chouteau Trfy,1565,No Address,39.17293326404935,-94.53484826708208,4bf58dd8d48988d162941735,Other Great Outdoors
+52,Arcade Xbox,5243775d11d2bace0b8bc215,Hiway House,776,4071 Prather Rd,39.168535,-94.550184,4bf58dd8d48988d116941735,Bar
+53,Arcade Xbox,4c2f69eb16adc9282378bd9c,Domino's Pizza,1161,2516 NE 43rd St,39.17230767158498,-94.54970428350862,4bf58dd8d48988d1ca941735,Pizza Place
+54,Arcade Xbox,4f551bdbe4b028a922545be5,catfish hill,1353,"4400 NE Antioch Rd, Kansas City, MO 64116",39.174076080322266,-94.54971313476562,4bf58dd8d48988d165941735,Scenic Lookout
+55,Arcade Xbox,4ebad1b2775b2c800cfb6811,Faith Christian Academy,1033,4330 NW Cookingham Rd,39.15854263305664,-94.55753326416016,4bf58dd8d48988d13b941735,School
+56,Arcade Xbox,4e5a5a0ac65bcd7cbe403d31,Parvin Coin Laundry,1100,1800 NE Parvin Rd,39.167052000000005,-94.557604,4bf58dd8d48988d1fc941735,Laundry Service
+57,Arcade Xbox,50b3b4d0e4b0c965a1cdd2a8,Cerner TOC,1048,3512 NE 33rd Ter,39.15506383448874,-94.53854372800473,4bf58dd8d48988d124941735,Office
+58,Arcade Xbox,4df3bff162e1288ed30527ad,Avondale Baptist Church,399,No Address,39.16402638614926,-94.55047803560178,4bf58dd8d48988d124941735,Office
+59,Arcade Xbox,4f8243aae4b0bc1418d15ecc,Cloud 9 Liquor,1098,No Address,39.171907,-94.5486,4bf58dd8d48988d186941735,Liquor Store
+60,Commerce Arcade,4fd8e282e4b0de27c90b4166,Charisse,24,1006 Walnut St,39.101624763939,-94.58221077919006,4bf58dd8d48988d10c941735,French Restaurant
+61,Commerce Arcade,4d795d63542ab1f7c80e7c41,RideKC - Petticoat & Main,43,No Address,39.101206,-94.582764,52f2ab2ebcbc57f1066b8b4f,Bus Stop
+62,Commerce Arcade,4b2bd714f964a5201abc24e3,Neo Delicatessan,172,1000 Walnut St Ste 205,39.102976830757974,-94.5830631662896,4bf58dd8d48988d146941735,Deli / Bodega
+63,Commerce Arcade,4be2cf6e1dd22d7ff2d994bd,Espresso Ah La Cart,55,1000 Walnut St,39.10200174574855,-94.58250053418577,4bf58dd8d48988d1e0931735,Coffee Shop
+64,Commerce Arcade,5048a3e7e4b03af1df9de360,Downtown Council of Kansas City,0,1000 Walnut St Ste 200,39.101503,-94.58244499999999,50328a8e91d4c4b30a586d6c,Non-Profit
+65,Commerce Arcade,4e7b9edeb0fbd66c1244ef59,The Box Gallery,52,1000 Walnut St,39.101972,-94.582493,4bf58dd8d48988d1e2931735,Art Gallery
+66,Commerce Arcade,5c8b1c800d8a0f002c113a68,Spokes Cafe & Cyclery,120,929 Walnut St,39.102436532837714,-94.58174675703049,4bf58dd8d48988d16d941735,Café
+67,Commerce Arcade,512bf4f7e4b0933b4ab63b1c,Commerce Arcade,0,1000 Walnut St,39.101503,-94.58244499999999,5744ccdfe4b0c0459246b4dc,Shopping Plaza
+68,Commerce Arcade,4ddc277e1838306b8200077c,Ardmore Finance,104,107 E 10th St,39.1021706,-94.58158739999999,503287a291d4c4b30a586d65,Financial or Legal Service
+69,Commerce Arcade,5a9f4fffdd84426d9d3ec1b3,Copaken Brooks,108,1100 Walnut St Ste 2000,39.100532,-94.5826,5032885091d4c4b30a586d66,Real Estate Office
+70,Commerce Arcade,50d0acf0e4b0834918f02283,DFC Small IT Conference Room,24,No Address,39.10128699370347,-94.58244651063369,4bf58dd8d48988d127941735,Conference Room
+71,Commerce Arcade,4df8bc09a809df9984ea7cde,Harmony,16,911 Main St,39.10151,-94.58226,4bf58dd8d48988d127941735,Conference Room
+72,Commerce Arcade,4c72c5787121a1cd046a63d1,FedEx Office Print & Ship Center,59,"1111 Main St, Suite 111",39.1009969,-94.5822173,52f2ab2ebcbc57f1066b8b1f,Shipping Store
+73,Commerce Arcade,51b9d3c2498e51f3058aafbf,U.S. Department of Education (ED),0,1010 Walnut St,39.101503,-94.58244499999999,4bf58dd8d48988d124941735,Office
+74,Commerce Arcade,50be48bbe4b0532c3b0eef4d,One Petticoat Lane,47,No Address,39.101096,-94.582623,4bf58dd8d48988d130941735,Building
+75,Commerce Arcade,4fd279d3e4b0d1423fa43d0a,Main Street Parking Garage,82,No Address,39.10217233066135,-94.58284764525594,4c38df4de52ce0d596b336e1,Parking
+76,Commerce Arcade,4b0b0efef964a520372c23e3,Commerce Bank Building,119,1000 Walnut St,39.102481421441624,-94.58301004077336,4bf58dd8d48988d130941735,Building
+77,Commerce Arcade,4ad8d53ff964a5201e1521e3,Town Pavilion,106,1100 Main St,39.10058642439513,-94.58279420726139,4bf58dd8d48988d130941735,Building
+78,Commerce Arcade,4c9a3371eaa5a1435630cae4,Bruso Dentistry,64,No Address,39.101284951719805,-94.5831368669889,4bf58dd8d48988d178941735,Dentist's Office
+79,Commerce Arcade,4e416a2162e17b948c2762dc,Kemper Fountain,101,Main St,39.1021738679032,-94.58324628542687,56aa371be4b08b9a8d573547,Fountain
+80,Joe Cool Arcade,4c3f85ed520fa59339b7c6ac,Timber Wolf,88,No Address,39.17279018773765,-94.48921247530153,4bf58dd8d48988d182941735,Theme Park
+81,Joe Cool Arcade,4ad4c01df964a5208bf120e3,Worlds of Fun,222,4545 NE Worlds of Fun Dr,39.175237902432976,-94.48788046446865,4bf58dd8d48988d182941735,Theme Park
+82,Joe Cool Arcade,535c1afb498e824febd095cf,Steelhawk,76,4545 NE Worlds of Fun Dr,39.17426163107006,-94.48935434839784,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction
+83,Joe Cool Arcade,4c83fdc1e602b1f72cf8aa7a,Bamboozler,202,No Address,39.17494685081491,-94.48777152827239,4bf58dd8d48988d182941735,Theme Park
+84,Joe Cool Arcade,4c9568c438dd8cfa6fc1d262,Front Street Emporium,87,Unnamed Rd,39.17387697,-94.48837072,4bf58dd8d48988d104951735,Boutique
+85,Joe Cool Arcade,4c41d7f1ff711b8de3831205,Prowler,439,No Address,39.17420439480291,-94.48428318584648,4bf58dd8d48988d182941735,Theme Park
+86,Joe Cool Arcade,4ad4c01ff964a5202ff220e3,Oceans Of Fun,627,4545 NE Worlds of Fun Dr,39.16909453681866,-94.48489487171173,4bf58dd8d48988d182941735,Theme Park
+87,Joe Cool Arcade,4c8400cad92ea093c7505972,Cyclone Sam's,78,No Address,39.17313608785724,-94.48859471261169,4bf58dd8d48988d182941735,Theme Park
+88,Joe Cool Arcade,4dfd3cc6d22d879302f84856,Planet Snoopy,147,4545 NE Worlds of Fun Dr,39.17268181067009,-94.48804646303073,4bf58dd8d48988d182941735,Theme Park
+89,Joe Cool Arcade,5a2c88b693bd6355811adf06,Wof Winterfest Firepits,18,No Address,39.173465,-94.489151,4bf58dd8d48988d182941735,Theme Park
+90,Joe Cool Arcade,4c3f384acc410f4787d1a761,Detonator,146,No Address,39.17293095758291,-94.4878262232595,4bf58dd8d48988d182941735,Theme Park
+91,Joe Cool Arcade,4c41f932af052d7fd1307e79,Patriot,184,No Address,39.17520732546929,-94.48891497953505,4bf58dd8d48988d182941735,Theme Park
+92,Joe Cool Arcade,4c4cdd0d4237be9ac93b0313,Camp Snoopy,179,No Address,39.17239251033374,-94.48789358139038,4bf58dd8d48988d182941735,Theme Park
+93,Joe Cool Arcade,577af490498ec87e849b2123,Coca Cola Marketplace,94,No Address,39.173383,-94.488242,4bf58dd8d48988d14e941735,American Restaurant
+94,Joe Cool Arcade,4fcea015e4b051d786de8e93,Hurricane Falls,133,No Address,39.17324935837409,-94.48782513172839,4bf58dd8d48988d193941735,Water Park
+95,Joe Cool Arcade,4c3f431cda3dc928019dc5b9,Spinning Dragons,235,No Address,39.175477251986386,-94.48811598596858,4bf58dd8d48988d182941735,Theme Park
+96,Joe Cool Arcade,4e722edfd4c0f5c149980806,CarnEvil,46,No Address,39.173491752454744,-94.48877585671944,4bf58dd8d48988d182941735,Theme Park
+97,Joe Cool Arcade,4e1f2eb2e4cd0a3823097814,Battle Creek BBQ,127,4545 NE Worlds of Fun Dr,39.173938702252755,-94.48791118807294,4bf58dd8d48988d1df931735,BBQ Joint
+98,Joe Cool Arcade,51d5a17c498e8ee4e6220e34,Subway Worlds Of Fun,74,Worlds Of Fun,39.17351346331146,-94.48844888591245,4bf58dd8d48988d1c5941735,Sandwich Place
+99,Joe Cool Arcade,590e21b21543c7204de06b49,Mustang Runner,121,No Address,39.173103,-94.488044,4bf58dd8d48988d182941735,Theme Park
+100,Scarritt Arcade,528a36ec498ed91bda388154,Dr. Rueb D.D.S.,1,819 Walnut St Ste 101,39.10380554199219,-94.5815658569336,4bf58dd8d48988d178941735,Dentist's Office
+101,Scarritt Arcade,4c927c544e30ef3b54501ae8,My Dentist,0,819 Walnut St Ste 101,39.103793,-94.581555,4bf58dd8d48988d178941735,Dentist's Office
+102,Scarritt Arcade,56256999498ea51a45fc0388,Scarritt Building,40,818 Grand Blvd,39.103709,-94.58110400000001,4bf58dd8d48988d130941735,Building
+103,Scarritt Arcade,4c0d0cfd2466a593c2f07621,Scarritt Properties,5,819 Walnut St,39.10377280897387,-94.58160996437073,4bf58dd8d48988d124941735,Office
+104,Scarritt Arcade,4e7e73a20aaf3a91930e9142,Scarritt Grand Ballroom,36,818 Grand Blvd,39.10372543334961,-94.58114624023438,4bf58dd8d48988d171941735,Event Space
+105,Scarritt Arcade,54076348498ed3ee81d32983,Scarritt Arcade,0,819 Walnut St,39.103793,-94.581555,4bf58dd8d48988d130941735,Building
+106,Scarritt Arcade,4f412bbbe4b0193962c40506,909 Walnut Fitness Center,65,909 Walnut St,39.10320666392144,-94.58162069320677,4bf58dd8d48988d175941735,Gym / Fitness Center
+107,Scarritt Arcade,4f3bdfb0e4b0d6152fb6346c,Commerce Bank RLPS,93,"811 Main St, Kansas City, MO 64106",39.103782665742514,-94.58263807330772,4bf58dd8d48988d124941735,Office
+108,Scarritt Arcade,54c40a4a498ee9f75694c93b,909 Walnut Apartments,101,909 Walnut Street,39.1028866,-94.58161968,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+109,Scarritt Arcade,581bcc60fb482d7efaadf068,Sky On Main,130,920 Main St,39.10357278296095,-94.58304184350465,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+110,Scarritt Arcade,4c12476cb7b9c9287272a737,Commerce Tower Apartments,134,911 Main St,39.103967950179225,-94.58310039504549,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+111,Scarritt Arcade,4bfbc9e0ab180f474a3db4ce,Commerce Tower,121,911 Main St,39.10315254687687,-94.58269894123077,4bf58dd8d48988d130941735,Building
+112,Scarritt Arcade,4b2bd714f964a5201abc24e3,Neo Delicatessan,158,1000 Walnut St Ste 205,39.102976830757974,-94.5830631662896,4bf58dd8d48988d146941735,Deli / Bodega
+113,Scarritt Arcade,502d3f88e4b05f26ae8380f8,KPMG,266,1000 Walnut St Ste 1000,39.101503,-94.58244499999999,4bf58dd8d48988d124941735,Office
+114,Scarritt Arcade,4f4e9d2200395a5cfea4bfe1,Walnut Tower,108,722 Walnut St,39.10468654992787,-94.58205898353629,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+115,Scarritt Arcade,50a23d0ce4b0018d3b9320e5,RideKC - 142 Bus,119,North Oak Trafficway,39.10469502403362,-94.58080883911038,4bf58dd8d48988d12b951735,Bus Line
+116,Scarritt Arcade,4e20894bd164740631fcf388,Commerce Bank,158,1001 Main St,39.10243147749721,-94.58207630066285,4bf58dd8d48988d10a951735,Bank
+117,Scarritt Arcade,4eb15471722e61d2b53314c6,Federal Public Defender Missouri Western,40,818 Grand Blvd,39.103709,-94.58110400000001,4bf58dd8d48988d130941735,Building
+118,Scarritt Arcade,56326928498e26545d889ae5,KC Streetcar - Library,146,Main St,39.10318309092484,-94.58305621754825,4bf58dd8d48988d1fc931735,Light Rail Station
+119,Scarritt Arcade,4e6a4e5352b1c1205fbff689,909 Roof Garden,69,909 Walnut St,39.10319228290729,-94.58175616306816,4bf58dd8d48988d133951735,Roof Deck
+120,Broadway Arcade,4b1d69c5f964a5202b1024e3,The Quaff Bar & Grill,34,1010 Broadway Blvd,39.1020839578129,-94.58835714231354,4bf58dd8d48988d118941735,Dive Bar
+121,Broadway Arcade,5a0fa1ae805e3f75a4746b43,Hush,4,1000 Broadway Blvd LL,39.102238,-94.58869,4bf58dd8d48988d1d4941735,Speakeasy
+122,Broadway Arcade,5a09d18a8c812a60e1044a83,Beer 30,11,1000 Broadway Blvd Ste 100,39.102203,-94.58857,4bf58dd8d48988d116941735,Bar
+123,Broadway Arcade,574e161a498ea87153844b0a,The Garment House,26,1000 Broadway Blvd,39.102035,-94.588655,4bf58dd8d48988d130941735,Building
+124,Broadway Arcade,4f0ef264e4b050cad0b9559f,"Wright & Fisher, LLC",65,"1000 Broadway St, Suite 400",39.101687320589285,-94.58860963782462,4bf58dd8d48988d124941735,Office
+125,Broadway Arcade,5b08df9c0ee92a0039760cf2,The 10 Spot,15,1000 Broadway Blvd Ste 300,39.10222,-94.5885,4bf58dd8d48988d1e5931735,Music Venue
+126,Broadway Arcade,5ad817f3c666667613ddcb70,Broadway Arcade,0,1000 Broadway Blvd Ste 200,39.102272,-94.58867,4bf58dd8d48988d1e1931735,Arcade
+127,Broadway Arcade,4c1d07af8b3aa59349d7995f,Quality Hill Square,148,425 W 9th St,39.10358,-94.588999,4bf58dd8d48988d130941735,Building
+128,Broadway Arcade,4c4c8d69bad7a5935ab66cad,The Office at The Q,121,303 W 10th St,39.101973,-94.587317,4bf58dd8d48988d124941735,Office
+129,Broadway Arcade,54009d58498ee8f46ceca01a,Jimmy John's,76,923 Broadway Blvd,39.10278205214829,-94.58807945251465,4bf58dd8d48988d1c5941735,Sandwich Place
+130,Broadway Arcade,4b75ec8df964a5203d2f2ee3,The Majestic Restaurant,60,931 Broadway Blvd,39.10260721126304,-94.58811163902283,4bf58dd8d48988d1cc941735,Steakhouse
+131,Broadway Arcade,4b1d7717f964a520e51024e3,DST Systems - Centennial Building,240,210 W 10th St,39.1028454345251,-94.58598824283409,4bf58dd8d48988d124941735,Office
+132,Broadway Arcade,4b944769f964a520a37234e3,Pizza Hut,105,1020 Broadway St.,39.10132919448023,-94.58859980106348,4bf58dd8d48988d1ca941735,Pizza Place
+133,Broadway Arcade,5b242ac951950e002cf3fba4,The Pendergast Club,66,No Address,39.102547,-94.58799,52e81612bcbc57f1066b7a33,Social Club
+134,Broadway Arcade,4b782f5cf964a52098ba2ee3,Cathedral of the Immaculate Conception,152,416 W 12th St,39.10091699765901,-94.58892209628493,4bf58dd8d48988d132941735,Church
+135,Broadway Arcade,5f0380b7277ba71239301726,Broadway Massage,107,905 Broadway Blvd,39.10313,-94.588104,52f2ab2ebcbc57f1066b8b3c,Massage Studio
+136,Broadway Arcade,54f7bc9b498e807ec44a74d4,Opera House Lofts,55,930 Broadway Blvd,39.102766,-94.588623,4d954b06a243a5684965b473,Residential Building (Apartment / Condo)
+137,Broadway Arcade,4b155444f964a52000ab23e3,The Peanut,186,418 W 9th St,39.10387235099033,-94.58929748711638,4bf58dd8d48988d118941735,Dive Bar
+138,Broadway Arcade,4bcc50180687ef3b53f9decc,Quality Hill Mart,111,No Address,39.10128757884071,-94.58890193762028,4d954b0ea243a5684a65b473,Convenience Store
+139,Broadway Arcade,4b13fd2df964a520529b23e3,Los Corrals,183,408 W 9th St,39.10390521574553,-94.58899457510927,4bf58dd8d48988d1c1941735,Mexican Restaurant

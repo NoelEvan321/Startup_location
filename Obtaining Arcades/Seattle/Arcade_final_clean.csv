@@ -1,0 +1,16 @@
+,Hood,Venue_ID,Venue_Name,Venue_Distance,Venue_Address,Venue_Latitude,Venue_Longitude,Category_ID,Category_Name,Venue_Rating
+0,University District ,4af30888f964a520f5e921e3,4518 Arcade,59,4518 University Way NE,47.66183599068261,-122.3131209770191,4bf58dd8d48988d124941735,Office,Not Rated
+1,Lower Queen Anne,4d03d2b6c2e537042963b467,Penny Arcade Warehouse,473,3150 Elliott Ave,47.618242,-122.35747,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+2,Highland Park,4dbf6f1e6a23e5a549d6141b,SanTe's Arcade,752,No Address,47.524985,-122.36124099999999,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+3,Pioneer Square,4e53fe8522711d4da5c38798,Grand Central Building - Lower Arcade,186,No Address,47.6004633549497,-122.33397036075995,5744ccdfe4b0c0459246b4dc,Shopping Plaza,Not Rated
+4,Fremont,4ee59ef76c25be9631860f8d,Add-a-Ball Arcade,399,315 N 36th St #2B,47.652039557314005,-122.35477061699757,4bf58dd8d48988d1e1931735,Arcade,8.8
+5,Pioneer Square,4fb7f757e4b09a1e8cab118e,Time masheen arcade,252,No Address,47.60154454116357,-122.33068425440727,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+6,Lower Queen Anne,4fdd404be4b082d0767d2155,Seattle Interactive Media Museum,387,No Address,47.62124191433432,-122.35085303562944,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+7,Renton Hill,4ff503b1e4b02ca33b4b731f,Rod's Pinball Arcade,829,9818 Beacon Ave S,47.512992,-122.27285,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+8,Lower Queen Anne,5064c506e4b06062642548ae,Next 50 Video Arcade,390,Seattle Center,47.62121962265271,-122.35082739195472,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+9,Harrison,50fa31bae4b020b5559a65cc,Lipton's Arcade,373,No Address,47.61877032588395,-122.32677744337444,4bf58dd8d48988d11a941735,Other Nightlife,Not Rated
+10,Capitol Hill,55aaf9fa498e95351b9da504,Capitol Hill Family Arcade,393,No Address,47.62317228145979,-122.31321781418251,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+11,Olympic Hills,578cabc2498e2cf4c49feb3d,ShopsArcade,1598,15218 12th Ave NE,47.73942947387695,-122.3150634765625,4bf58dd8d48988d1f6941735,Department Store,Not Rated
+12,Broadway,597be97e58aa7f16eb83d768,Portal Virtual Reality Arcade,469,2601 NW Market St,47.66838836669922,-122.39053344726562,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+13,Central Waterfront,59af34d64a7aae7ed5080133,Klondike Arcade,97,No Address,47.606257,-122.340676,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+14,West Woodland,5a6a65f642d8c2036ccf8098,Ice Box,1476,615 NW Bright St,47.659821,-122.364749,4bf58dd8d48988d1e1931735,Arcade,Not Rated

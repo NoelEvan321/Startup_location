@@ -1,0 +1,47 @@
+Hood,Venue_ID,Venue_Name,Venue_Distance,Venue_Address,Venue_Latitude,Venue_Longitude,Category_ID,Category_Name
+Margaret Mitchell,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,705,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Margaret Mitchell,4d6678a3153ba0930ff4e9f8,Arcade 160 Studios,2048,621 North Ave NE Ste C,33.770101,-84.367149,4bf58dd8d48988d124941735,Office
+Margaret Mitchell,5b04dca96bd36b002c157123,Atlanta Arcade Rentals,1524,931 Monroe Dr NE #201,33.77994,-84.36823,5454152e498ef71e2b9132c6,Event Service
+Ansley Park,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,1049,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Ansley Park,5b04dca96bd36b002c157123,Atlanta Arcade Rentals,1790,931 Monroe Dr NE #201,33.77994,-84.36823,5454152e498ef71e2b9132c6,Event Service
+Atlantic Station,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,1916,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Georgia Tech,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,2138,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Home Park,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,1927,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Loring Heights,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,2342,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Midtown,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,649,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Midtown,4d6678a3153ba0930ff4e9f8,Arcade 160 Studios,2026,621 North Ave NE Ste C,33.770101,-84.367149,4bf58dd8d48988d124941735,Office
+Midtown,5b04dca96bd36b002c157123,Atlanta Arcade Rentals,1478,931 Monroe Dr NE #201,33.77994,-84.36823,5454152e498ef71e2b9132c6,Event Service
+Atkins Park,4d6678a3153ba0930ff4e9f8,Arcade 160 Studios,1498,621 North Ave NE Ste C,33.770101,-84.367149,4bf58dd8d48988d124941735,Office
+Atkins Park,5b04dca96bd36b002c157123,Atlanta Arcade Rentals,1499,931 Monroe Dr NE #201,33.77994,-84.36823,5454152e498ef71e2b9132c6,Event Service
+Virginia Highland,4d6678a3153ba0930ff4e9f8,Arcade 160 Studios,1871,621 North Ave NE Ste C,33.770101,-84.367149,4bf58dd8d48988d124941735,Office
+Virginia Highland,5b04dca96bd36b002c157123,Atlanta Arcade Rentals,1378,931 Monroe Dr NE #201,33.77994,-84.36823,5454152e498ef71e2b9132c6,Event Service
+Virginia Highland,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,2324,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Vine City,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,2022,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Castleberry Hill,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,978,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Castleberry Hill,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,1771,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Downtown,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,322,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Downtown,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,1410,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Old Fourth Ward,4d6678a3153ba0930ff4e9f8,Arcade 160 Studios,792,621 North Ave NE Ste C,33.770101,-84.367149,4bf58dd8d48988d124941735,Office
+Old Fourth Ward,5b04dca96bd36b002c157123,Atlanta Arcade Rentals,1792,931 Monroe Dr NE #201,33.77994,-84.36823,5454152e498ef71e2b9132c6,Event Service
+Old Fourth Ward,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,2132,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Old Fourth Ward,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,2444,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade
+Sweet Auburn,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,972,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Sweet Auburn,4d6678a3153ba0930ff4e9f8,Arcade 160 Studios,2025,621 North Ave NE Ste C,33.770101,-84.367149,4bf58dd8d48988d124941735,Office
+Sweet Auburn,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,1694,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Cabbagetown,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,1833,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Inman Park,4d6678a3153ba0930ff4e9f8,Arcade 160 Studios,1450,621 North Ave NE Ste C,33.770101,-84.367149,4bf58dd8d48988d124941735,Office
+Lake Clair,4f5c6a22e4b0a3bd23833b66,Marlin Arcade,1142,No Address,38.49513709921038,-90.00773938818843,4bf58dd8d48988d11b941735,Pub
+Wildwood Forest,4c02e10d187ec92870e5b47b,Duffer's,1883,5210 Pacific Ave,38.98097139734643,-74.82570004429925,52e81612bcbc57f1066b79eb,Mini Golf
+Bush Mountain,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,1748,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Capitol Gateway,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,575,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Capitol Gateway,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,951,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Mechanicsville,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,1338,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Mechanicsville,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,1694,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Peoplestown,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,1423,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Pittsburgh,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,2220,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Summerhill,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,428,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Summerhill,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,1785,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Grant Park,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,1340,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+Oakland,503e646b16488fc60417dc31,PAC-MAN PLAY™ Arcade at Underground Atlanta,1712,50 Upper Alabama Street,33.7524971960305,-84.39008474349976,4bf58dd8d48988d1e1931735,Arcade
+Oakland,4d7412d3d6f06dcbbdb70f08,Foege's Arcade,1430,No Address,33.740652,-84.384216,4bf58dd8d48988d1e1931735,Arcade
+State Facility,552d475d498e4d32bce2696f,Atlanta Arcade & Gaming Rentals,1399,925B Peachtree St NE,33.78531813505629,-84.37860488891602,4bf58dd8d48988d1e1931735,Arcade

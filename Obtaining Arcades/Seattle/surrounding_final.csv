@@ -1,0 +1,287 @@
+,Arcade,Venue_ID,Venue_Name,Venue_Distance,Venue_Address,Venue_Latitude,Venue_Longitude,Category_ID,Category_Name,Venue_Rating
+0,4518 Arcade,5e23b504daee0b0008f60baa,Sugar+Spoon Cookie Dough,5,No Address,47.66179,-122.313146,4bf58dd8d48988d1c9941735,Ice Cream Shop,Not Rated
+1,4518 Arcade,4b58fe5ff964a5205e7728e3,Deep Roots Tattoo & Body Piercing,5,4517 University Way NE,47.66180556784894,-122.31318357028371,4bf58dd8d48988d1de931735,Tattoo Parlor,7.7
+2,4518 Arcade,4ef5323b77c8e9126478ff6f,U:DON Fresh Japanese Noodle Station,7,4515 University Way NE,47.661795486804216,-122.3131942154418,55a59bace4b013909087cb2a,Udon Restaurant,7.7
+3,4518 Arcade,5d3cad7742d74c0008eb3ea9,DL B.B.Q.,13,4520 the ave,47.661947,-122.313203,4bf58dd8d48988d1df931735,BBQ Joint,Not Rated
+4,4518 Arcade,5a5f9be231ac6c6dbfc68220,Just Burgers,16,4510 University Way NE,47.6618612257329,-122.31290996074677,4bf58dd8d48988d16c941735,Burger Joint,Not Rated
+5,4518 Arcade,5abb2319b040560b822d9633,Taste of Xi'an,21,4523 University Way NE,47.66195707272306,-122.31333743786145,4bf58dd8d48988d145941735,Chinese Restaurant,7.8
+6,4518 Arcade,5f0e45adc5d2fb4660d1b12e,Don't Yell At Me 不要對我尖叫,21,4511 University Way NE,47.661674,-122.31327,52e81612bcbc57f1066b7a0c,Bubble Tea Shop,Not Rated
+7,4518 Arcade,4c37a5ae93db0f47db2f2092,Metro Bus Stop #9584,21,University Way NE & NE 45th St,47.66202032502236,-122.31319627831051,4bf58dd8d48988d1fe931735,Bus Station,Not Rated
+8,4518 Arcade,435c2400f964a5200a291fe3,Yunnie Bubble Tea,22,4511 University Way NE,47.661647247509464,-122.31322107798714,52e81612bcbc57f1066b7a0c,Bubble Tea Shop,6.3
+9,4518 Arcade,59c14ab61ffed75cd77ec327,Chi Mac,25,4525 University Way NE,47.66204401402561,-122.31325627284023,4bf58dd8d48988d113941735,Korean Restaurant,7.7
+10,4518 Arcade,479e03e7f964a520724d1fe3,Oasis Tea Zone,27,4524 University Way NE,47.66204909935353,-122.31293678283691,52e81612bcbc57f1066b7a0c,Bubble Tea Shop,7.8
+11,4518 Arcade,5c538e626bdee6002cdb65b8,LE Mart,28,4514 University Way NE,47.661706,-122.31279599999999,4bf58dd8d48988d10c951735,Cosmetics Shop,Not Rated
+12,4518 Arcade,4a41a1bff964a5207ca51fe3,BBQ Chicken,29,4525 University Way NE,47.66208253504015,-122.31325741744972,4bf58dd8d48988d113941735,Korean Restaurant,5.5
+13,4518 Arcade,5da7ddc48b13530008a70888,Panda Noodle Bar,29,No Address,47.661604,-122.312937,52af3b773cf9994f4e043c03,Szechuan Restaurant,Not Rated
+14,4518 Arcade,4f08ad56e4b0aa2dc6a036b9,Tea Republik,29,4527 University Way NE,47.66207655824566,-122.31329219098295,4bf58dd8d48988d1dc931735,Tea Room,7.9
+15,4518 Arcade,4b91db9ff964a520f9db33e3,Pita Pit,30,4515 University Way NE,47.66181945800781,-122.31352996826172,4bf58dd8d48988d1c5941735,Sandwich Place,7.0
+16,4518 Arcade,5d479b19816c15000897f14c,Buerjia Chinese Sauerkraut Fish,31,4509 University Way NE,47.661655,-122.313447,4bf58dd8d48988d145941735,Chinese Restaurant,Not Rated
+17,4518 Arcade,4ae4f7d0f964a520c59f21e3,Urban Outfitters,45,4518 University Way Northeast,47.66143,-122.31303,4bf58dd8d48988d103951735,Clothing Store,5.4
+18,4518 Arcade,5c413d90916bc1002cc73e9c,Texas Bar B Q,47,No Address,47.662208,-122.312819,4bf58dd8d48988d1df931735,BBQ Joint,Not Rated
+19,4518 Arcade,43c7931bf964a520832d1fe3,Thai Tom,86,4543 University Way NE,47.6626054903407,-122.313312292099,4bf58dd8d48988d149941735,Thai Restaurant,8.2
+20,Add-a-Ball Arcade,52fd4818498e895d5294dbbc,Killer Infographics,10,315 N 36th St Ste 201,47.65199319777951,-122.35465032683877,4bf58dd8d48988d125941735,Tech Startup,Not Rated
+21,Add-a-Ball Arcade,4e90aee129c2117fa3ef5f03,Guiitar Center,13,Westlake,47.65196,-122.354632,4bf58dd8d48988d1fe941735,Music Store,Not Rated
+22,Add-a-Ball Arcade,52be73f2498e16a96ec673b8,Tyler Accidently Buying Another Drink,14,No Address,47.65210378374236,-122.35460540651212,4bf58dd8d48988d116941735,Bar,Not Rated
+23,Add-a-Ball Arcade,49eabbe5f964a5208e661fe3,Flair Taco Truck,16,315 N 36th St,47.6521597432375,-122.35464876747251,4bf58dd8d48988d1cb941735,Food Truck,8.4
+24,Add-a-Ball Arcade,4ba170e9f964a52056b737e3,Piece of Mind Glass,23,315 N 36th St,47.65222565364365,-122.35463592498172,4bf58dd8d48988d123951735,Smoke Shop,Not Rated
+25,Add-a-Ball Arcade,4cb37e506c26952103e7b9d9,Hamilton/Saunderson,24,309 N 36th St Unit C,47.65208209143861,-122.35509316494478,4bf58dd8d48988d124941735,Office,Not Rated
+26,Add-a-Ball Arcade,4c2a8c4d8abca59355defe1f,Metro Bus Stop - 36th & Phinney,26,36th St,47.652236548599575,-122.35456173070601,4bf58dd8d48988d12b951735,Bus Line,Not Rated
+27,Add-a-Ball Arcade,54d721ec498e66f5eed05bd7,Fremont Foundry,35,154 N 35th St,47.65187112135718,-122.35517509632601,4bf58dd8d48988d171941735,Event Space,Not Rated
+28,Add-a-Ball Arcade,4f20c81fe4b0628b53c78967,The Foundry,39,134 35th St,47.65179767070692,-122.35515729252285,4bf58dd8d48988d1e2931735,Art Gallery,6.2
+29,Add-a-Ball Arcade,4df24663fa76abc3d868301e,Brown Paper Tickets,42,309 N 36th St,47.65236008060588,-122.35508920294404,4bf58dd8d48988d125941735,Tech Startup,Not Rated
+30,Add-a-Ball Arcade,58d6dd510802cb15576d8ce9,Metro Bus Stop #28310,50,No Address,47.652042,-122.354093,52f2ab2ebcbc57f1066b8b4f,Bus Stop,Not Rated
+31,Add-a-Ball Arcade,5159fc0ce4b08eda829d2b5b,Asko,52,No Address,47.6515777032697,-122.35465996871919,4eb1bea83b7b6f98df247e06,Factory,Not Rated
+32,Add-a-Ball Arcade,502c6b4fe4b01882f7666f52,Revel WC,63,No Address,47.652014,-122.353926,4bf58dd8d48988d113941735,Korean Restaurant,9.1
+33,Add-a-Ball Arcade,4dd1744dae603b786d77209b,Checked Out,65,No Address,47.65242,-122.354097,4bf58dd8d48988d159941735,Trail,Not Rated
+34,Add-a-Ball Arcade,523cd3b311d20523c2c6903d,Fremont Oktoberfest,107,No Address,47.65165770210868,-122.35608980897787,4bf58dd8d48988d117941735,Beer Garden,7.0
+35,Add-a-Ball Arcade,4e04bf7cb61c7592ae7087d1,ARC Pacific Northwest,115,2730 Occidental Ave S,47.652056,-122.353233,4bf58dd8d48988d159941735,Trail,Not Rated
+36,Add-a-Ball Arcade,4ba6c895f964a520726f39e3,Burke-Gilman Trail (Fremont),119,1500 N Northlake Way,47.652917987689975,-122.35569181368132,4bf58dd8d48988d159941735,Trail,7.9
+37,Add-a-Ball Arcade,4c374b2918e72d7f053916f5,Fremont Canal Park,121,199 N Canal St.,47.6529260388501,-122.35570906876116,4bf58dd8d48988d163941735,Park,8.5
+38,Capitol Hill Family Arcade,5798f287498e69e03ba37e66,Ruckus Recreational Cannabis,19,1463 E Republican St,47.62301,-122.31333,52c71aaf3cf9994f4e043d17,Marijuana Dispensary,7.0
+39,Capitol Hill Family Arcade,4ad5779cf964a5200a0321e3,Astor Court,19,1450 E Republican St,47.623335,-122.31330600000001,4bf58dd8d48988d172941735,Post Office,Not Rated
+40,Capitol Hill Family Arcade,4e8f0b9593ad4c1d6dc8eba3,Practice These Principles,20,No Address,47.62315200000001,-122.313495,4bf58dd8d48988d13b941735,School,Not Rated
+41,Capitol Hill Family Arcade,4add4e85f964a520d96421e3,Postal Plus,26,1463 E Republican St,47.62309139835418,-122.3128813355819,4bf58dd8d48988d172941735,Post Office,Not Rated
+42,Capitol Hill Family Arcade,58c38dc55a5869779c65ef2b,Uncle Ike's Capitol Hill,27,501 15th Ave E,47.62326899,-122.3128774,52c71aaf3cf9994f4e043d17,Marijuana Dispensary,7.7
+43,Capitol Hill Family Arcade,4abeab1af964a520398f20e3,El Farol,28,1467 E Republican St,47.62300973306851,-122.31292610180418,4bf58dd8d48988d1c1941735,Mexican Restaurant,6.7
+44,Capitol Hill Family Arcade,4bc3712dabf495219bc4c393,Angels Shoe Repair,32,1465 E Republican St,47.623016957204655,-122.31284935961139,52f2ab2ebcbc57f1066b8b39,Shoe Repair,Not Rated
+45,Capitol Hill Family Arcade,452d7a51f964a5204c3b1fe3,Caffe Ladro,38,435 15th Ave E,47.62301345680476,-122.31276511679478,4bf58dd8d48988d1e0931735,Coffee Shop,7.9
+46,Capitol Hill Family Arcade,40b13b00f964a52099f61ee3,Hopvine Pub,41,507 15th Ave E,47.62336052183098,-122.31273709068874,4bf58dd8d48988d116941735,Bar,7.1
+47,Capitol Hill Family Arcade,556a560f498ee2f2c9252c23,Rudy's Barbershop Capitol Hill East,43,428 15th Ave E,47.62300379033251,-122.31269318824468,4bf58dd8d48988d110951735,Salon / Barbershop,8.9
+48,Capitol Hill Family Arcade,40b3de00f964a52036001fe3,Coastal Kitchen,48,429 15th Ave E,47.62280358366865,-122.31287788001616,4bf58dd8d48988d1ce941735,Seafood Restaurant,8.3
+49,Capitol Hill Family Arcade,4b363b53f964a5205d3125e3,Shoprite,49,432 15th Ave E,47.62323725324503,-122.31256263771459,4bf58dd8d48988d128951735,Gift Shop,Not Rated
+50,Capitol Hill Family Arcade,4447ebabf964a5206e321fe3,Liberty,56,517 15th Ave E,47.62356128661233,-122.31272839642432,4bf58dd8d48988d121941735,Lounge,8.4
+51,Capitol Hill Family Arcade,4bdc6110c79cc9289a4386e9,Ada's Technical Books and Cafe,57,425 15th Ave E,47.6226861936587,-122.31295126749107,4bf58dd8d48988d114951735,Bookstore,9.3
+52,Capitol Hill Family Arcade,4c27b8a99fb5d13a20859857,"Take 2, New and Recycled Apparel",63,430 15th Ave E,47.623048,-122.31238700000002,4bf58dd8d48988d103951735,Clothing Store,Not Rated
+53,Capitol Hill Family Arcade,4ba5786df964a5206d0a39e3,Integra Hair Design,71,521 1/2 15th Ave E,47.62372195422871,-122.3127274263115,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+54,Capitol Hill Family Arcade,4ac11eecf964a520ed9520e3,Walgreens,75,500 15th Ave E,47.6235992,-122.312444,4bf58dd8d48988d10f951735,Pharmacy,5.4
+55,Capitol Hill Family Arcade,55433a0d498ed7c981f33361,Harry's Bar,86,514 15th Ave E,47.62378646364916,-122.31251217518854,4bf58dd8d48988d11e941735,Cocktail Bar,7.6
+56,Capitol Hill Family Arcade,427ab380f964a52095211fe3,Victrola,92,411 15th Ave E,47.62236368131237,-122.31290701534435,4bf58dd8d48988d1e0931735,Coffee Shop,8.4
+57,Grand Central Building - Lower Arcade,4d51b6ca9ffc236a97ce25a7,Salon Central,6,No Address,47.60051760901454,-122.3339934373391,4bf58dd8d48988d10c951735,Cosmetics Shop,Not Rated
+58,Grand Central Building - Lower Arcade,4d87952e99b78cfa8a40fc1f,Grand Central Conference Room,8,No Address,47.600429,-122.333867,4bf58dd8d48988d127941735,Conference Room,Not Rated
+59,Grand Central Building - Lower Arcade,534f0931498e869656e9235e,SkillJar,12,206 1st Ave S,47.600572,-122.333994,4bf58dd8d48988d125941735,Tech Startup,Not Rated
+60,Grand Central Building - Lower Arcade,4b4f8cc6f964a5200d0b27e3,Fireworks,13,210 1st Ave S,47.600423297318706,-122.33414267711822,4bf58dd8d48988d127951735,Arts & Crafts Store,7.2
+61,Grand Central Building - Lower Arcade,4e53fd40483b944199e5805c,Ars Obscura,13,No Address,47.60041500000001,-122.333805,4bf58dd8d48988d114951735,Bookstore,Not Rated
+62,Grand Central Building - Lower Arcade,4ad5060ef964a5205c0121e3,Arundel Books,13,1001 1st Ave,47.600339649591646,-122.3339545726776,4bf58dd8d48988d114951735,Bookstore,Not Rated
+63,Grand Central Building - Lower Arcade,4d80fdff208a5481672a7f67,AEG Live NW,13,No Address,47.60041500000001,-122.333805,4bf58dd8d48988d118941735,Dive Bar,Not Rated
+64,Grand Central Building - Lower Arcade,4b7b20bbf964a52000532fe3,The Globe Bookstore,13,218 1st Ave S,47.60041500000001,-122.333805,4bf58dd8d48988d114951735,Bookstore,Not Rated
+65,Grand Central Building - Lower Arcade,4bdc76272a3a0f4792f2b2b6,Ticketmaster,13,No Address,47.60041500000001,-122.333805,4bf58dd8d48988d1f1931735,General Entertainment,Not Rated
+66,Grand Central Building - Lower Arcade,4d28d21377a2a1cd3b1f66b7,Wessel & Lieberman Booksellers,14,208 1st Ave S,47.60050964355469,-122.33379364013672,4bf58dd8d48988d114951735,Bookstore,Not Rated
+67,Grand Central Building - Lower Arcade,4a806ac1f964a5202df51fe3,Grand Central Building,15,216 1st Ave S,47.60036662258027,-122.33411282935309,4bf58dd8d48988d130941735,Building,Not Rated
+68,Grand Central Building - Lower Arcade,5cf70eeac03635002c3ffd80,Beacon Therapy,19,216 1st Ave S,47.600341796875,-122.3337860107422,52e81612bcbc57f1066b7a39,Mental Health Office,Not Rated
+69,Grand Central Building - Lower Arcade,4f40a8ace4b08cc371c98524,Central Tavern,22,207 1st Ave S,47.6005928861234,-122.33419199061264,4bf58dd8d48988d1e9931735,Rock Club,Not Rated
+70,Grand Central Building - Lower Arcade,47c7d19ff964a520f44d1fe3,Mediterranean Mix,22,205 1st Ave S,47.600605101014935,-122.3341759107208,4bf58dd8d48988d1c0941735,Mediterranean Restaurant,5.8
+71,Grand Central Building - Lower Arcade,49c04ce2f964a5205e551fe3,The Central Saloon,27,207 1st Ave S,47.60060405603378,-122.33426442258528,4bf58dd8d48988d118941735,Dive Bar,7.8
+72,Grand Central Building - Lower Arcade,52818f6511d2686bf631590b,Altstadt,32,209 1st Ave S,47.60048,-122.334399,4bf58dd8d48988d10d941735,German Restaurant,8.6
+73,Grand Central Building - Lower Arcade,4bda15f863c5c9b694a42268,Vittana,33,206 1st Ave S #310,47.600757,-122.333874,4bf58dd8d48988d127941735,Conference Room,Not Rated
+74,Grand Central Building - Lower Arcade,5ba5a8691c0b34002c7ff7dc,i5 Pho,47,213 1st Ave S,47.600331,-122.33456799999999,4bf58dd8d48988d14a941735,Vietnamese Restaurant,Not Rated
+75,Grand Central Building - Lower Arcade,49fe4977f964a5208b6f1fe3,Caffè Umbria,141,320 Occidental Ave S,47.59943514119855,-122.33285708962084,4bf58dd8d48988d1e0931735,Coffee Shop,8.6
+76,Ice Box,5026935be4b0f46cce569714,Holy High Consulate of Off World Affairs,13,No Address,47.65971891773214,-122.36465150161156,4e52d2d203646f7c19daa8ae,Animal Shelter,Not Rated
+77,Ice Box,49e3ceb2f964a520d9621fe3,Treehouse Bar & Grill,46,4332 Leary Way NW,47.65988494,-122.36536,4bf58dd8d48988d116941735,Bar,Not Rated
+78,Ice Box,501cc1e4e4b0db1da5c59349,Captain Spuds Gravy Grotto,48,No Address,47.659586543930644,-122.36420354092905,4bf58dd8d48988d1c9941735,Ice Cream Shop,Not Rated
+79,Ice Box,5e98dab9bf7b490007b73e9e,Tres’ House Of Cheesesteaks,49,No Address,47.659391,-122.364923,4bf58dd8d48988d1c5941735,Sandwich Place,Not Rated
+80,Ice Box,5019c731e4b081336a6e4a64,Doom Squad HQ,59,No Address,47.6596735007907,-122.36397953358185,4f4534884b9074f6e4fb0174,Funeral Home,Not Rated
+81,Ice Box,51d5d947498e004faff93afe,Bad Jimmy's Brewing Co.,66,4358B Leary Way NW,47.660077953176184,-122.36555330747845,50327c8591d4c4b30a586d5d,Brewery,7.8
+82,Ice Box,59001c8d86f4cc1af8e74e01,Big Mario's Frelard,70,4354 Leary Way NW,47.660042366702996,-122.36562539876593,4bf58dd8d48988d1ca941735,Pizza Place,6.9
+83,Ice Box,4a18afb8f964a520d9791fe3,Four B's,85,4300 Leary Way NW,47.65907350961956,-122.36449164352696,4bf58dd8d48988d116941735,Bar,6.4
+84,Ice Box,4cd61e2094848cfac846ebb1,Hale's Palladium,89,4301 Leary Way NW,47.65935268820093,-122.36571366703829,5032792091d4c4b30a586d5c,Concert Hall,8.2
+85,Ice Box,5ac3f52a9f8a9f450ead46c3,El Camion,89,4301 Leary Way NW,47.65903752503237,-122.36501112031759,4bf58dd8d48988d151941735,Taco Place,7.5
+86,Ice Box,5d0b15c7c9f907002ca6950c,S/T Hooligans,91,No Address,47.660254,-122.365789,4bf58dd8d48988d155941735,Gastropub,Not Rated
+87,Ice Box,40b13b00f964a52094f61ee3,Hale's Ales Brewery & Pub,98,4301 Leary Way NW,47.65894345068,-122.36455401068085,50327c8591d4c4b30a586d5d,Brewery,7.2
+88,Ice Box,4aaed84af964a520836320e3,Ballard Animal Hospital,130,4368 Leary Way NW,47.660625801518755,-122.36600573723301,4d954af4a243a5684765b473,Veterinarian,Not Rated
+89,Ice Box,58804495ea29b80cdc4f67c7,Ballard and Fremont Neighborhood Acupuncture,138,630 NW 44th St,47.661,-122.36534,52e81612bcbc57f1066b7a3b,Acupuncturist,Not Rated
+90,Ice Box,4fc66c11e4b035dd6537a68c,hertz equipment rental,142,No Address,47.65854493504226,-122.36486000057891,4bf58dd8d48988d130941735,Building,Not Rated
+91,Ice Box,4e44336c483b132669d34ff9,Allied Ice,143,615 NW Bright St,47.660801509952286,-122.36599120624143,4bf58dd8d48988d1ff941735,Miscellaneous Shop,Not Rated
+92,Ice Box,4b6df3b6f964a5207b9e2ce3,Pacific Crest Montessori School,146,600 NW Bright St,47.66069806858738,-122.36620883948817,4bf58dd8d48988d198941735,College Academic Building,Not Rated
+93,Ice Box,5520fa32498e1ca4cc95fcd9,The Substation,185,645 NW 45th St,47.66141435854388,-122.36546405069835,4bf58dd8d48988d11f941735,Nightclub,7.6
+94,Ice Box,4bca4081937ca5931c85a792,People's Storage,198,4213 Leary Way NW,47.658083311307315,-122.36417035047629,4f04b1572fb6e1c99f3db0bf,Storage Facility,Not Rated
+95,Klondike Arcade,535b2e0211d22bdbbe32fe22,bicycle tuk tuk,10,No Address,47.606163,-122.34067,4e4c9077bd41f78e849722f9,Bike Rental / Bike Share,Not Rated
+96,Klondike Arcade,4582a7a8f964a5207b3f1fe3,Pirates Plunder,13,1301 Alaskan Way,47.606198493796434,-122.34084060714308,4bf58dd8d48988d128951735,Gift Shop,7.3
+97,Klondike Arcade,52fa333911d2bde91aa08d8f,USCG Medical/Dental,18,No Address,47.60620097990539,-122.34044086644948,4bf58dd8d48988d177941735,Doctor's Office,Not Rated
+98,Klondike Arcade,527bfcc611d26e2440c7a89e,Sports Den,23,No Address,47.606112,-122.340896,4bf58dd8d48988d1f2941735,Sporting Goods Shop,Not Rated
+99,Klondike Arcade,51563a41e4b0af5148ca1b89,Yellow Pedicab,24,No Address,47.606303,-122.340992,4f2a23984b9023bd5841ed2c,Moving Target,Not Rated
+100,Klondike Arcade,4d978fd2af3d236a086127c7,Oyster Bar,33,1301 Alaskan Way,47.6059645,-122.34075636,4bf58dd8d48988d1ce941735,Seafood Restaurant,Not Rated
+101,Klondike Arcade,49e7ab3df964a520ff641fe3,The Crab Pot,35,1301 Alaskan Way,47.60603215273269,-122.34100272967571,4bf58dd8d48988d1ce941735,Seafood Restaurant,8.0
+102,Klondike Arcade,4c8ae4ef9ef0224b5c775f7b,Seattle Waterfront,37,2711-2799 Alaskan Way,47.60639398655344,-122.34112966639444,56aa371be4b08b9a8d5734c3,Waterfront,9.0
+103,Klondike Arcade,4c8c4d55ed3ab60c4cda6621,Seattle Bay Creamery,40,No Address,47.60590305116718,-122.34057096785864,4bf58dd8d48988d1d0941735,Dessert Shop,6.4
+104,Klondike Arcade,4dbcaa991e72b351cab99cd7,John T Williams Memorial Totem Pole Project,40,413 Harrison St,47.606371329161924,-122.34119173377684,4bf58dd8d48988d166941735,Sculpture Garden,Not Rated
+105,Klondike Arcade,4c77edff93ef236afa74aa0f,Alaskan Sourdough Bakery,44,1301 Alaskan Way,47.60616201806928,-122.34125559886057,4bf58dd8d48988d16a941735,Bakery,8.0
+106,Klondike Arcade,4a2cae26f964a5207f971fe3,Salmon Cooker,49,1301 Alaskan Way,47.60582068742915,-122.34079784489036,4bf58dd8d48988d1ce941735,Seafood Restaurant,5.7
+107,Klondike Arcade,4ef50c298b812e39d6465263,Argosy Cruises Visitors Center,52,No Address,47.605787015834466,-122.34060554656358,4bf58dd8d48988d12d951735,Boat or Ferry,Not Rated
+108,Klondike Arcade,4c269b763703d13a86bea536,Christopher Columbus Statue,59,No Address,47.60630874,-122.34146595,52e81612bcbc57f1066b79ed,Outdoor Sculpture,Not Rated
+109,Klondike Arcade,4b5fbee2f964a5200bcb29e3,Pier 57,60,1301 Alaskan Way,47.60624310701886,-122.3414881695478,4e74f6cabd41c4836eac4c31,Pier,Not Rated
+110,Klondike Arcade,4bb535b06edc76b017722f1c,Miners Landing,83,1301 Alaskan Way,47.60623713420722,-122.34179177572662,4bf58dd8d48988d1f1931735,General Entertainment,6.1
+111,Klondike Arcade,57d33f7c498ebd10a83ff80c,Wings Over Washington,104,No Address,47.606340433502616,-122.34206676419622,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction,8.2
+112,Klondike Arcade,4bbcb9d08a4fb713020f3c9d,Waterfront Park,109,1301 Alaskan Way,47.6069291389153,-122.34174462950551,4bf58dd8d48988d163941735,Park,8.6
+113,Klondike Arcade,4fbfa89ee4b0fddeca5b5cef,The Seattle Great Wheel,138,1301 Alaskan Way,47.60618085584233,-122.34251216287204,5109983191d435c0d71c2bb1,Theme Park Ride / Attraction,8.4
+114,Klondike Arcade,53333054498eeeaec1b5dd43,Seattle's Central Waterfront,142,No Address,47.605133961441844,-122.33975298821233,4bf58dd8d48988d164941735,Plaza,7.9
+115,Lipton's Arcade,532e85fc498e6bfb9a82f33a,wellspring of acedia,5,Too Close,47.61872793605072,-122.3268042833518,4fbc1be21983fc883593e321,Well,Not Rated
+116,Lipton's Arcade,4dd5cd0d45ddced8205fc848,Heights Roofdeck,6,No Address,47.61872388242932,-122.32682023047701,4bf58dd8d48988d165941735,Scenic Lookout,Not Rated
+117,Lipton's Arcade,57e41179498eb02742fb12ba,the Marc Condominuims,14,No Address,47.618729,-122.326958,4d954b06a243a5684965b473,Residential Building (Apartment / Condo),Not Rated
+118,Lipton's Arcade,4419bf98f964a5202f311fe3,Acme Barbershop,23,103 Bellevue Ave E,47.61856345962399,-122.32683163056092,4bf58dd8d48988d110951735,Salon / Barbershop,8.9
+119,Lipton's Arcade,4ee305e577c8e89316c4359f,Silliad,24,No Address,47.61895206978487,-122.32659131420046,4bf58dd8d48988d165941735,Scenic Lookout,Not Rated
+120,Lipton's Arcade,50875f2ee4b0661f4874ac78,The Snowdon,25,106 Bellevue Ave E,47.618796,-122.326435,4d954b06a243a5684965b473,Residential Building (Apartment / Condo),Not Rated
+121,Lipton's Arcade,58d1d959fa7ed044dae0aa79,La Gallerie Noire,28,115 Bellevue Ave E,47.61895,-122.32704,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+122,Lipton's Arcade,515b03dae4b05e07ede1a0e7,The 8,31,No Address,47.618592842048436,-122.32644625888165,4bf58dd8d48988d1fe931735,Bus Station,Not Rated
+123,Lipton's Arcade,4b5fb398f964a520fac829e3,"Saku Collins, PLLC",37,1808 Bellevue Ave Ste 201,47.61910200000001,-122.326866,52e81612bcbc57f1066b7a25,Pedestrian Plaza,Not Rated
+124,Lipton's Arcade,4d290c45467d6ea89f2ecc95,The Watchtower,41,Bellvue and Denny,47.6184207201004,-122.3265677690506,4bf58dd8d48988d141941735,Sorority House,Not Rated
+125,Lipton's Arcade,4bfdbcbee529c928386bbb8c,King County Metro Route 43,51,No Address,47.618797929043815,-122.32608661214168,4bf58dd8d48988d12b951735,Bus Line,Not Rated
+126,Lipton's Arcade,4d929bab7ac3a35d91f2c425,My Casio Keys,56,1816 Bellevue Ave,47.618324279785156,-122.32640838623048,4bf58dd8d48988d1f2931735,Performing Arts Venue,Not Rated
+127,Lipton's Arcade,4f00b2b88b81b0190ba93436,Portage Bay Cafe,66,No Address,47.61817373726474,-122.32675147075744,4bf58dd8d48988d16d941735,Café,Not Rated
+128,Lipton's Arcade,562bf3a4498efd46b9d85c1e,Beyond Vape,78,No Address,47.618632,-122.325751,56aa371be4b08b9a8d57355c,Vape Store,Not Rated
+129,Lipton's Arcade,56a5c544498e2d6b3701e18c,Dino's Tomato Pie,82,1524 E Olive Way,47.618317,-122.325908,4bf58dd8d48988d1ca941735,Pizza Place,8.4
+130,Lipton's Arcade,51020084e4b0fb39a60c00bf,Kedai Makan,101,1802 Bellevue Ave,47.61786262553451,-122.3267291671212,4bf58dd8d48988d156941735,Malay Restaurant,9.2
+131,Lipton's Arcade,588bfb248f0be469f0703b23,Pac-Man Parklet,107,110 Summit Ave E,47.61858020567873,-122.32536843218807,52e81612bcbc57f1066b7a25,Pedestrian Plaza,Not Rated
+132,Lipton's Arcade,4ad7d483f964a520280f21e3,Pretty Parlor,117,119 Summit Ave E,47.619194597587565,-122.3253414007047,4bf58dd8d48988d104951735,Boutique,7.9
+133,Lipton's Arcade,436e9900f964a520d9291fe3,Starbucks,151,1600 E Olive Way,47.619377,-122.32497,4bf58dd8d48988d1e0931735,Coffee Shop,7.5
+134,Next 50 Video Arcade,4c05ad548f8fa5931b44f20d,Kabab,1,305 Harrison St #219,47.621222741556025,-122.35084355026066,4bf58dd8d48988d10e941735,Greek Restaurant,5.4
+135,Next 50 Video Arcade,4fb96564e4b09edbcb9c99e8,Ceres Roasting Company,1,305 Harrison St,47.62122669848737,-122.35084536053397,4bf58dd8d48988d117951735,Candy Store,6.3
+136,Next 50 Video Arcade,49f780f4f964a520a96c1fe3,Seattle Children's Museum,2,305 Harrison St,47.621238893198424,-122.35081534658224,4bf58dd8d48988d181941735,Museum,6.1
+137,Next 50 Video Arcade,4b639debf964a5204a872ae3,Quincy's Real Charbroiled Burgers,3,305 Harrison St #205,47.62124178028085,-122.35085033042259,4bf58dd8d48988d14e941735,American Restaurant,5.2
+138,Next 50 Video Arcade,4b721b0df964a520006f2de3,Book-It Repertory Theatre,4,305 Harrison St,47.621219916229066,-122.35076560904841,4bf58dd8d48988d137941735,Theater,7.4
+139,Next 50 Video Arcade,4bd3783477b29c74b1f39082,The Frankfurter,4,305 Harrison St,47.6211995936219,-122.35087394714355,4bf58dd8d48988d16f941735,Hot Dog Joint,Not Rated
+140,Next 50 Video Arcade,53b71425498e7b6c99db223a,Blue Water Taco Grill,5,305 Harrison St,47.62119296986748,-122.35088343899919,4bf58dd8d48988d1c1941735,Mexican Restaurant,6.2
+141,Next 50 Video Arcade,5079eb59e4b08350ec7cd007,Popcornacopia,5,No Address,47.621174,-122.350807,4bf58dd8d48988d1d0941735,Dessert Shop,Not Rated
+142,Next 50 Video Arcade,4fcfaad0e4b056ec4bd0d157,Mod Pizza,6,305 Harrison St,47.62124075734349,-122.35074930241777,4bf58dd8d48988d1ca941735,Pizza Place,8.4
+143,Next 50 Video Arcade,49f780aaf964a520a86c1fe3,Armory at Seattle Center,7,305 Harrison St,47.62127894939906,-122.35086909169829,4bf58dd8d48988d171941735,Event Space,7.2
+144,Next 50 Video Arcade,4ffdcc77e4b07c449d9f6aa0,Skillet Counter,8,305 Harrison St,47.62128687020503,-122.35078769959624,4bf58dd8d48988d14e941735,American Restaurant,6.9
+145,Next 50 Video Arcade,4fbf9e756b74ad9bbf607772,Eltana Wood-Fired Bagel Cafe,8,305 Harrison St,47.621292140581204,-122.35082634245094,4bf58dd8d48988d179941735,Bagel Shop,7.0
+146,Next 50 Video Arcade,50f89887e4b031f03502e931,The Confectional,11,315 Harrison,47.62131446263752,-122.35088312405857,4bf58dd8d48988d1d0941735,Dessert Shop,Not Rated
+147,Next 50 Video Arcade,5d2135423221cb00238d8566,Armory Food Court,12,No Address,47.621319,-122.350892,4bf58dd8d48988d120951735,Food Court,Not Rated
+148,Next 50 Video Arcade,4bad59c7f964a52018493be3,Seattle Fudge,18,305 Harrison St,47.621387443726256,-122.350837411258,4bf58dd8d48988d1d0941735,Dessert Shop,7.5
+149,Next 50 Video Arcade,55ee414d498eabd1e97d014d,Premier Meat Pies,20,305 Harrison St,47.62140222678333,-122.35086347086113,52e81612bcbc57f1066b7a05,English Restaurant,5.9
+150,Next 50 Video Arcade,4ac16e89f964a520269720e3,Starbucks,22,305 Harrison St,47.62101816,-122.3507856,4bf58dd8d48988d1e0931735,Coffee Shop,6.5
+151,Next 50 Video Arcade,5557a646498ec05747dd5219,Cool Guys Fry Bar,23,305 Harrison St,47.62120761580141,-122.35113437947643,4bf58dd8d48988d1c7941735,Snack Place,5.7
+152,Next 50 Video Arcade,4f2334b8e4b0085e48b153c0,Chihuly Garden and Glass,86,305 Harrison St,47.62053407471117,-122.3502768596404,4bf58dd8d48988d18f941735,Art Museum,9.3
+153,Penny Arcade Warehouse,51229aa7e4b09c46582f9cb9,car2go Seattle,3,3131 Western Ave Ste 324,47.61825180053711,-122.35742950439452,4bf58dd8d48988d1ef941735,Rental Car Location,Not Rated
+154,Penny Arcade Warehouse,60540b69d1d8bf21a4bd1c06,MeDor,8,No Address,47.618226,-122.357361,4bf58dd8d48988d109941735,Eastern European Restaurant,Not Rated
+155,Penny Arcade Warehouse,5d11765d1822230025116c3b,Sanctuary,10,3134 Elliott Ave,47.618329,-122.35751100000002,4bf58dd8d48988d102941735,Yoga Studio,Not Rated
+156,Penny Arcade Warehouse,5c99c21c5b97110025ed3bfc,CREATE WITHIN,10,3131 Western Ave Ste 323,47.618166,-122.357382,554a5e17498efabeda6cc559,Photography Studio,Not Rated
+157,Penny Arcade Warehouse,5cd3f0770e3239002beb1602,Atlas Networks,10,3131 Western Ave,47.61833679999999,-122.3574813,5453de49498eade8af355881,Business Service,Not Rated
+158,Penny Arcade Warehouse,56993fbf498e99afdc259cfa,Tolo Events,10,3131 Western Ave,47.6181529,-122.3574177,5454152e498ef71e2b9132c6,Event Service,Not Rated
+159,Penny Arcade Warehouse,57dceeb0498e8cf7331c777d,Hourglass Escapes - Seattle Escape Room Games,11,3131 Western Ave,47.61815237,-122.35754668,5f2c2834b6d05514c704451e,Escape Room,Not Rated
+160,Penny Arcade Warehouse,4c0d2515b1b676b04720e086,Imagekind,12,3131 Elliott Ave,47.618126,-122.357477,4bf58dd8d48988d130941735,Building,Not Rated
+161,Penny Arcade Warehouse,5cca3828b399f7002c701a5e,On The Mark Loft,17,No Address,47.618109,-122.357345,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+162,Penny Arcade Warehouse,4be84bb288ed2d7f51b2cb1d,LiveAreaLabs,18,3131 Western Ave,47.61833371088272,-122.35766833233284,4bf58dd8d48988d124941735,Office,Not Rated
+163,Penny Arcade Warehouse,4bb0e605f964a5200c683ce3,Foodista,23,3131 Western Ave,47.618332,-122.357186,4bf58dd8d48988d125941735,Tech Startup,Not Rated
+164,Penny Arcade Warehouse,4f7cd487e4b0bd0cff8f3a22,Relaborate,27,No Address,47.61802,-122.357303,4bf58dd8d48988d130941735,Building,Not Rated
+165,Penny Arcade Warehouse,5d54ba95306d020008be856d,Aura Aura,30,No Address,47.617966,-122.357477,4bf58dd8d48988d131941735,Spiritual Center,Not Rated
+166,Penny Arcade Warehouse,4aeb63a9f964a520a5c121e3,Northwest Work Lofts,38,3131 Western Ave,47.61851213633717,-122.3577970820792,4bf58dd8d48988d124941735,Office,Not Rated
+167,Penny Arcade Warehouse,4a81eb6ff964a520fbf71fe3,Waterfront Deli & Sundries,42,3131 Elliott Ave; Parking Garage,47.61793489676377,-122.35780269474282,4bf58dd8d48988d146941735,Deli / Bodega,6.8
+168,Penny Arcade Warehouse,57be4b3b498e8c0ba7e2a2cf,Alphagraphics Seattle 7th Floor,64,3131 Elliott Ave,47.61769485473633,-122.35774230957031,52f2ab2ebcbc57f1066b8b28,Print Shop,Not Rated
+169,Penny Arcade Warehouse,4b15e5bff964a5206ab523e3,Shell,96,10 Denny Way,47.61883205989978,-122.35652368775499,4bf58dd8d48988d113951735,Gas Station,6.4
+170,Penny Arcade Warehouse,45b348a3f964a520a9411fe3,Olympic Sculpture Park,290,2901 Western Ave,47.61636542390172,-122.35478134122522,4bf58dd8d48988d166941735,Sculpture Garden,9.0
+171,Penny Arcade Warehouse,4cdd9fddf8cdb1f724d88512,Fuse IQ,2787,220 2nd Ave S,47.6005134,-122.33123614,4bf58dd8d48988d124941735,Office,Not Rated
+172,Penny Arcade Warehouse,52f50396498e00e90ec29ff2,Blindtiger Design,5948,2012 NW Market Street,47.66886901855469,-122.38284301757812,4bf58dd8d48988d1f4941735,Design Studio,Not Rated
+173,Portal Virtual Reality Arcade,6072203e95b708497101a3c3,The Barn Owl,8,2611 NW Market St,47.668414,-122.390644,4bf58dd8d48988d101951735,Thrift / Vintage Store,Not Rated
+174,Portal Virtual Reality Arcade,569af92e498e069f1181521a,Powder Haus,11,2607 NW Market St,47.6684684753418,-122.39063262939452,4eb1c0253b7b52c0e1adc2e9,Garden Center,Not Rated
+175,Portal Virtual Reality Arcade,5019dfade4b05ddf5426df42,Seattle Creative Arts Center,17,No Address,47.66848738458877,-122.39034645304669,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+176,Portal Virtual Reality Arcade,5d62f41b29859c000827776b,Le Merde,20,No Address,47.668561,-122.390632,4bf58dd8d48988d103951735,Clothing Store,Not Rated
+177,Portal Virtual Reality Arcade,4c5499c630f92d7fe112bcba,Limback Lumber,44,5598 26th Ave. NW,47.668764,-122.3903456,4bf58dd8d48988d112951735,Hardware Store,Not Rated
+178,Portal Virtual Reality Arcade,4e03cab718a877730b751ccd,Ballard Inflatable Boats,64,2611 NW Market St,47.668427,-122.391398,4bf58dd8d48988d1f2941735,Sporting Goods Shop,Not Rated
+179,Portal Virtual Reality Arcade,57534f5b498edb6da7424bcc,Rad Power Bikes,70,2622 NW Market St Ste B,47.66874,-122.39131,4bf58dd8d48988d115951735,Bike Shop,Not Rated
+180,Portal Virtual Reality Arcade,49ea7da5f964a52073661fe3,Firehouse Coffee,88,2622 NW Market St,47.66878064399137,-122.39155747750972,4bf58dd8d48988d1c5941735,Sandwich Place,6.6
+181,Portal Virtual Reality Arcade,60e0f56c26f0b0007381a663,National Nordic Museum Gift Shop,107,No Address,47.668419,-122.391972,4bf58dd8d48988d128951735,Gift Shop,Not Rated
+182,Portal Virtual Reality Arcade,5b0764ade97dfb002cf32376,Freya,115,2655 NW Market St,47.668306,-122.392068,4bf58dd8d48988d1c6941735,Scandinavian Restaurant,Not Rated
+183,Portal Virtual Reality Arcade,4b088584f964a5209a0d23e3,Nordic Heritage Museum,127,3014 NW 67th St,47.668330734269816,-122.3922336101532,4bf58dd8d48988d181941735,Museum,8.3
+184,Portal Virtual Reality Arcade,4d0bb86bdd5fa1cd75b05a89,Stabbert Maritime,128,2629 NW 54th St #201,47.667471,-122.391567,4bf58dd8d48988d124941735,Office,Not Rated
+185,Portal Virtual Reality Arcade,5414a8d6498ecf2e47156b2d,AMLI Mark 24,140,2428 NW Market St,47.668797657220345,-122.38876043052713,4d954b06a243a5684965b473,Residential Building (Apartment / Condo),Not Rated
+186,Portal Virtual Reality Arcade,4b2e947df964a520e1e224e3,Habitude Salons and Spa,198,2801 NW Market St,47.66840849981311,-122.39317505629481,4bf58dd8d48988d1ed941735,Spa,8.2
+187,Portal Virtual Reality Arcade,4c59f82b6407d13a3395b328,Market Street Spirit SVC,200,5505 24th Ave NW,47.66895294189453,-122.38799285888672,4bf58dd8d48988d113951735,Gas Station,Not Rated
+188,Portal Virtual Reality Arcade,59124e23018cbb04fa48cb63,El Taco Loco,329,2840 NW Market St,47.66889572143555,-122.39486694335938,4bf58dd8d48988d151941735,Taco Place,Not Rated
+189,Rod's Pinball Arcade,51589943e4b0e55dacc0b04b,Rock at the top - Kubota Gardens,220,No Address,47.51357678741876,-122.27005306323464,4bf58dd8d48988d15a941735,Garden,Not Rated
+190,Rod's Pinball Arcade,4bc20096b492d13ae6bfa660,Tabernacle of Praise Church,425,10201 Beacon Ave S,47.50933966736083,-122.27120317607914,4bf58dd8d48988d132941735,Church,Not Rated
+191,Rod's Pinball Arcade,4ea6f2792c5b614a690b96a2,SoundTransit - Link LRV 145,461,No Address,47.51180166361493,-122.278734822368,4bf58dd8d48988d1fc931735,Light Rail Station,Not Rated
+192,Rod's Pinball Arcade,4a95b7fbf964a520492420e3,Kubota Garden,541,9817 55th Ave S,47.51276718548746,-122.26566166089441,4bf58dd8d48988d15a941735,Garden,8.4
+193,Rod's Pinball Arcade,4e3ab1e3d4c05163b452acc6,Bus Route 106,562,No Address,47.514339938759385,-122.26564009939892,4bf58dd8d48988d12b951735,Bus Line,Not Rated
+194,Rod's Pinball Arcade,4c27dfb49fb5d13ab1cc9857,Seattle City Fire Station #33,566,No Address,47.5168464942014,-122.26793035778148,4bf58dd8d48988d12c941735,Fire Station,Not Rated
+195,Rod's Pinball Arcade,4fe0fb5de4b0b00676a0c361,ryan st bridge,670,No Address,47.508054556036996,-122.27796304305315,4bf58dd8d48988d1df941735,Bridge,Not Rated
+196,Rod's Pinball Arcade,612bc694acf8b313c631bde2,Checkmate,735,No Address,47.513206,-122.263075,4bf58dd8d48988d1f3941735,Toy / Game Store,Not Rated
+197,Rod's Pinball Arcade,60f5f11b43abcc74150ce29a,The Upside Down,740,No Address,47.51307,-122.263004,4bf58dd8d48988d124941735,Office,Not Rated
+198,Rod's Pinball Arcade,4b7c2798f964a5209b802fe3,Neighborcare Health Rainier Beach Medical & Dental Clinic,776,9245 Rainier Ave S,47.5194937486109,-122.26910728374236,4bf58dd8d48988d177941735,Doctor's Office,Not Rated
+199,Rod's Pinball Arcade,4d901cef1716a1435aa85af7,St. Paul Parish,805,10001 57th Ave S,47.510770270603686,-122.26265504973864,4bf58dd8d48988d132941735,Church,Not Rated
+200,Rod's Pinball Arcade,4ec2ed220e01c7563d2b11fa,Seattle Best Cleaners,865,9305 Rainier Ave S,47.51968183827097,-122.26698708760831,4bf58dd8d48988d1fc941735,Laundry Service,Not Rated
+201,Rod's Pinball Arcade,4c323668a0ced13a14c6146e,Link Light Rail,900,No Address,47.50714017789074,-122.28111635754736,4bf58dd8d48988d1fc931735,Light Rail Station,Not Rated
+202,Rod's Pinball Arcade,4fc94575d4f24895b4467252,Starbucks,934,9262 Rainier Ave S,47.52072250087834,-122.26799913802799,4bf58dd8d48988d1e0931735,Coffee Shop,7.2
+203,Rod's Pinball Arcade,56e3fbad498efc6a64f6953f,KBFI (Boeing Field),936,No Address,47.506199,-122.280202,4bf58dd8d48988d1ed931735,Airport,Not Rated
+204,Rod's Pinball Arcade,4c0174de0bce20a1f6c7f6c6,State Liquor Store,960,9258 Rainier Ave S,47.521012,-122.268126,4bf58dd8d48988d186941735,Liquor Store,Not Rated
+205,Rod's Pinball Arcade,4e5c0b06ae6015fd0d99c418,Washington Dry Cleaners,960,9252 Rainier Ave S,47.521012,-122.268126,4bf58dd8d48988d1fc941735,Laundry Service,Not Rated
+206,Rod's Pinball Arcade,515c82cdf0e4172442779f53,KFC,961,9401 Rainier Ave S,47.51963052492938,-122.26467402327265,4d4ae6fc7a7b7dea34424761,Fried Chicken Joint,6.2
+207,Rod's Pinball Arcade,5229144111d2e0ef3718a02a,The Nolo,10461,520 Occidental Ave S,47.59770847169758,-122.33313789482813,4d954b06a243a5684965b473,Residential Building (Apartment / Condo),Not Rated
+208,SanTe's Arcade,54ca6a4e498e400f52dc882e,High Rise Building Service,245,8600 25th Ave SW Apt B310,47.52599334716797,-122.36415100097656,4bf58dd8d48988d1fc941735,Laundry Service,Not Rated
+209,SanTe's Arcade,50934e87e4b0e52fa280d29e,Centerwood,251,No Address,47.527224,-122.360783,4f2a210c4b9023bd5841ed28,Housing Development,Not Rated
+210,SanTe's Arcade,4acb9881f964a5207bc420e3,Department of Licensing,287,8830 25th Ave SW,47.52336428484038,-122.36421521434582,4bf58dd8d48988d126941735,Government Building,Not Rated
+211,SanTe's Arcade,4b5b9bbcf964a520a50a29e3,Staples,294,2501 SW Trenton Street,47.524292,-122.365026,4bf58dd8d48988d121951735,Paper / Office Supplies Store,5.6
+212,SanTe's Arcade,56d0c5b1cd108d8f9cbbb95f,Franciscan Medical Clinic - Westwood,317,2511 S.W. Trenton St.,47.524162,-122.3652876,4bf58dd8d48988d104941735,Medical Center,Not Rated
+213,SanTe's Arcade,4afb35edf964a5201d1c22e3,Marshalls,428,2600 SW Barton St,47.52320870000001,-122.36629340000002,4bf58dd8d48988d1f6941735,Department Store,7.6
+214,SanTe's Arcade,587a9c947ff1e421e3deb485,Uncorked Canvas,439,No Address,47.523088,-122.366374,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+215,SanTe's Arcade,4b876f9df964a52043bf31e3,US Post Office,455,2721 SW Trenton St,47.524089305521954,-122.36716032028198,4bf58dd8d48988d172941735,Post Office,6.0
+216,SanTe's Arcade,55723175498ea7cb022997ab,West Seattle Welllness,459,No Address,47.522538,-122.366165,4bf58dd8d48988d1ed941735,Spa,Not Rated
+217,SanTe's Arcade,4b64aef0f964a52037c82ae3,HairMasters,459,9027 25th Ave SW,47.522538,-122.366165,4bf58dd8d48988d110951735,Salon / Barbershop,Not Rated
+218,SanTe's Arcade,49c811cef964a520ed571fe3,24 Hour Fitness,465,2500 W Bertona St,47.52252592024568,-122.3662570911865,4bf58dd8d48988d175941735,Gym / Fitness Center,5.3
+219,SanTe's Arcade,601726e311a18e08e023ccde,Good Dog daycare & Boarding,474,9064 Delridge Way SW,47.521217,-122.35828899999998,5032897c91d4c4b30a586d69,Pet Service,Not Rated
+220,SanTe's Arcade,5dc9d02fba935000085db2a9,Sound Transit 560,479,No Address,47.5213,-122.36455,52f2ab2ebcbc57f1066b8b4f,Bus Stop,Not Rated
+221,SanTe's Arcade,57a6a800cd1007d199bc3908,Wingstop,490,2600 SW Barton St Ste B8,47.522665895855006,-122.36679226681619,4bf58dd8d48988d14c941735,Wings Joint,7.0
+222,SanTe's Arcade,4d51da474015b1f7108e74cf,Good E's,502,9201 Delridge Way SW,47.520789,-122.358759,4bf58dd8d48988d124951735,Automotive Shop,Not Rated
+223,SanTe's Arcade,4fc6b3e3e4b0ab14409485da,Denny Field,539,No Address,47.52726745605469,-122.3675765991211,4bf58dd8d48988d1e8941735,Baseball Field,Not Rated
+224,SanTe's Arcade,4c26a0be905a0f4707b06360,Chief Sealth High School Stadium,542,2600 SW Thistle St,47.527370338410904,-122.36753391893959,4cce455aebf7b749d5e191f5,Soccer Field,Not Rated
+225,SanTe's Arcade,5c919255061b510039eb7b66,Jotungym,548,No Address,47.529218,-122.357515,4bf58dd8d48988d176941735,Gym,Not Rated
+226,SanTe's Arcade,5599c38d498e31f942d33b9b,Vonhalla,550,8128 18th Ave SW,47.52919006347656,-122.3573760986328,4bf58dd8d48988d1d4941735,Speakeasy,Not Rated
+227,SanTe's Arcade,4c4fa8bbf080a59368df34e1,Westwood Village,564,2600 SW Barton St,47.52168503191954,-122.36694950365944,4bf58dd8d48988d1fd941735,Shopping Mall,6.5
+228,Seattle Interactive Media Museum,4fb96564e4b09edbcb9c99e8,Ceres Roasting Company,1,305 Harrison St,47.62122669848737,-122.35084536053397,4bf58dd8d48988d117951735,Candy Store,6.3
+229,Seattle Interactive Media Museum,4c05ad548f8fa5931b44f20d,Kabab,2,305 Harrison St #219,47.621222741556025,-122.35084355026066,4bf58dd8d48988d10e941735,Greek Restaurant,5.4
+230,Seattle Interactive Media Museum,49f780f4f964a520a96c1fe3,Seattle Children's Museum,2,305 Harrison St,47.621238893198424,-122.35081534658224,4bf58dd8d48988d181941735,Museum,6.1
+231,Seattle Interactive Media Museum,5064c506e4b06062642548ae,Next 50 Video Arcade,3,Seattle Center,47.62121962265271,-122.35082739195472,4bf58dd8d48988d1e1931735,Arcade,Not Rated
+232,Seattle Interactive Media Museum,49f780aaf964a520a86c1fe3,Armory at Seattle Center,4,305 Harrison St,47.62127894939906,-122.35086909169829,4bf58dd8d48988d171941735,Event Space,7.2
+233,Seattle Interactive Media Museum,4bd3783477b29c74b1f39082,The Frankfurter,4,305 Harrison St,47.6211995936219,-122.35087394714355,4bf58dd8d48988d16f941735,Hot Dog Joint,Not Rated
+234,Seattle Interactive Media Museum,53b71425498e7b6c99db223a,Blue Water Taco Grill,5,305 Harrison St,47.62119296986748,-122.35088343899919,4bf58dd8d48988d1c1941735,Mexican Restaurant,6.2
+235,Seattle Interactive Media Museum,4fbf9e756b74ad9bbf607772,Eltana Wood-Fired Bagel Cafe,5,305 Harrison St,47.621292140581204,-122.35082634245094,4bf58dd8d48988d179941735,Bagel Shop,7.0
+236,Seattle Interactive Media Museum,4fcfaad0e4b056ec4bd0d157,Mod Pizza,7,305 Harrison St,47.62124075734349,-122.35074930241777,4bf58dd8d48988d1ca941735,Pizza Place,8.4
+237,Seattle Interactive Media Museum,4ffdcc77e4b07c449d9f6aa0,Skillet Counter,7,305 Harrison St,47.62128687020503,-122.35078769959624,4bf58dd8d48988d14e941735,American Restaurant,6.9
+238,Seattle Interactive Media Museum,4b721b0df964a520006f2de3,Book-It Repertory Theatre,7,305 Harrison St,47.621219916229066,-122.35076560904841,4bf58dd8d48988d137941735,Theater,7.4
+239,Seattle Interactive Media Museum,50f89887e4b031f03502e931,The Confectional,8,315 Harrison,47.62131446263752,-122.35088312405857,4bf58dd8d48988d1d0941735,Dessert Shop,Not Rated
+240,Seattle Interactive Media Museum,5d2135423221cb00238d8566,Armory Food Court,9,No Address,47.621319,-122.350892,4bf58dd8d48988d120951735,Food Court,Not Rated
+241,Seattle Interactive Media Museum,4bad59c7f964a52018493be3,Seattle Fudge,16,305 Harrison St,47.621387443726256,-122.350837411258,4bf58dd8d48988d1d0941735,Dessert Shop,7.5
+242,Seattle Interactive Media Museum,55ee414d498eabd1e97d014d,Premier Meat Pies,17,305 Harrison St,47.62140222678333,-122.35086347086113,52e81612bcbc57f1066b7a05,English Restaurant,5.9
+243,Seattle Interactive Media Museum,5557a646498ec05747dd5219,Cool Guys Fry Bar,21,305 Harrison St,47.62120761580141,-122.35113437947643,4bf58dd8d48988d1c7941735,Snack Place,5.7
+244,Seattle Interactive Media Museum,4ac16e89f964a520269720e3,Starbucks,25,305 Harrison St,47.62101816,-122.3507856,4bf58dd8d48988d1e0931735,Coffee Shop,6.5
+245,Seattle Interactive Media Museum,4fcfaa4be4b0313628b79370,Bigfood,26,305 Harrison St,47.62147156295949,-122.35091889712471,4bf58dd8d48988d1df931735,BBQ Joint,7.2
+246,Seattle Interactive Media Museum,4f2334b8e4b0085e48b153c0,Chihuly Garden and Glass,89,305 Harrison St,47.62053407471117,-122.3502768596404,4bf58dd8d48988d18f941735,Art Museum,9.3
+247,ShopsArcade,4b7c2721f964a52073802fe3,City Calvary Chapel,131,15211 15th Ave NE,47.739143,-122.313353,4bf58dd8d48988d132941735,Church,Not Rated
+248,ShopsArcade,4b840d88f964a520901d31e3,Paramount Park Open Space,201,15219-15225 11th Ave NE,47.738922964811174,-122.3176543217531,4bf58dd8d48988d163941735,Park,Not Rated
+249,ShopsArcade,5ab0562597cf5a0e410f176a,Sound Veterinary Rehabilitation Center,305,14820 15th Ave NE,47.737312,-122.312473,4d954af4a243a5684765b473,Veterinarian,Not Rated
+250,ShopsArcade,513e94aae4b04856b1facba8,Shoreline Tennis Courts,313,19030 1st Avenue NEW,47.74198007713671,-122.316836694859,4e39a956bd410d7aed40cbc3,Tennis Court,Not Rated
+251,ShopsArcade,4bf81226b182c9b648c6765a,Animal Surgical Clinic Of Seattle,347,14810 15th Ave NE Ste A,47.73688113577876,-122.31237637439631,4d954af4a243a5684765b473,Veterinarian,Not Rated
+252,ShopsArcade,4e7e0473722ea05189dcb717,Paramount Skate Park,387,No Address,47.74113560945585,-122.31957679933151,4bf58dd8d48988d167941735,Skate Park,Not Rated
+253,ShopsArcade,4c1aacb4624b9c74e8761204,Paramount Park,413,15300 8th Ave. NE,47.74010259638061,-122.32048988342285,4bf58dd8d48988d1e7941735,Playground,7.6
+254,ShopsArcade,561064c2498e106b57ba781a,Shoreline Elks #1800,473,14625,47.73543485406717,-122.31289113089686,52e81612bcbc57f1066b7a35,Club House,Not Rated
+255,ShopsArcade,4ab459eff964a520fa7020e3,Zaika,492,14622 15th Ave NE,47.73538208007813,-122.31240844726562,4bf58dd8d48988d10f941735,Indian Restaurant,Not Rated
+256,ShopsArcade,4da76747f7b12d2d99f49e20,Fircrest RHC,496,No Address,47.74347172426845,-122.31224583603182,4bf58dd8d48988d130941735,Building,Not Rated
+257,ShopsArcade,60bf8bb25469eb35cfb21089,I’m Stuck!,506,No Address,47.73517,-122.317458,4bf58dd8d48988d163941735,Park,Not Rated
+258,ShopsArcade,4b09ee90f964a520fa1f23e3,Black Pearl,531,14602 15th Ave NE,47.73500311232711,-122.31240738842676,4bf58dd8d48988d145941735,Chinese Restaurant,Not Rated
+259,ShopsArcade,4da47e7cb1c93704ca5811a2,Allpet Veterinary Clinic,582,1222 NE 145th St,47.734215999999996,-122.31446100000001,4d954af4a243a5684765b473,Veterinarian,Not Rated
+260,ShopsArcade,4e19d84dc65b6bfb591bffdd,Northgate Gospel Chapel,625,No Address,47.734026429320146,-122.3127607255368,4bf58dd8d48988d132941735,Church,Not Rated
+261,ShopsArcade,512fd6053d7cdb2ceefb8beb,Chevron,672,1554 NE 145th St,47.734235,-122.31046599999999,4bf58dd8d48988d113951735,Gas Station,6.3
+262,ShopsArcade,57211ec8498e0718cd782a7c,Grass & Glass!,698,14343 15th Ave NE,47.733296,-122.31308899999999,52c71aaf3cf9994f4e043d17,Marijuana Dispensary,Not Rated
+263,ShopsArcade,4ebb0165e300944dd2130252,South Woods Park,735,No Address,47.73850680819884,-122.30533397670843,4bf58dd8d48988d163941735,Park,Not Rated
+264,ShopsArcade,4e31c4302fb6ede816e38acd,Redbox,756,1531 NE 145th St,47.73326873779297,-122.31078338623048,4bf58dd8d48988d126951735,Video Store,6.6
+265,ShopsArcade,4b30fdd5f964a520d1fd24e3,Hamlin Park,832,16000 15th Ave NE,47.74522176570872,-122.30803469043462,4bf58dd8d48988d163941735,Park,8.3
+266,ShopsArcade,4b4cf500f964a52078c526e3,Java Jane,1892,14500 15th Ave NE,47.72245382665908,-122.31650759754385,4bf58dd8d48988d1e0931735,Coffee Shop,7.6
+267,Time masheen arcade,5201758d498e9a06f4fc0702,Tahzoo,26,506 2nd Ave,47.601742659170256,-122.33088333544693,4bf58dd8d48988d124941735,Office,Not Rated
+268,Time masheen arcade,4fdfa7e4e4b006e916707d23,Prefontaine Place,40,Prefontaine Place,47.60186247553374,-122.33093440532684,4bf58dd8d48988d164941735,Plaza,Not Rated
+269,Time masheen arcade,4a02aaa5f964a52061711fe3,City Hall Park,49,450 3rd Ave.,47.60198920394335,-122.3306777486063,4bf58dd8d48988d163941735,Park,6.1
+270,Time masheen arcade,4cb64ca31b0af04d8cbecf25,4Culture,51,101 Prefontaine Pl S,47.601556309861785,-122.33000236856323,4bf58dd8d48988d124941735,Office,Not Rated
+271,Time masheen arcade,4b226885f964a520694624e3,Quintessa Apartments,54,201 Yesler Way,47.60168494963784,-122.3313782410518,4d954b06a243a5684965b473,Residential Building (Apartment / Condo),Not Rated
+272,Time masheen arcade,4c250841f7ced13adfda236d,Yesler & Prefontaine,68,No Address,47.60150816550027,-122.32977120269577,4bf58dd8d48988d1fe931735,Bus Station,Not Rated
+273,Time masheen arcade,4c8aac029ef0224b65085d7b,Wai-ching Studio,68,Yesler,47.601183455128535,-122.32994760618828,4bf58dd8d48988d12b941735,Courthouse,Not Rated
+274,Time masheen arcade,4ac55be8f964a520b2b120e3,Tashiro Kaplan Bldg,83,115 Prefontaine Pl S,47.601113,-122.329778,4bf58dd8d48988d1e2931735,Art Gallery,Not Rated
+275,Time masheen arcade,4b3bfb6df964a520c17f25e3,Pioneer Square LINK Station,84,3rd Ave,47.602275529891656,-122.33099943523224,4bf58dd8d48988d1fc931735,Light Rail Station,Not Rated
+276,Time masheen arcade,4b435811f964a520b2de25e3,Metro Bus Stop #500,89,3rd Ave & James St,47.60229290998546,-122.33113288879395,52f2ab2ebcbc57f1066b8b4f,Bus Stop,Not Rated
+277,Time masheen arcade,4a02b07bf964a52069711fe3,Smith Tower,95,506 2nd Ave,47.601914,-122.331831,4bf58dd8d48988d130941735,Building,8.4
+278,Time masheen arcade,4f4a9c22e4b0b1e352177bc2,Smith Tower Observation Deck,96,Smith Tower,47.60187700905276,-122.33186550011222,4bf58dd8d48988d165941735,Scenic Lookout,7.7
+279,Time masheen arcade,5ab5e04ce679bc6844b3448d,Smith Tower Observation Bar,98,506 2nd Ave,47.60201211476762,-122.33179258432051,4bf58dd8d48988d11e941735,Cocktail Bar,8.4
+280,Time masheen arcade,4edeb279d3e36374e1420171,Columbia Center Parking,101,No Address,47.602437897216674,-122.33043377462099,4c38df4de52ce0d596b336e1,Parking,Not Rated
+281,Time masheen arcade,563b0739cd102a1386bd1f0a,Stage Seattle,103,No Address,47.6010349,-122.3318341,4bf58dd8d48988d1e5931735,Music Venue,Not Rated
+282,Time masheen arcade,57a213a0498e401d23573b3c,King County District Court,123,No Address,47.602652,-122.330592,4bf58dd8d48988d12b941735,Courthouse,Not Rated
+283,Time masheen arcade,455c500ef964a5206e3d1fe3,Tat's Delicatessen,136,159 Yesler Way,47.601901016106545,-122.3324232258795,4bf58dd8d48988d1c5941735,Sandwich Place,9.0
+284,Time masheen arcade,4fb28b3ce4b0e2be9a5d879e,Portent Inc,398,307 3rd Ave S,47.6042719,-122.3341177,4bf58dd8d48988d125941735,Tech Startup,Not Rated
+285,Time masheen arcade,4e1266b07d8b4d5613e3971f,Nam Duong,590,417 7th Ave S,47.598607,-122.32413100000001,4bf58dd8d48988d126951735,Video Store,Not Rated
